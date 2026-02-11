@@ -1,15 +1,10 @@
-## Evaluating Large Language Models on Non-Code Software Engineering Tasks
+## SELU: A Software Engineering Language Understanding Benchmark
 
 Source code to replicate the results reported in *F. Peña, S. Herbold, "Evaluating Large Language Models on Non-Code Software Engineering Tasks," 2025*.
 
 ### :memo: Abstract
 
-Large Language Models (LLMs) have demonstrated remarkable capabilities in code understanding and generation; however, their effectiveness on non‐code Software Engineering (SE) tasks remains underexplored. We present the first comprehensive benchmark, which we name 'Software Engineering Language Understanding' (SELU), for evaluating LLMs on 17 non‐code tasks, spanning from identifying whether a requirement is functional or non-functional to estimating the effort and complexity of backlog items. SELU covers classification, regression, Named Entity Recognition (NER), and Masked Language Modeling (MLM) targets, with data drawn from diverse sources such as code repositories, issue tracking systems, and developer forums. We fine-tune 22 open-source LLMs, prompt two proprietary alternatives, and train two baselines. Performance is measured using metrics such as F1-macro, SMAPE, F1-micro, and accuracy, and compared via the Bayesian signed-rank test. Our results show that moderate-scale decoder-only models consistently form a top-tier, exhibiting high mean performance and low across-task variance, while domain adaptation via code-focused pre-training might yield only modest improvements. These insights guide model selection for non-code SE workflows and highlight directions for expanding SELU to generative and design-oriented scenarios.
-
-### :robot: Models
-
-We publish all fine-tuned open-source LLMs on Hugging Face on the [Chair of AI Engineering, University of Passau
-](https://huggingface.co/aieng-lab) organization under MIT license. Each model follows a common naming syntax: *`{model}_{task}`*. For instance, *`CodeLlama-7b-hf_bug-issue`* is the fine-tuned version of [meta-llama/CodeLlama-7b-hf](https://huggingface.co/meta-llama/CodeLlama-7b-hf) for the *bug_issue* task.
+Large Language Models (LLMs) have demonstrated remarkable capabilities in code understanding and generation. However, their effectiveness on non‐code Software Engineering (SE) tasks remains underexplored. We present `Software Engineering Language Understanding' (SELU), the first comprehensive benchmark for evaluating LLMs on 22 SE textual artifacts NLU tasks, spanning from identifying whether a requirement is functional or non-functional to estimating the effort required to implement a development task. SELU covers classification, regression, Named Entity Recognition (NER), and Masked Language Modeling (MLM) tasks, with data drawn from diverse sources such as issue tracking systems and developer forums. We fine-tune 22 open-source LLMs, both generalist and domain-adapted; and prompt two proprietary alternatives using zero-shot a 3-shot prompting strategies. Performance is measured using metrics such as F1-macro, SMAPE, F1-micro, and accuracy, and compared via the Bayesian signed-rank test. Our results show that fine-tuned models across various sizes and architectures perform best, exhibiting high mean performance and low across-task variance. Furthermore, domain adaptation via code-focused pre-training does not yield significant improvements and might even be counterproductive for developer communication tasks.
 
 ### :card_index_dividers: Repository organization
 
@@ -20,7 +15,7 @@ We publish all fine-tuned open-source LLMs on Hugging Face on the [Chair of AI E
 
 ### :gear: Setup
 
-All of our experiments run on a server with 8 NVIDIA A100 GPUs.
+All our experiments are run on a server with 8 NVIDIA A100 GPUs.
 
 ### :bookmark: Cite as
 
