@@ -20,7 +20,7 @@ All our experiments are run on a server with 8 NVIDIA A100 GPUs.
 ### :bookmark: Cite as
 
 ```
-@misc{peña2025evaluatinglargelanguagemodels,
+@misc{peña2025selu,
   title={Evaluating Large Language Models on Non-Code Software Engineering Tasks}, 
   author={Fabian C. Peña and Steffen Herbold},
   year={2025},
