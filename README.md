@@ -1,6 +1,6 @@
 ## SELU: A Software Engineering Language Understanding Benchmark
 
-Source code to replicate the results reported in *F. Peña, S. Herbold, "Evaluating Large Language Models on Non-Code Software Engineering Tasks," 2025*.
+Source code to replicate the results reported in *F. Peña, S. Herbold, "SELU: A Software Engineering Language Understanding Benchmark," 2025*.
 
 ### :memo: Abstract
 
@@ -21,7 +21,7 @@ All our experiments are run on a server with 8 NVIDIA A100 GPUs.
 
 ```
 @misc{peña2025selu,
-  title={Evaluating Large Language Models on Non-Code Software Engineering Tasks}, 
+  title={SELU: A Software Engineering Language Understanding Benchmark}, 
   author={Fabian C. Peña and Steffen Herbold},
   year={2025},
   eprint={2506.10833},
