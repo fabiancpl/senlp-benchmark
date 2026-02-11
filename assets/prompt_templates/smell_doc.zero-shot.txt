@@ -1,0 +1,11 @@
+In the context of software codebases, classify the next documentation as 'fragmented', 'tangled', 'excessive', 'bloated', or 'lazy'. It is possible to assign more than one class to a document. Answer only with the selected classes separated by semicolon (,) without quotation marks.
+
+The meaning of each class is as follows:
+fragmented: The documentation is scattered (i.e., fragmented) over too many pages or sections.
+tangled: The documentation is tangled with various information (e.g., from other methods), reducing its readability and understandability.
+excessive: The documentation contains too many structural syntax or information.
+bloated: The documentation is verbosed or excessively elaborated.
+lazy: The documentation contains very small information to convey to the readers.
+
+DOCUMENTATION:
+{text}

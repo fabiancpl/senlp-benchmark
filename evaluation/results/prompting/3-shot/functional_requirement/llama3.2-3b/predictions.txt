@@ -1,0 +1,193 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+11	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+15	functional		-2
+22	functional	functional	1
+32	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+34	functional	functional	1
+42	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+43	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+46	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+50	functional		-2
+52	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+53	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+57	functional		-2
+64	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+68	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+74	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+77	functional		-2
+87	functional		-2
+92	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+94	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+95	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+96	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+98	functional	non-functional	0
+99	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+106	functional	non-functional	0
+107	functional	non-functional	0
+110	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+115	functional	functional	1
+116	functional	functional	1
+125	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+128	functional		-2
+130	non-functional	non-functional	0
+132	functional	non-functional	0
+135	functional		-2
+141	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+143	functional	functional	1
+158	non-functional	non-functional	0
+159	non-functional		-2
+172	non-functional	non-functional	0
+181	non-functional	non-functional	0
+188	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+189	non-functional		-2
+194	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+196	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+202	functional	functional	1
+204	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+206	functional		-2
+210	non-functional		-2
+211	non-functional	functional	1
+215	non-functional		-2
+220	functional	non-functional	0
+223	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+237	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+248	functional		-2
+249	functional	functional	1
+250	non-functional		-2
+255	functional	non-functional	0
+260	non-functional		-2
+268	non-functional	non-functional	0
+269	non-functional	non-functional	0
+272	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+282	non-functional	non-functional	0
+288	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+289	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+296	non-functional	non-functional	0
+299	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+306	non-functional		-2
+309	functional		-2
+320	functional	functional	1
+323	functional		-2
+325	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+328	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+330	non-functional	non-functional	0
+346	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+360	non-functional		-2
+364	non-functional		-2
+371	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+376	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+381	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+399	non-functional	non-functional	0
+403	non-functional	non-functional	0
+412	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+413	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+415	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+416	non-functional	non-functional	0
+421	non-functional		-2
+426	non-functional		-2
+427	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+433	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+437	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+438	functional	functional	1
+441	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+454	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+461	non-functional	non-functional	0
+472	functional	functional	1
+477	non-functional	non-functional	0
+478	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+479	non-functional	non-functional	0
+480	non-functional	non-functional	0
+481	non-functional	non-functional	0
+491	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+495	non-functional		-2
+514	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+517	functional	functional	1
+526	functional		-2
+533	non-functional		-2
+537	non-functional		-2
+542	functional		-2
+544	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+549	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+557	functional	non-functional	0
+558	functional		-2
+561	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+562	functional	non-functional	0
+563	functional	non-functional	0
+575	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+581	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+588	non-functional	non-functional	0
+590	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+598	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+599	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+604	functional	non-functional	0
+607	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+609	non-functional		-2
+613	non-functional		-2
+614	non-functional	non-functional	0
+621	non-functional	functional  REQUIREMENT TO CLASSIFY: The	1
+622	non-functional	non-functional	0
+625	non-functional	non-functional	0
+629	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+632	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+645	functional		-2
+647	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+663	functional		-2
+667	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+669	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+677	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+684	functional	functional	1
+686	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+689	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+690	functional		-2
+703	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+710	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+711	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+720	functional		-2
+726	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+733	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+737	non-functional	non-functional	0
+738	functional		-2
+747	functional		-2
+748	non-functional	non-functional	0
+750	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+751	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+755	non-functional		-2
+757	non-functional		-2
+761	non-functional		-2
+771	non-functional	functional	1
+773	non-functional	non-functional	0
+774	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+775	functional	non-functional	0
+786	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+791	non-functional	non-functional	0
+792	non-functional	non-functional	0
+796	non-functional		-2
+797	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+806	non-functional	non-functional  ---  REQUIREMENT TO CLASSIFY	0
+807	non-functional	non-functional	0
+814	functional		-2
+819	functional		-2
+835	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+836	functional		-2
+837	functional	non-functional	0
+849	functional	functional	1
+856	non-functional	non-functional	0
+859	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+860	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+875	functional		-2
+891	non-functional		-2
+896	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+899	non-functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+906	functional		-2
+912	functional		-2
+925	functional		-2
+927	functional		-2
+933	functional	non-functional	0
+935	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+939	functional		-2
+944	non-functional		-2
+945	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+946	functional		-2
+950	functional	functional  ---  REQUIREMENT TO CLASSIFY:	1
+955	non-functional		-2

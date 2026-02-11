@@ -1,0 +1,508 @@
+index	ground_truth	raw_prediction	parsed_prediction
+1	other	other  fix version CLASS:  other	0
+2	corrective	other  Note: The commit message is short	0
+3	perfective	other	0
+6	perfective	other  Note: The commit message is in	0
+7	perfective	other  remove unused code CLASS:	0
+8	corrective	other	0
+9	perfective	other	0
+11	other	other	0
+12	perfective	?   Note: The commit message is short	-2
+15	perfective	other  Note: The classification of the commit	0
+16	perfective	other	0
+20	perfective	(Note: The commit message is in the format	-2
+24	perfective	other	0
+32	perfective	other	0
+40	other	other	0
+41	corrective	(Note: The commit message is quite long,	-2
+43	corrective	other	0
+44	other	other	0
+51	perfective	other	0
+53	corrective	other  fix the plexus requirement	0
+54	perfective	other	0
+58	perfective	other	0
+61	other	other	0
+64	corrective	other  Note: The classification of the commit	0
+65	other	other	0
+74	perfective	other  ---  COMMIT MESSAGE TO CLASS:	0
+82	corrective	corrective CLASS:  perfective	2
+83	corrective	other  Note: The classification of the commit	0
+87	other	```markdown * Added a new method to	-2
+88	perfective	(Note: The commit message is short and to	-2
+91	corrective	other	0
+98	other	other	0
+99	corrective	other	0
+102	other	other	0
+103	other	(Note: The commit message is very short,	-2
+104	perfective	(Note: The commit message is quite long,	-2
+113	other	other	0
+121	perfective	corrective corrective replace logging in	2
+126	other	other  The final answer is: other	0
+131	perfective	other	0
+133	perfective	corrective or perfective or	2
+134	corrective	other	0
+137	other	other  Note: The commit message is a	0
+141	perfective	other	0
+148	other	?	-2
+153	perfective	other  ---  COMMIT MESSAGE TO CLASSIFY	0
+156	other	other	0
+158	other	other  ---  COMMIT MESSAGE TO CLASS:	0
+161	corrective	other  Note: The commit message is in	0
+167	perfective	other	0
+175	perfective	corrective  Please note that the classification might	2
+181	other	other	0
+189	perfective	other	0
+195	perfective	(Note: The commit message is short and to	-2
+200	perfective	other	0
+217	perfective	other	0
+218	other	other	0
+226	perfective	other	0
+238	other	other	0
+241	other	other	0
+249	perfective	other	0
+251	perfective	other	0
+253	perfective	other	0
+256	perfective	other	0
+263	perfective	other	0
+267	perfective	other	0
+271	other	other	0
+275	perfective	other   ---  COMMIT MESSAGE TO CLASS:	0
+282	other	?CLASS?CLASS?CLASS?CLASS?CLASS	-2
+286	corrective	other  Note: The classification of the commit	0
+293	perfective	other	0
+297	perfective	other	0
+298	perfective	other  Note: The classification of the commit	0
+302	other	(Note: COMPRESS-132 is a bug	-2
+303	other	other	0
+307	other	Please select one of the options: perfective	1
+311	perfective	other	0
+312	perfective	other	0
+315	corrective	other	0
+326	other	other	0
+335	other	other	0
+353	perfective	other  Note: The classification task is based	0
+357	perfective	other	0
+359	perfective	perfective corrective other  Note	1
+384	other	other	0
+387	perfective	other ---   Note: The provided examples	0
+393	perfective	?   Note: The commit message is in	-2
+400	other	other	0
+416	perfective	other	0
+419	other	other  IO-173 FileUtils.listFiles() doesn	0
+420	perfective	Please provide your answer in the format specified above	-2
+424	perfective	other  Note: The provided examples are just	0
+433	perfective	other	0
+435	perfective	(Note: The commit message is short and to	-2
+438	perfective	other	0
+441	other	other	0
+443	perfective	other improved performance by 10%	0
+446	perfective	other	0
+449	perfective	other	0
+455	perfective	other	0
+456	other	Please provide your answer in the requested format.	-2
+462	perfective	other More checkstyle CLASS:	0
+474	perfective	other	0
+478	perfective	other  COMMIT MESSAGE TO CLASSIFY:	0
+483	perfective	(Note: The commit message is written in a	-2
+486	perfective	? ? ? ? ?	-2
+488	perfective	java package com.example.myapp;  public	-2
+508	perfective	other	0
+509	perfective	other	0
+512	corrective	other	0
+513	perfective	other  Please provide the classification of the commit	0
+518	perfective	other  Please provide the classification of the commit	0
+526	perfective	corrective or  CLASS:  perfect	2
+540	perfective	(Note: The commit message is quite long and	-2
+544	perfective	corrective corrective Re-order not	2
+545	other	other	0
+559	perfective	(Note: The commit message is the text that	-2
+562	perfective	other	0
+566	perfective	other CLASS:  other CLASS:	0
+567	perfective	corrective ---   Note: The commit	2
+568	perfective	other	0
+570	perfective	other	0
+573	other	(Note: The commit message is quite long,	-2
+576	perfective	other  MATH-854: fix bug	0
+579	other	other	0
+580	other	other	0
+592	perfective	?   Note: The commit message is written	-2
+596	corrective	(Note: The commit message is short and to	-2
+604	perfective	?   Note: The commit message is short	-2
+606	other	other	0
+611	perfective	other	0
+620	other	other  MATH-1265 Fix bug	0
+633	perfective	other	0
+635	perfective	(Note: The commit message is short and to	-2
+639	perfective	corrective ---  COMMIT MESSAGE TO CLASS	2
+651	perfective	other	0
+659	corrective	other	0
+667	perfective	other	0
+674	perfective	other	0
+677	perfective	perfective  ---  COMMIT MESSAGE TO CLASS	1
+694	perfective	other	0
+696	corrective	(Note: The commit message is a real commit	-2
+697	perfective	?   Please provide the classification of the commit	-2
+702	perfective	other	0
+706	other	other	0
+708	other	other	0
+718	other	?  --- Select one of the options above	-2
+731	corrective	corrective  Note: The classification task is	2
+736	perfective	other	0
+741	corrective	corrective corrective corrective	2
+749	corrective	other	0
+752	other	other	0
+753	other	other	0
+762	corrective	other	0
+764	other	other	0
+767	other	other	0
+770	corrective	other	0
+771	perfective	other	0
+776	corrective	?   Note: The commit message is written	-2
+777	perfective	other	0
+785	perfective	other	0
+795	other	other	0
+796	perfective	other	0
+801	other	other	0
+804	other	other	0
+805	corrective	other	0
+819	perfective	other  ---  COMMIT MESSAGE TO CLASS:	0
+824	corrective	other	0
+825	corrective	Please provide your answer in the format specified above	-2
+833	other	other	0
+834	corrective	other Note: The commit message is written	0
+841	corrective	other	0
+851	corrective	Please provide your response in the format: CLASS	-2
+853	other	other	0
+854	other	other	0
+856	other	other	0
+857	corrective	other	0
+859	other	other  Note: The classification task is based	0
+864	corrective	other CLASS:  other CLASS:	0
+871	other	other  Explanation: The commit message does not	0
+874	other	(Note: The commit message is written in a	-2
+897	perfective	(Note: The commit message is written in a	-2
+900	perfective	corrective corrective corrective	2
+904	perfective	other  Note: The classification task is based	0
+914	perfective	?   ---  COMMIT MESSAGE TO CLASS:	-2
+926	corrective	other	0
+927	other	other  Note: The classification task is based	0
+933	corrective	corrective corrective corrective	2
+935	other	other	0
+936	corrective	Please fill in the answer.   (Note:	-2
+941	perfective	corrective The commit message is classified as	2
+943	other	other	0
+948	corrective	other	0
+957	other	Please provide your answer in the format specified above	-2
+981	perfective	other	0
+982	perfective	other	0
+986	perfective	Please provide your answer in the format specified above	-2
+989	perfective	other	0
+992	corrective	(Note: The commit message is short and to	-2
+996	other	other	0
+999	perfective	Please provide your answer in the format specified above	-2
+1005	perfective	other Improve performance CLASS:	0
+1008	perfective	other	0
+1009	corrective	(Note: The commit message is short and to	-2
+1011	perfective	other  Explanation: The commit message mentions removing	0
+1020	perfective	---  ---  ---  ---  ---	-2
+1021	perfective	corrective or perfective or	2
+1023	perfective	other  Note: The commit message is in	0
+1030	other	other  Note: The classification task is based	0
+1032	perfective	(Note: The commit message is short and to	-2
+1034	perfective	Please provide your answer in the format specified above	-2
+1038	corrective	(Note: The commit message is short and to	-2
+1040	perfective	other	0
+1051	corrective	other   Note: The commit message is in	0
+1053	perfective	Please provide your answer in the format specified above	-2
+1058	perfective	other	0
+1061	perfective	other  Note: The classification of the commit	0
+1063	perfective	other	0
+1072	other	other	0
+1073	perfective	other	0
+1083	perfective	other	0
+1093	other	other	0
+1098	corrective	Please provide your answer in the format specified above	-2
+1099	other	other	0
+1105	perfective	other	0
+1108	perfective	Note: The commit message is short and to	-2
+1114	corrective	other	0
+1116	perfective	other	0
+1123	perfective	other  Please provide the answer in the requested	0
+1136	corrective	corrective The owl syntax checker has been	2
+1143	other	other	0
+1150	corrective	other  Note: The commit message is short	0
+1160	perfective	other	0
+1162	perfective	other	0
+1164	other	other	0
+1166	other	other	0
+1168	corrective	other	0
+1178	other	other	0
+1184	other	other CLASS:  other CLASS:	0
+1185	perfective	?   Note: The commit message is written	-2
+1187	perfective	other Note: The commit message does not	0
+1188	corrective	other	0
+1189	perfective	(Note: The commit message is short and to	-2
+1203	perfective	other	0
+1213	corrective	other  ---  COMMIT MESSAGE TO CLASSIFY	0
+1221	corrective	(Note: The commit message is short and to	-2
+1231	perfective	other   Exception handling from plugins is now	0
+1234	perfective	other  ---  COMMIT MESSAGE TO CLASS:	0
+1237	corrective	other other other other other	0
+1240	corrective	other	0
+1242	other	other	0
+1243	perfective	other	0
+1249	corrective	other	0
+1260	other	other	0
+1262	corrective	other	0
+1270	other	other  Note: The commit message is a	0
+1271	other	other	0
+1275	perfective	other	0
+1279	perfective	other	0
+1283	corrective	other  Note: The commit message is in	0
+1289	corrective	Please provide the classification of the commit message as	-2
+1292	other	other	0
+1294	other	(Note: HASH is a placeholder for the actual	-2
+1297	other	other	0
+1302	other	other	0
+1303	corrective	(Note: The commit message is short and to	-2
+1306	other	other	0
+1307	perfective	Please provide your answer in the format specified above	-2
+1313	perfective	other	0
+1320	other	other ```python import os import	0
+1323	corrective	other  Please provide the classification of the commit	0
+1324	perfective	other  Note: The commit message is in	0
+1326	perfective	(Note: The commit message is in the format	-2
+1333	other	other	0
+1334	corrective	other	0
+1339	perfective	other KYLIN-839 Optimize	0
+1340	corrective	other  Note: The classification of the commit	0
+1342	corrective	other	0
+1348	other	other	0
+1351	perfective	other	0
+1361	corrective	(Note: The commit message is short and to	-2
+1362	other	other	0
+1366	corrective	other	0
+1368	corrective	other	0
+1374	other	other ```python import os import	0
+1375	perfective	other  Note: The commit message is in	0
+1384	corrective	Please provide your response in the requested format.	-2
+1386	perfective	other	0
+1390	perfective	other	0
+1393	corrective	Please provide the classification of the commit message as	-2
+1394	other	?  --- END OF COMMIT MESSAGE ---	-2
+1401	corrective	other	0
+1405	corrective	Please provide the classification of the commit message as	-2
+1406	corrective	```` Please provide the classification of the commit	-2
+1410	corrective	Please provide the classification of the commit message.	-2
+1413	corrective	other	0
+1414	corrective	other CLASS:  other CLASS:	0
+1417	other	other	0
+1421	perfective	Please provide the classification of the commit message.	-2
+1422	corrective	Please select one of the options: perfective	1
+1429	corrective	other	0
+1447	corrective	(Note: The commit message is short and to	-2
+1448	perfective	other	0
+1469	perfective	(Note: The commit message is short and to	-2
+1473	perfective	other	0
+1477	other	(Note: The commit message is short and to	-2
+1480	other	other	0
+1484	other	?  ?  ?  ?  ?	-2
+1488	other	other  ---  COMMIT MESSAGE TO CLASS:	0
+1489	other	corrective  Please provide the classification for the	2
+1490	corrective	corrective or perfective or	2
+1491	other	other	0
+1495	corrective	(Note: The commit message is short and does	-2
+1497	perfective	other	0
+1499	corrective	Please provide your response in the requested format.	-2
+1501	other	other	0
+1504	corrective	other  (Please select one of the options	0
+1511	other	other	0
+1514	other	(Note: The commit message is short and to	-2
+1516	corrective	(Note: The commit message is short and to	-2
+1517	other	other	0
+1518	other	other	0
+1542	other	other	0
+1544	perfective	other	0
+1547	corrective	corrective ---   Note: The commit	2
+1553	corrective	other The commit message mentions aspects like feature	0
+1555	other	other	0
+1559	other	other	0
+1561	other	other	0
+1569	other	other  NIFI-3970: Add	0
+1574	corrective	other	0
+1575	perfective	other	0
+1576	perfective	(Note: The commit message is a standard one	-2
+1578	other	other	0
+1581	corrective	Please provide your answer in the format specified above	-2
+1587	corrective	(Note: The commit message includes a bug fix	-2
+1589	other	other	0
+1593	other	(Note: The commit message is quite long,	-2
+1595	other	other	0
+1596	perfective	other	0
+1611	other	other	0
+1612	corrective	Note: The commit message is written in a	-2
+1616	perfective	other	0
+1620	other	Please provide your answer in the format specified above	-2
+1625	perfective	Please provide your answer in the format specified above	-2
+1630	perfective	other  Note: The classification task is based	0
+1632	perfective	(Note: The commit message is short and to	-2
+1634	corrective	other  Please provide the classification of the commit	0
+1646	perfective	other	0
+1648	perfective	(Note: The commit message is short and to	-2
+1650	perfective	other	0
+1661	perfective	other  make fields final make fields final	0
+1666	perfective	other	0
+1669	perfective	other	0
+1672	corrective	(Note: The URL and the commit hash are	-2
+1674	corrective	corrective  Please provide the classification of the	2
+1677	other	Please fill in the correct classification for the given	-2
+1679	corrective	other	0
+1695	perfective	other	0
+1702	other	other  ---  COMMIT MESSAGE TO CLASS:	0
+1715	corrective	other The commit message mentions the addition of	0
+1727	perfective	?  ---   Note: The commit message	-2
+1731	corrective	other	0
+1752	perfective	other	0
+1756	perfective	other	0
+1762	perfective	?  Please provide the classification.	-2
+1769	corrective	other  Note: The classification of the commit	0
+1774	perfective	other	0
+1776	other	other  ---  COMMIT MESSAGE TO CLASS:	0
+1777	perfective	Please provide your answer in the requested format.	-2
+1778	corrective	other  Note: The classification of the commit	0
+1779	perfective	Please provide your answer in the format specified above	-2
+1785	corrective	? ? ? ? ?	-2
+1791	corrective	other	0
+1793	corrective	other	0
+1795	perfective	other CLASS:  other CLASS:	0
+1796	other	other	0
+1798	perfective	other	0
+1801	other	PDFBOX-490  CLASSIFICATION:  other	0
+1824	corrective	other CLASS:  other CLASS:	0
+1826	perfective	other	0
+1833	corrective	other  The commit message mentions avoiding a potential	0
+1835	perfective	?  --- END OF COMMIT MESSAGE ---	-2
+1839	perfective	other ---   Note: The classification of	0
+1843	perfective	corrective CLASS:  perfective	2
+1852	other	other	0
+1855	other	Please fill in the answer.   (Note:	-2
+1856	other	other	0
+1857	other	Please provide your answer in the format specified above	-2
+1858	corrective	Please provide the classification of the commit message as	-2
+1861	perfective	other	0
+1865	perfective	other	0
+1868	other	Please provide the classification of the commit message.	-2
+1870	other	(Note: The commit hash is not provided in	-2
+1872	other	Please provide your answer in the format specified above	-2
+1887	other	other	0
+1891	corrective	other	0
+1892	other	other  Note: The commit message is in	0
+1901	other	other	0
+1908	perfective	other	0
+1909	corrective	other	0
+1920	corrective	(Note: The commit message is in the format	-2
+1924	perfective	other	0
+1929	corrective	(Note: The commit message is written in a	-2
+1934	corrective	other	0
+1941	other	Please provide the classification of the commit message.	-2
+1942	corrective	other	0
+1944	corrective	other   Please classify the commit message as '	0
+1957	corrective	other	0
+1959	corrective	other  Note: The commit message is in	0
+1960	corrective	other	0
+1965	other	other	0
+1968	corrective	?  ?  ?   Please fill in	-2
+1973	corrective	(Note: The commit message is quite short,	-2
+1979	corrective	other	0
+1989	corrective	other	0
+1991	corrective	other  Note: The classification of the commit	0
+2021	perfective	other	0
+2023	other	other	0
+2025	other	other	0
+2028	corrective	other ```python import os import	0
+2034	perfective	other	0
+2035	corrective	other	0
+2036	corrective	other	0
+2038	other	other	0
+2045	corrective	other  Note: The commit message is in	0
+2046	perfective	other	0
+2062	corrective	(Note: The commit message is quite long,	-2
+2078	perfective	other	0
+2093	other	corrective corrective corrective	2
+2096	perfective	other  Note: The classification of the commit	0
+2098	other	other	0
+2099	other	?   Note: The commit message is written	-2
+2103	other	(Note: The commit message is a revert commit	-2
+2113	perfective	other	0
+2117	corrective	corrective  Note: The commit message is	2
+2125	corrective	---  ---  ---  ---  ---	-2
+2127	other	other  Note: The classification of the commit	0
+2140	other	other	0
+2143	perfective	other	0
+2147	other	other	0
+2151	perfective	other  Note: The commit message is short	0
+2170	other	other  Note: The classification of the commit	0
+2182	perfective	other	0
+2184	perfective	other	0
+2188	other	other	0
+2189	corrective	Please provide your answer in the format specified above	-2
+2193	other	Please provide your answer in the format specified above	-2
+2195	perfective	other  COMMIT MESSAGE TO CLASS: fix	0
+2198	other	(Note: The URL provided in the commit message	-2
+2223	corrective	Please provide your answer in the format specified above	-2
+2226	corrective	Please provide the classification of the commit message.	-2
+2228	other	other	0
+2229	other	other	0
+2232	other	corrective ---   Note: The commit	2
+2235	other	other	0
+2245	corrective	other	0
+2249	perfective	other	0
+2251	corrective	(Note: The commit message is short and to	-2
+2252	other	(Note: The commit message is in the standard	-2
+2253	perfective	other	0
+2260	other	other	0
+2268	corrective	other	0
+2289	perfective	other	0
+2290	corrective	other	0
+2293	other	other   Note: The classification of the commit	0
+2295	perfective	other	0
+2309	other	other	0
+2310	other	Please provide your answer in the format specified above	-2
+2311	other	other	0
+2312	other	other	0
+2313	corrective	other	0
+2321	other	other  Note: The commit message is in	0
+2330	perfective	other other other other other	0
+2331	other	other	0
+2332	perfective	(Note: The commit message is quite long,	-2
+2336	other	other	0
+2340	perfective	other  Note: The commit message mentions a	0
+2342	corrective	other	0
+2344	corrective	other	0
+2348	corrective	other	0
+2355	other	other  Note: The classification of the commit	0
+2356	corrective	other	0
+2357	other	other  Note: The commit message is written	0
+2361	perfective	other	0
+2370	corrective	other	0
+2402	corrective	(Note: The commit message is a bit short	-2
+2409	other	other  Note: The classification of the commit	0
+2410	perfective	other  ---  COMMIT MESSAGE TO CLASS:	0
+2415	other	other	0
+2418	other	other	0
+2425	other	other	0
+2434	other	other	0
+2435	perfective	?  ---  ---  ---  ---	-2
+2438	perfective	other	0
+2444	other	other	0
+2474	perfective	Please provide your answer in the requested format.	-2
+2476	corrective	corrective CLASS:  corrective	2
+2482	perfective	other	0
+2483	perfective	other   Note: The commit message does not	0
+2487	corrective	Please provide your answer in the requested format.	-2
+2488	other	other	0
+2492	corrective	other	0
+2499	other	other	0
+2519	other	EPPELIN-917  CLASS:  other	0
+2520	other	other	0
+2527	other	other	0

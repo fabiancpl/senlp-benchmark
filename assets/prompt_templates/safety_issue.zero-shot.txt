@@ -1,0 +1,8 @@
+In the context of software development repositories, classify the next issue sentence as 'YES' or 'NO'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+YES: The sentence reports safety-related concerns.
+NO: The sentence does not report safety-related concerns.
+
+ISSUE SENTENCE:
+{text}

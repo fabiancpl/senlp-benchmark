@@ -1,13 +1,7 @@
 """Script to train a baseline model for a supervised task.
 
-This script implements the required steps to build a baseline model including
-training, model selection, and evaluation. Two frameworks are supported:
-XGBoost (Scikit-Learn API) and FastText.
-
-NOTE:
-- Cross-validation is not supported. For model selection only two data splits
-are considered: train
-and test.
+This script implements the required steps to build a baseline model including training, model
+selection, and evaluation. Two frameworks are supported: XGBoost (Scikit-Learn API) and FastText.
 """
 
 import argparse
@@ -52,9 +46,10 @@ from utils.evaluation import (
 )
 
 
-DATASETS_BASE_PATH = "../preprocessing/datasets"
-SPLITS_BASE_PATH = "./splits"
+DATASETS_BASE_PATH = "../preprocessing/evaluation/datasets"
 EMBEDDING_MODEL = "facebook/fasttext-en-vectors"
+RESULTS_BASE_PATH = "./results/baselines"
+SPLITS_BASE_PATH = "./splits"
 
 
 logger = logging.getLogger(__name__)
@@ -67,20 +62,11 @@ def handle_args():
     )
 
     parser.add_argument(
-        "--cv_strategy", type=str, default="k-fold",
-        choices=["k-fold", "repeated-k-fold", "leave-one-group-out", "iterative"],
-        help="Splitting strategy"
-    )
-    parser.add_argument(
         "--dataset_name", type=str, required=True, help="Name of the dataset to use"
     )
     parser.add_argument(
-        "--dataset_version", type=str, default="cased", choices=["cased", "uncased"],
-        help="Version of the dataset to use"
-    )
-    parser.add_argument(
-        "--model_type", type=str, default="sklearn", choices=["sklearn", "fasttext"],
-        help="Baseline model type. sklearn means XBoost using the Scikit-Learn API"
+        "--model_type", type=str, default="xgboost", choices=["xgboost", "fasttext"],
+        help="Baseline model type. xgboost means TF-IDF+XBoost using the Scikit-Learn API"
     )
     parser.add_argument(
         "--task_type", type=str, default="classification",
@@ -205,11 +191,11 @@ def run_experiment_sklearn(train_df, test_df, task_type, labels, max_depth=6, mi
         ])
 
     if task_type == "multilabel":
-        pipeline.fit(train_df["text_clean"], train_df[labels])
+        pipeline.fit(train_df["text"], train_df[labels])
     else:
-        pipeline.fit(train_df["text_clean"], train_df["label"])
-    train_preds = pipeline.predict(train_df["text_clean"])
-    test_preds = pipeline.predict(test_df["text_clean"])
+        pipeline.fit(train_df["text"], train_df["label"])
+    train_preds = pipeline.predict(train_df["text"])
+    test_preds = pipeline.predict(test_df["text"])
 
     return train_preds, test_preds
 
@@ -218,7 +204,7 @@ def run_experiment_fasttext(train_df, test_df, task_type, labels, lr=0.1, epoch=
     """Train a FastText model with the given hyper-parameters"""
     tmp_filename = "./tmp/train.txt"
 
-    train_df[["label_mod", "text_clean"]].to_csv(
+    train_df[["label_mod", "text"]].to_csv(
         tmp_filename, sep=" ", index=False, header=None  # type: ignore
     )
 
@@ -229,16 +215,16 @@ def run_experiment_fasttext(train_df, test_df, task_type, labels, lr=0.1, epoch=
         model = fasttext.train_supervised(tmp_filename, lr=lr, epoch=epoch, loss="ova")
 
         train_preds = get_labels_multilabel(
-            model.predict(train_df["text_clean"].tolist(), k=len(labels)), labels
+            model.predict(train_df["text"].tolist(), k=len(labels)), labels
         )
         test_preds = get_labels_multilabel(
-            model.predict(test_df["text_clean"].tolist(), k=len(labels)), labels
+            model.predict(test_df["text"].tolist(), k=len(labels)), labels
         )
     else:
         model = fasttext.train_supervised(tmp_filename, lr=lr, epoch=epoch)
 
-        train_preds = get_labels(model.predict(train_df["text_clean"].tolist()))
-        test_preds = get_labels(model.predict(test_df["text_clean"].tolist()))
+        train_preds = get_labels(model.predict(train_df["text"].tolist()))
+        test_preds = get_labels(model.predict(test_df["text"].tolist()))
 
     return train_preds, test_preds
 
@@ -251,10 +237,10 @@ def run_experiment_fasttext_regression(train_df, test_df):
             ('model', LinearRegression())
         ])
 
-    pipeline.fit(train_df["text_clean"], train_df["label"])
+    pipeline.fit(train_df["text"], train_df["label"])
 
-    train_preds = pipeline.predict(train_df["text_clean"])
-    test_preds = pipeline.predict(test_df["text_clean"])
+    train_preds = pipeline.predict(train_df["text"])
+    test_preds = pipeline.predict(test_df["text"])
 
     return train_preds, test_preds
 
@@ -293,11 +279,10 @@ def main(params):
     logger.info("Arguments passed by command-line: %s", params)
     logger.info("Execution date: %s", datetime.datetime.now())
 
-    results_base_path = f"./results/{params.model_type}/{params.dataset_name}/{params.dataset_version}/"
-    results_path = f"{results_base_path}/test"
+    results_base_path = os.path.join(RESULTS_BASE_PATH, params.model_type, params.dataset_name)
 
     # Creating the folder to store the results
-    os.makedirs(results_path, exist_ok=True)
+    os.makedirs(results_base_path, exist_ok=True)
 
     # Definitions based on task type
     if params.task_type == "classification":
@@ -314,9 +299,9 @@ def main(params):
         sys.exit(1)
 
     try:
-        logger.info("Loading the %s %s dataset...", params.dataset_name, params.dataset_version)
+        logger.info("Loading the %s dataset...", params.dataset_name)
         data_df = pd.read_parquet(
-            f"{DATASETS_BASE_PATH}/{params.dataset_version}/{params.dataset_name}.parquet"
+            os.path.join(DATASETS_BASE_PATH, f"{params.dataset_name}.parquet")
         )
 
         labels = None
@@ -338,11 +323,11 @@ def main(params):
                 )
             elif params.task_type == "classification":
                 data_df["label_mod"] = data_df["label"].apply(lambda x: "__label__" + str(x))
-            data_df["text_clean"] = data_df["text_clean"].str.replace("\n", " ")
+            data_df["text"] = data_df["text"].str.replace("\n", " ")
 
         splits_filename = f"{params.dataset_name}.*.*.csv"
         logger.info("Loading the splits file named %s...", splits_filename)
-        splits_df = pd.read_csv(glob(f"{SPLITS_BASE_PATH}/{splits_filename}")[0])
+        splits_df = pd.read_csv(glob(os.path.join(SPLITS_BASE_PATH, splits_filename))[0])
     except FileNotFoundError as e:
         logger.error(e)
         sys.exit(1)
@@ -420,7 +405,7 @@ def main(params):
         logger.info("Validating results for the best combination of hyper-parameters")
         if (params.task_type == "classification") and (num_labels == 2):
             train_results, test_results = run_experiment(
-                train_df, test_df, params.model_type, compute_metrics,
+                train_df, test_df, params.model_type, compute_metrics, params.task_type,
                 **best_combination
             )
         else:
@@ -429,14 +414,14 @@ def main(params):
                 **best_combination
             )
 
-    with open(f"{results_path}/train_results.json", "w", encoding="utf-8") as f:
+    with open(os.path.join(results_base_path, "train_results.json"), "w", encoding="utf-8") as f:
         json.dump(train_results, f, indent=4)
 
-    with open(f"{results_path}/test_results.json", "w", encoding="utf-8") as f:
+    with open(os.path.join(results_base_path, "test_results.json"), "w", encoding="utf-8") as f:
         json.dump(test_results, f, indent=4)
 
     if best_combination:
-        with open(f"{results_path}/best_model.json", "w", encoding="utf-8") as f:
+        with open(os.path.join(results_base_path, "best_model.json"), "w", encoding="utf-8") as f:
             json.dump(_convert_arrays(best_combination), f, indent=4)
 
 

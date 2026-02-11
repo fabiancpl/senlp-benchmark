@@ -1,0 +1,40 @@
+In the context of software codebases, classify the next comment sentence as 'keyimplementationpoints', 'example', 'responsibilities', 'classreferences', 'intent', 'keymessages', or 'collaborators'. It is possible to assign more than one class to a sentence. Answer only with the selected classes separated by semicolon (,) without quotation marks.
+
+The meaning of each class is as follows:
+keyimplementationpoints: The sentence provides details referring to, e.g., the internal representation of an object, implementation logic, conditions about object state, or settings important to understand the class.
+example: The sentence provides code examples to instantiate a class or use its API.
+responsibilities: The sentence lists the responsibilities of the class.
+classreferences: The sentence includes cases when developers refer to other classes in the class document to explain the context of given class.
+intent: The sentence describes the purpose of the class.
+keymessages: The sentence lists key methods and public APIs of the class.
+collaborators: The sentence lists interactions of the class with other classes.
+
+---
+
+Below are some examples to guide you in the classification task:
+
+- EXAMPLE 1:
+COMMENT SENTENCE:
+{shot_1}
+
+CLASS:
+{label_1}
+
+- EXAMPLE 2:
+COMMENT SENTENCE:
+{shot_2}
+
+CLASS:
+{label_2}
+
+- EXAMPLE 3:
+COMMENT SENTENCE:
+{shot_3}
+
+CLASS:
+{label_3}
+
+---
+
+COMMENT SENTENCE TO CLASSIFY:
+{text}

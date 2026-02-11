@@ -1,0 +1,9 @@
+In the context of software development repositories, classify the next commit message as 'perfective', 'corrective', or 'other'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+perfective: A commit message mentions aspects like whether code has been improved, moved to a new package, marked as deprecated, or tests or documentation have been added or updated.
+corrective: A commit message mentions bug fixes.
+other: A commit message mentions aspects like feature or functionality addition, license information or copyrights changes, or release preparation.
+
+COMMIT MESSAGE:
+{text}

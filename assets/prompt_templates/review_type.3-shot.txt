@@ -1,0 +1,37 @@
+In the context of mobile app stores, classify the next review as 'information giving', 'information seeking', 'feature request', or 'problem discovery'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+information giving: The review informs or updates users and developers about an aspect related to the app.
+information seeking: The review relates to an attempt to obtain information or help from other users or developers.
+feature request: The review expresses ideas, suggestions, or needs to improve or enhance the app or some of its functionalities.
+problem discovery: The review describes an issue or an unexpected behaviour with the app.
+
+---
+
+Below are some examples to guide you in the classification task:
+
+- EXAMPLE 1:
+REVIEW:
+{shot_1}
+
+CLASS:
+{label_1}
+
+- EXAMPLE 2:
+REVIEW:
+{shot_2}
+
+CLASS:
+{label_2}
+
+- EXAMPLE 3:
+REVIEW:
+{shot_3}
+
+CLASS:
+{label_3}
+
+---
+
+REVIEW TO CLASSIFY:
+{text}

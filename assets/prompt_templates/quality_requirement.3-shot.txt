@@ -1,0 +1,35 @@
+In the context of requirements analysis in software engineering, classify the next requirement as 'quality' or 'non-quality'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+quality: The requirement includes some quality aspect (quality goal or quality constraint).
+non-quality: The requirement does not include any quality aspects (quality goal or quality constraint).
+
+---
+
+Below are some examples to guide you in the classification task:
+
+- EXAMPLE 1:
+REQUIREMENT:
+{shot_1}
+
+CLASS:
+{label_1}
+
+- EXAMPLE 2:
+REQUIREMENT:
+{shot_2}
+
+CLASS:
+{label_2}
+
+- EXAMPLE 3:
+REQUIREMENT:
+{shot_3}
+
+CLASS:
+{label_3}
+
+---
+
+REQUIREMENT TO CLASSIFY:
+{text}

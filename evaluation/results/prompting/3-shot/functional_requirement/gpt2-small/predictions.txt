@@ -1,0 +1,193 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	non-functional  ---	0
+11	functional	non-functional  - EXAM	0
+15	functional	non-functional  ---	0
+22	functional	non-functional  ---	0
+32	functional	non-functional  - EXAM	0
+34	functional	non-functional  ---	0
+42	functional	functional  - EXAMPLE 4	1
+43	functional	non-functional  - EXAM	0
+46	functional	non-functional  ---	0
+50	functional	non-functional  ---	0
+52	functional	non-functional  - EXAM	0
+53	functional	non-functional  ---	0
+57	functional	non-functional  - EXAM	0
+64	functional	non-functional  - EXAM	0
+68	functional	non-functional  - EXAM	0
+74	non-functional	non-functional  - EXAM	0
+77	functional	non-functional  ---	0
+87	functional	non-functional  - EXAM	0
+92	functional	non-functional  - EXAM	0
+94	functional	non-functional  ---	0
+95	functional	non-functional  - EXAM	0
+96	functional	non-functional  ---	0
+98	functional	non-functional  ---	0
+99	functional	non-functional  ---	0
+106	functional	non-functional  ---	0
+107	functional	non-functional  - EXAM	0
+110	functional	non-functional  ---	0
+115	functional	non-functional  ---	0
+116	functional	non-functional  ---	0
+125	functional	non-functional  - EXAM	0
+128	functional	non-functional  - EXAM	0
+130	non-functional	non-functional  - EXAM	0
+132	functional	non-functional  ---	0
+135	functional	non-functional  ---	0
+141	functional	non-functional  ---	0
+143	functional	non-functional  ---	0
+158	non-functional	non-functional  ---	0
+159	non-functional	non-functional  ---	0
+172	non-functional	non-functional  ---	0
+181	non-functional	non-functional  ---	0
+188	non-functional	non-functional  ---	0
+189	non-functional	non-functional  ---	0
+194	non-functional	non-functional  ---	0
+196	non-functional	non-functional  ---	0
+202	functional	non-functional  ---	0
+204	functional	non-functional  ---	0
+206	functional	non-functional  ---	0
+210	non-functional	non-functional  - EXAM	0
+211	non-functional	non-functional  ---	0
+215	non-functional	non-functional  - EXAM	0
+220	functional	non-functional  ---	0
+223	functional	non-functional  ---	0
+237	functional	non-functional  ---	0
+248	functional	non-functional  ---	0
+249	functional	non-functional  - EXAM	0
+250	non-functional	non-functional  ---	0
+255	functional	non-functional  ---	0
+260	non-functional	functional  - EXAMPLE 4	1
+268	non-functional	non-functional  - EXAM	0
+269	non-functional	non-functional  ---	0
+272	non-functional	non-functional  - EXAM	0
+282	non-functional	non-functional  ---	0
+288	functional	non-functional  - EXAM	0
+289	functional	non-functional  ---	0
+296	non-functional	non-functional  ---	0
+299	functional	non-functional  - EXAM	0
+306	non-functional	non-functional  ---	0
+309	functional	non-functional  ---	0
+320	functional	non-functional  ---	0
+323	functional	non-functional  - EXAM	0
+325	functional	non-functional  - EXAM	0
+328	functional	non-functional  - EXAM	0
+330	non-functional	non-functional  ---	0
+346	non-functional	non-functional  ---	0
+360	non-functional	non-functional  - EXAM	0
+364	non-functional	non-functional  ---	0
+371	functional	non-functional  ---	0
+376	functional	non-functional  ---	0
+381	functional	non-functional  ---	0
+399	non-functional	non-functional  ---	0
+403	non-functional	non-functional  ---	0
+412	functional	non-functional  ---	0
+413	functional	non-functional  ---	0
+415	non-functional	non-functional  ---	0
+416	non-functional	non-functional  ---	0
+421	non-functional	non-functional  ---	0
+426	non-functional	non-functional  ---	0
+427	functional	non-functional  ---	0
+433	functional	non-functional  - EXAM	0
+437	functional	non-functional  ---	0
+438	functional	non-functional  - EXAM	0
+441	functional	non-functional  ---	0
+454	functional	functional  ---  REQUIRE	1
+461	non-functional	non-functional  ---	0
+472	functional	non-functional  - EXAM	0
+477	non-functional	non-functional  ---	0
+478	non-functional	non-functional  ---	0
+479	non-functional	non-functional  - EXAM	0
+480	non-functional	non-functional  ---	0
+481	non-functional	non-functional  ---	0
+491	non-functional	non-functional  - EXAM	0
+495	non-functional	non-functional  ---	0
+514	functional	non-functional  ---	0
+517	functional	non-functional  ---	0
+526	functional	non-functional  ---	0
+533	non-functional	non-functional  ---	0
+537	non-functional	non-functional  ---	0
+542	functional	non-functional  - EXAM	0
+544	functional	non-functional  ---	0
+549	functional	non-functional  - EXAM	0
+557	functional	non-functional  ---	0
+558	functional	non-functional  ---	0
+561	functional	non-functional  - EXAM	0
+562	functional	non-functional  - EXAM	0
+563	functional	non-functional  ---	0
+575	functional	functional  - EXAMPLE 4	1
+581	non-functional	non-functional  ---	0
+588	non-functional	non-functional  ---	0
+590	non-functional	non-functional  - EXAM	0
+598	non-functional	non-functional  ---	0
+599	non-functional	non-functional  - EXAM	0
+604	functional	non-functional  ---	0
+607	non-functional	non-functional  - EXAM	0
+609	non-functional	non-functional  ---	0
+613	non-functional	non-functional  ---	0
+614	non-functional	non-functional  - EXAM	0
+621	non-functional	non-functional  ---	0
+622	non-functional	non-functional  - EXAM	0
+625	non-functional	non-functional  ---	0
+629	functional	non-functional  ---	0
+632	functional	non-functional  - EXAM	0
+645	functional	non-functional  ---	0
+647	non-functional	non-functional  - EXAM	0
+663	functional	non-functional  ---	0
+667	functional	non-functional  ---	0
+669	functional	non-functional  ---	0
+677	functional	non-functional  ---	0
+684	functional	non-functional  ---	0
+686	non-functional	non-functional  ---	0
+689	functional	non-functional  ---	0
+690	functional	non-functional  ---	0
+703	functional	non-functional  ---	0
+710	functional	non-functional  ---	0
+711	functional	non-functional  ---	0
+720	functional	non-functional  - EXAM	0
+726	non-functional	non-functional  - EXAM	0
+733	functional	non-functional  ---	0
+737	non-functional	non-functional  ---	0
+738	functional	non-functional  ---	0
+747	functional	non-functional  ---	0
+748	non-functional	non-functional  ---	0
+750	non-functional	non-functional  ---	0
+751	non-functional	non-functional  ---	0
+755	non-functional	non-functional  - EXAM	0
+757	non-functional	non-functional  - EXAM	0
+761	non-functional	non-functional  ---	0
+771	non-functional	non-functional  ---	0
+773	non-functional	non-functional  ---	0
+774	functional	non-functional  ---	0
+775	functional	non-functional  ---	0
+786	functional	non-functional  ---	0
+791	non-functional	non-functional  - EXAM	0
+792	non-functional	non-functional  - EXAM	0
+796	non-functional	non-functional  ---	0
+797	non-functional	non-functional  ---	0
+806	non-functional	non-functional  - EXAM	0
+807	non-functional	non-functional  ---	0
+814	functional	non-functional  - EXAM	0
+819	functional	non-functional  - EXAM	0
+835	functional	non-functional  ---	0
+836	functional	non-functional  ---	0
+837	functional	non-functional  ---	0
+849	functional	non-functional  ---	0
+856	non-functional	functional  ---  REQUIRE	1
+859	functional	non-functional  ---	0
+860	functional	non-functional  ---	0
+875	functional	non-functional  - EXAM	0
+891	non-functional	non-functional  ---	0
+896	functional	non-functional  ---	0
+899	non-functional	non-functional  ---	0
+906	functional	non-functional  ---	0
+912	functional	non-functional  - EXAM	0
+925	functional	non-functional  ---	0
+927	functional	non-functional  - EXAM	0
+933	functional	non-functional  ---	0
+935	functional	non-functional  ---	0
+939	functional	non-functional  ---	0
+944	non-functional	non-functional  ---	0
+945	functional	non-functional  - EXAM	0
+946	functional	non-functional  - EXAM	0
+950	functional	non-functional  ---	0
+955	non-functional	non-functional  ---	0

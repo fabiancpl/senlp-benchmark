@@ -1,0 +1,9 @@
+In the context of software development community forums, classify the next sentence as 'positive', 'negative' or 'neutral'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+positive: The sentence expresses a positive polarity.
+negative: The sentence expresses a negative polarity.
+neutral: The sentence expresses a neutral polarity.
+
+SENTENCE:
+{text}

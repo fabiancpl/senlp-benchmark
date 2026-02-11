@@ -1,0 +1,508 @@
+index	ground_truth	raw_prediction	parsed_prediction
+1	other	fix version  fix version	-2
+2	corrective	fix corrective other COMMIT	2
+3	perfective	this id field is not anymore needed	-2
+6	perfective	align method names with bean name	-2
+7	perfective	remove unused code  remove unused code	-2
+8	corrective	fix issues downloading merged index path (thanks	-2
+9	perfective	make those classes serializable for cassandra	-2
+11	other	force use of preemptive with last wagon	-2
+12	perfective	cleanup upload rest service  clean	-2
+15	perfective	[MRM-1610] Use Jackson as	-2
+16	perfective	maven-metadata-apis  M	-2
+20	perfective	perfective: A commit message mentions aspects	1
+24	perfective	[MRM-1283] Rep	-2
+32	perfective	perfective: A commit message mentions aspects	1
+40	other	[MRM-147] support incremental update of	-2
+41	corrective	MRM-225 Maven 1.	-2
+43	corrective	MRM-115 Changed role hint of ArtifactDisc	-2
+44	other	minor changes  COMMIT M	-2
+51	perfective	[MRM-462] remove this - no	-2
+53	corrective	fix the plexus requirement	-2
+54	perfective	[MRM-37] - added	-2
+58	perfective	align constants names  align constants names	-2
+61	other	perfective: A commit message mentions aspects	1
+64	corrective	[MRM-127] perfective	1
+65	other	perfective: A commit message mentions aspects	1
+74	perfective	add more generics  add more	-2
+82	corrective	Fix failing tests in DruidAdapterIT (	-2
+83	corrective	AggregatePullUpConstantsRule  NAME	-2
+87	other	[CALCITE-1683	-2
+88	perfective	Clean up following [CALCITE	-2
+91	corrective	[CALCITE-1431	-2
+98	other	[CALCITE-1116	-2
+99	corrective	In RelBuilder, class names are used	-2
+102	other	Perfective: A commit message mentions aspects	1
+103	other	The class of the next commit message is	-2
+104	perfective	Add FoodmartTest to the test suite	-2
+113	other	[CALCITE-2359	-2
+121	perfective	logging: A commit message mentions logging	-2
+126	other	CAY-1626 | Add J	-2
+131	perfective	corrective: A commit message mentions bug	2
+133	perfective	JdbcAdapter changed to more generic	-2
+134	corrective	CAY-2110 Obfuscated	-2
+137	other	Perfective: A commit message mentions aspects	1
+141	perfective	CAY-2009 Non-blocking connection	-2
+148	other	'Applying new Reverse Engineering to the Modeler	-2
+153	perfective	org.apache.cayenne.project	-2
+156	other	iCAY-1747 New algorithm	-2
+158	other	'patch'  COMMENT: This is	-2
+161	corrective	CAY-1484. Fixed using	-2
+167	perfective	org.apache.cayenne.project	-2
+175	perfective	unused import  COMMIT M	-2
+181	other	CAY-1025 Do something about	-2
+189	perfective	class MyClass {  public:	-2
+195	perfective	Fix typo in JavaDoc. Thanks to	-2
+200	perfective	Removed the redundant num/length/count	-2
+217	perfective	This is the class name of the commit	-2
+218	other	Enhance BeanUtils.copyProperty	-2
+226	perfective	The class name is the name of the	-2
+238	other	Set SVN keyword Id. COMMIT	-2
+241	other	perfective: A commit message mentions aspects	1
+249	perfective	Added missing since tags  Added missing	-2
+251	perfective	[COLLECTIONS-352] Remove	-2
+253	perfective	Corrective: A commit message mentions bug	2
+256	perfective	class AbstractDecorator { public:	-2
+263	perfective	class Functor f => f a	-2
+267	perfective	Deprecate DefaultMapEntry in the	-2
+271	other	add IntListIterator to ListIterator adapter	-2
+275	perfective	class Buffer { public: Buffer(const	-2
+282	other	[COMPRESS-392] Add Bro	-2
+286	corrective	COMMIT-357:  COM	-2
+293	perfective	Fix Javadoc syntax warning from Eclipse	-2
+297	perfective	zipArchiveInputStream  TYPE	-2
+298	perfective	defer creation of output stream until data	-2
+302	other	fix dump stream detection based on magic value	-2
+303	other	COMPRESS-150  COMPRESS	-2
+307	other	Add support for extra fields introduced by Info	-2
+311	perfective	class: The class name.	-2
+312	perfective	class MyClass { public static void main	-2
+315	corrective	CONFIGURATION-347: The	-2
+326	other	[CONFIGURATION-647]	-2
+335	other	EventListenerList class is a class that	-2
+353	perfective	Remove unused code.  COMMIT	-2
+357	perfective	perfective: A commit message mentions aspects	1
+359	perfective	AbandonedTrace  A	-2
+384	other	setroot: A new class that implements	-2
+387	perfective	fix the stacktrace analysis to retrieve the	-2
+393	perfective	perfective: A commit message mentions aspects	1
+400	other	The class name is the name of the	-2
+416	perfective	deprecation: A commit message mentions	-2
+419	other	IO-173 FileUtils.list	-2
+420	perfective	remove redundant code  remove redundant code	-2
+424	perfective	IO-140 JDK 1.5	-2
+433	perfective	FileUtils  FILENAME	-2
+435	perfective	The class name is the name of the	-2
+438	perfective	This is the class name of the commit	-2
+441	other	Fix for JCS-10 [URL	-2
+443	perfective	improved logging  corrective	2
+446	perfective	Perfective: A commit message mentions aspects	1
+449	perfective	'cdi'  COMMIT MES	-2
+455	perfective	[USER] tags are used to indicate	-2
+456	other	JEXL-24, JEX	-2
+462	perfective	Perfective: A commit message mentions aspects	1
+474	perfective	checkstyle  COMMIT MESSAGE	-2
+478	perfective	perfective: A package access is protected	1
+483	perfective	java7:  java9:	-2
+486	perfective	fix typos in comments and jav	-2
+488	perfective	Add final modifier to local variables.	-2
+508	perfective	javadoc  COMMIT MES	-2
+509	perfective	class FormattableUtils {	-2
+512	corrective	The class name is the name of the	-2
+513	perfective	Convert defaultIfEmpty to String.	-2
+518	perfective	add quick type compatibility check  add	-2
+526	perfective	added missing javadoc for private	-2
+540	perfective	Put the class name in front of the	-2
+544	perfective	Corrective: Corrective: Corrective	2
+545	other	This is the commit message.	-2
+559	perfective	The class name is now 'Iterable	-2
+562	perfective	perfective: A commit message mentions aspects	1
+566	perfective	Perfective: A commit message mentions aspects	1
+567	perfective	Corrective: A commit message mentions bug	2
+568	perfective	perfective: A commit message mentions aspects	1
+570	perfective	MATH-824 MATH-	-2
+573	other	The class is a string that contains the	-2
+576	perfective	MATH-854: document all	-2
+579	other	Perfective: A commit message mentions aspects	1
+580	other	Corrective: A commit message mentions bug	2
+592	perfective	copyOf: Copy of an array element	-2
+596	corrective	fixed an error with negative constraints and unf	-2
+604	perfective	MATH-440 Deprecation	-2
+606	other	Add a new class to the repository.	-2
+611	perfective	improved sanity checks at integration start	-2
+620	other	MATH-1265 Sort units according	-2
+633	perfective	perfective: A commit message mentions aspects	1
+635	perfective	Dropped files not included in release from	-2
+639	perfective	fix javadoc issues	-2
+651	perfective	perfective: A fix for a bug	1
+659	corrective	perfective: A commit message mentions aspects	1
+667	perfective	class: The class name is the name	-2
+674	perfective	perfective: A commit message mentions aspects	1
+677	perfective	The class name is the name of the	-2
+694	perfective	Corrective: A commit message mentions bug	2
+696	corrective	'TLS/SSL SMTP'	-2
+697	perfective	perfective: A commit message mentions aspects	1
+702	perfective	fix_api_change: A commit	-2
+706	other	SSLContext  COMMIT MESSAGE	-2
+708	other	Add encoding for FromNetASCIIInput	-2
+718	other	perfective: add datatimeout	1
+731	corrective	Fix FTPS inheritance problem and enable FT	-2
+736	perfective	perfective: A commit message mentions aspects	1
+741	corrective	perfective: A commit message mentions aspects	1
+749	corrective	[EAGLE-1023]	-2
+752	other	1. Blacklisting superusers,	-2
+753	other	perfective: A commit message mentions aspects	1
+762	corrective	FALCON-258 File system storage	-2
+764	other	'perfective'  COMMIT MES	1
+767	other	'FALCON-1557'	-2
+770	corrective	FALCON-717 Shutdown not	-2
+771	perfective	FALCON-863 Fix tests	-2
+776	corrective	FALCON-1757 EntityNot	-2
+777	perfective	perfective: A commit message mentions aspects	1
+785	perfective	FLUME-2243. Avro	-2
+795	other	The class name is now the same as	-2
+796	perfective	A class is a collection of methods that	-2
+801	other	perfective: A commit message mentions aspects	1
+804	other	'spillable'  COMMIT M	-2
+805	corrective	FLUME-2157. Spool	-2
+819	perfective	majakabiljo: Remove unnecessary	-2
+824	corrective	perfective: A commit message mentions aspects	1
+825	corrective	'fixing build post-GIRAPH-	-2
+833	other	perfective: A commit message mentions aspects	1
+834	corrective	GORA-199 New bugfixes	-2
+841	corrective	[HELIX-778] T	-2
+851	corrective	fix build issue for Json parse	-2
+853	other	perfective: A commit message mentions aspects	1
+854	other	perfective: A commit message mentions aspects	1
+856	other	Add pollForJobState and pollFor	-2
+857	corrective	[HELIX-653] Fix	-2
+859	other	Perfective: A commit message mentions aspects	1
+864	corrective	[HELIX-574] fix	-2
+871	other	NEW:  COMMIT MES	-2
+874	other	The class name is the name of the	-2
+897	perfective	Fixup comments: - remind readers not	-2
+900	perfective	HTTPCLIENT-1429  The HTTP	-2
+904	perfective	If the next commit message is 'perfect	-2
+914	perfective	cleanup: A commit message mentions the	-2
+926	corrective	HTTPCLIENT-1772  COMMIT	-2
+927	other	[HTTPCLIENT-1714]	-2
+933	corrective	SSLIOSession: SSLIOS	-2
+935	other	[HTTPCORE-468]	-2
+936	corrective	Perfective: A commit message mentions aspects	1
+941	perfective	corrective: A commit message mentions bug	2
+943	other	The class name is the name of the	-2
+948	corrective	class AbstractSessionOutputBuffer extends AbstractOutput	-2
+957	other	perfective: A commit message mentions aspects	1
+981	perfective	try-with-resources: A try	-2
+982	perfective	class HttpEntity {  public	-2
+986	perfective	perfective: A commit message mentions aspects	1
+989	perfective	ARQ:Query:ParameterizedS	-2
+992	corrective	alloc-write  COMMENT: alloc-	-2
+996	other	perfective: A license header is added	1
+999	perfective	'fix for JENA-1442'	-2
+1005	perfective	perfective: A commit message mentions aspects	1
+1008	perfective	perfective: A commit message mentions aspects like	1
+1009	corrective	perfective: A commit message mentions aspects	1
+1011	perfective	removing dead code  corrective	2
+1020	perfective	perfective: A commit message mentions aspects	1
+1021	perfective	perfective: A commit message mentions aspects	1
+1023	perfective	perfective: A commit message mentions aspects	1
+1030	other	The class name is the name of the	-2
+1032	perfective	The class name is the name of the	-2
+1034	perfective	Add a new class to the repository.	-2
+1038	corrective	Use nullIterator, not nullIter.	-2
+1040	perfective	perfective: A commit message mentions aspects	1
+1051	corrective	'corrective'  COMMIT MES	2
+1053	perfective	perfective: A commit message mentions aspects	1
+1058	perfective	clean: A commit message mentions aspects like	-2
+1061	perfective	perfective: A commit message mentions aspects	1
+1063	perfective	TREATMENT:  T	-2
+1072	other	perfective: Move Jena JDBC	1
+1073	perfective	perfective: A commit message mentions aspects	1
+1083	perfective	Abbreviating: Generate Turtle	-2
+1093	other	Add "Transactional" interface into	-2
+1098	corrective	The class name is the name of the	-2
+1099	other	JENA-136  JENA	-2
+1105	perfective	ant: Ant is a Java library for	-2
+1108	perfective	Perfective: A commit message mentions aspects	1
+1114	corrective	fix: A fix message is a message	-2
+1116	perfective	NewRegressionTest  NewReg	-2
+1123	perfective	corrective: A commit message mentions bug	2
+1136	corrective	corrective:  corrective:	2
+1143	other	Added support for the following classes:	-2
+1150	corrective	fixing -ko to -kkv	-2
+1160	perfective	try:  try:	-2
+1162	perfective	StringBuffer -> StringBuilder  COM	-2
+1164	other	perfective: A commit message mentions aspects	1
+1166	other	perfective: A commit message mentions aspects	1
+1168	corrective	sonar: Security - HTTP Response splitting	-2
+1178	other	A class is a collection of related objects	-2
+1184	other	Added a new class for each commit message	-2
+1185	perfective	checkstyle: A commit message that mentions	-2
+1187	perfective	Fixed a couple of checkstyle warnings.	-2
+1188	corrective	[JSPWIKI-184	-2
+1189	perfective	The class name is the name of the	-2
+1203	perfective	The class name is the name of the	-2
+1213	corrective	The class name is the name of the	-2
+1221	corrective	The class name is the name of the	-2
+1231	perfective	The class name is the name of the	-2
+1234	perfective	The class name is the name of the	-2
+1237	corrective	perfective: A commit message mentions aspects	1
+1240	corrective	Fixed bug in XMLUserDatabase that was	-2
+1242	other	updating to main 2.0.	-2
+1243	perfective	The class is the name of the commit	-2
+1249	corrective	missing_function_files: A commit	-2
+1260	other	perfective: A commit message mentions aspects	1
+1262	corrective	perfective: A commit message mentions aspects	1
+1270	other	minor: A commit message mentions a	-2
+1271	other	minor,dirty workaround for dealing with	-2
+1275	perfective	FilterOptimizeTransformer  COMMIT M	-2
+1279	perfective	KYLIN-2387 remove the usage	-2
+1283	corrective	perfective: A commit message mentions aspects	1
+1289	corrective	perfective  corrective	1
+1292	other	KYLIN-1921 Support Grouping	-2
+1294	other	minor: A commit message mentions a	-2
+1297	other	corrective: A commit message mentions bug	2
+1302	other	KYLIN-1270 improve Timed	-2
+1303	corrective	Fix a bug in TopNMeasureType	-2
+1306	other	KYLIN-993 Support functions in where	-2
+1307	perfective	perfective: A commit message mentions aspects	1
+1313	perfective	clean code  The meaning of this class is	-2
+1320	other	add memory limit for nonaggregate response	-2
+1323	corrective	fix fix  fix  fix	-2
+1324	perfective	The class name is the name of the	-2
+1326	perfective	perfective: A commit message mentions aspects	1
+1333	other	fix ci: create project automatically when	-2
+1334	corrective	perfective: A commit message mentions aspects	1
+1339	perfective	KYLIN-839 Optimize Snap	-2
+1340	corrective	perfective: A commit message mentions aspects	1
+1342	corrective	org.apache.hadoop.hive	-2
+1348	other	perfective: A commit message mentions aspects	1
+1351	perfective	corrective: A commit message mentions bug	2
+1361	corrective	fix a potential bug in FactDistinct	-2
+1362	other	IPartitionConditionBuilder  IP	-2
+1366	corrective	perfective: A commit message mentions aspects	1
+1368	corrective	fix NPE in monitor module	-2
+1374	other	perfective: A commit message mentions aspects	1
+1375	perfective	clean up warning in common module	-2
+1384	corrective	perfective: A commit message mentions aspects	1
+1386	perfective	HiveSourceTableLoader  COMMIT MES	-2
+1390	perfective	perfective: A commit message mentions aspects	1
+1393	corrective	fix fix  fix  fix	-2
+1394	other	minor: A commit message mentions aspects	-2
+1401	corrective	fix calcite perceiving tables	-2
+1405	corrective	'perfective'  COMMIT MES	1
+1406	corrective	testMultiThreadClient  COMMENT:	-2
+1410	corrective	LENS-1149 : Union queries	-2
+1413	corrective	'fixing'  COMMIT MES	-2
+1414	corrective	fix-jdbc-session-jar-	-2
+1417	other	LENS-546 : change parameter names	-2
+1421	perfective	perfective: A commit message mentions aspects	1
+1422	corrective	fix_error: A fix for an	-2
+1429	corrective	Fix metastore service and test to work	-2
+1447	corrective	corrective: A commit message mentions bug	2
+1448	perfective	MAHOUT-944: luc	-2
+1469	perfective	MAHOUT-398: eliminated separate	-2
+1473	perfective	The class name is the name of the	-2
+1477	other	The class name is the name of the	-2
+1480	other	perfective: A commit message mentions aspects	1
+1484	other	The next commit message should be a description	-2
+1488	other	class: hdfs  COM	-2
+1489	other	fix how hiddens are handled	-2
+1490	corrective	Perfective: A commit message mentions aspects	1
+1491	other	get/set authdomain value in rest	-2
+1495	corrective	CONNECTORS-279  FIX	-2
+1497	perfective	Add a new class to the repository.	-2
+1499	corrective	CONNECTORS-606:	-2
+1501	other	CONNECTORS-366  CON	-2
+1504	corrective	CONNECTORS-200  FIX:	-2
+1511	other	perfective: A commit message mentions aspects	1
+1514	other	CONNECTORS-1066	-2
+1516	corrective	CONNECTORS-1261	-2
+1517	other	perfective: A commit message mentions aspects	1
+1518	other	'perfective'  COMMIT MES	1
+1542	other	[SSHD-733] SSHD	-2
+1544	perfective	perfective: A commit message mentions aspects	1
+1547	corrective	corrective: A commit message mentions bug	2
+1553	corrective	fix synchronisation problem which causes out of	-2
+1555	other	'factory-injected-replacement'	-2
+1559	other	NIFI-5585: Adjust	-2
+1561	other	NIFI-5384 FlowFile	-2
+1569	other	NIFI-3970  COMMIT	-2
+1574	corrective	NIFI-4409: Ensure	-2
+1575	perfective	NIFI-4221 - Print	-2
+1576	perfective	NIFI-4007 - Update	-2
+1578	other	NIFI-3938: Added	-2
+1581	corrective	NIFI-3744 - Put	-2
+1587	corrective	NIFI-2643 Changed null	-2
+1589	other	NIFI-2322, N	-2
+1593	other	NIFI-1804 Adding ability	-2
+1595	other	NIFI-1951: -	-2
+1596	perfective	NIFI-1811 Removed Processor	-2
+1611	other	NIFI-10: Added F	-2
+1612	corrective	NIFI-892: If	-2
+1616	perfective	perfective: A commit message mentions aspects	1
+1620	other	NIFI-856 - Im	-2
+1625	perfective	perfective: Add util to sum features	1
+1630	perfective	java.util.HashMap	-2
+1632	perfective	perfective: A commit message mentions aspects	1
+1634	corrective	perfective: A patch from Jeff Z	1
+1646	perfective	OPENNLP-614 Removed all Geo	-2
+1648	perfective	The class name is the name of the	-2
+1650	perfective	perfective: A commit message mentions aspects	1
+1661	perfective	make fields final  COMMIT M	-2
+1666	perfective	add constants and doc  add constants	-2
+1669	perfective	cleanup  cleanup	-2
+1672	corrective	PARQUET-325: row count	-2
+1674	corrective	fix snappy compressor in parquet-	-2
+1677	other	fill in missing fields, only for str	-2
+1679	corrective	PARQUET-414: Fix Java	-2
+1695	perfective	corrective: A commit message mentions bug	2
+1702	other	perfective: A commit message mentions aspects	1
+1715	corrective	perfective: A commit message mentions aspects	1
+1727	perfective	perfective: A commit message mentions aspects	1
+1731	corrective	perfective: A commit message mentions aspects	1
+1752	perfective	perfective: move static methods to more	1
+1756	perfective	PDFBOX-2577: add public	-2
+1762	perfective	corrective: A commit message mentions bug	2
+1769	corrective	Perfective: A commit message mentions aspects	1
+1774	perfective	DRY refactoring of double code in triangle	-2
+1776	other	perfective: A commit message mentions aspects	1
+1777	perfective	fix typos  COMMIT MESSA	-2
+1778	corrective	perfective: A commit message mentions aspects	1
+1779	perfective	fix import  COMMIT MESSAGE	-2
+1785	corrective	perfective: A commit message mentions aspects	1
+1791	corrective	perfective: A commit message mentions aspects	1
+1793	corrective	perfective: A commit message mentions aspects	1
+1795	perfective	org.apache.xmpbox  COM	-2
+1796	other	perfective: A commit message mentions aspects	1
+1798	perfective	xmpbox  COMMENT: refact	-2
+1801	other	AWT-GeneralPath  AW	-2
+1824	corrective	perfective: A commit message mentions aspects	1
+1826	perfective	fix javadoc, as suggested by Lore	-2
+1833	corrective	perfective: A commit message mentions aspects	1
+1835	perfective	'perfective'  COMMIT MES	1
+1839	perfective	java.lang.Object  COMMIT M	-2
+1843	perfective	fix javadoc error  The meaning	-2
+1852	other	PHOENIX-5069 Use	-2
+1855	other	'perfective'  COMMIT MES	1
+1856	other	PHOENIX-4386 Calcul	-2
+1857	other	Pherf  COMMIT MESSA	-2
+1858	corrective	PHOENIX-4473 Exception	-2
+1861	perfective	PHOENIX-4253 Make	-2
+1865	perfective	perfective: A commit message mentions aspects	1
+1868	other	PHOENIX-2995 Write	-2
+1870	other	PHOENIX-2706 Implement	-2
+1872	other	Perfective: A commit message mentions aspects	1
+1887	other	perfective: A commit message mentions aspects	1
+1891	corrective	PHOENIX-4287 Make	-2
+1892	other	perfective: A commit message mentions aspects	1
+1901	other	perfective: A commit message mentions aspects	1
+1908	perfective	PHOENIX-1366 Use	-2
+1909	corrective	PHOENIX-1314 Ass	-2
+1920	corrective	perfective: A commit message mentions aspects	1
+1924	perfective	PHOENIX-1157 Improve	-2
+1929	corrective	PHOENIX-3439 Query	-2
+1934	corrective	PHOENIX-3968	-2
+1941	other	performance  COMMIT MESSAGE:	-2
+1942	corrective	PHOENIX-3121 M	-2
+1944	corrective	perfective: A commit message mentions aspects	1
+1957	corrective	'PHOENIX-4366'	-2
+1959	corrective	PHOENIX-3917 Row	-2
+1960	corrective	fixPhoenixMRJobSubmitter: A	-2
+1965	other	PHOENIX-2021 -	-2
+1968	corrective	HBase  COMMIT MESSAGE	-2
+1973	corrective	hbase-site.xml  <property	-2
+1979	corrective	PHOENIX-1362 Min	-2
+1989	corrective	PHOENIX-5017 Fix	-2
+1991	corrective	PHOENIX-4963 Do	-2
+2021	perfective	cleanup: A commit message mentions the	-2
+2023	other	'SSL'  COMMIT MESSA	-2
+2025	other	RANGER-877: Exceptions	-2
+2028	corrective	Ranger-715:Fix issues	-2
+2034	perfective	Removing unused globalCounter of messages	-2
+2035	corrective	RANGER-379: build is	-2
+2036	corrective	perfective: A commit message mentions aspects	1
+2038	other	perfective: A commit message mentions aspects	1
+2045	corrective	RANGER-2201:Fix	-2
+2046	perfective	'pom'  COMMIT MES	-2
+2062	corrective	Fixes ROL-1864 by	-2
+2078	perfective	FeedFetcher  class Feed	-2
+2093	other	1.4.2: Fix compile	-2
+2096	perfective	perfective: A commit message mentions aspects	1
+2098	other	perfective: A commit message mentions aspects	1
+2099	other	The class name is the name of the	-2
+2103	other	SANTUARIO-394:	-2
+2113	perfective	The class name is the name of the	-2
+2117	corrective	Fixes bug 42061: Method to	-2
+2125	corrective	'Fix' for [URL] COM	-2
+2127	other	Add a new class to the repository.	-2
+2140	other	Tuple is now also a Map	-2
+2143	perfective	switch receive queues to be disruptor queues	-2
+2147	other	'perfective'  COMMIT MES	1
+2151	perfective	address review comments; clarify 'cleanup	-2
+2170	other	class:  spout:	-2
+2182	perfective	[STORM-3093]	-2
+2184	perfective	STORM-3125: Ref	-2
+2188	other	port 0.9.0 change to	-2
+2189	corrective	'perfective'  STORM-	1
+2193	other	streams-project/streams-plugins/stream	-2
+2195	perfective	protect no-arg constructor  COM	-2
+2198	other	[URL]  [URL]	-2
+2223	corrective	WW-3837: A commit message	-2
+2226	corrective	WW-3488 - adds copy field	-2
+2228	other	The class name is the name of the	-2
+2229	other	WW-4166 Adds class and style aliases	-2
+2232	other	Ports exclude access Class from commit [	-2
+2235	other	perfective: A commit message mentions aspects	1
+2245	corrective	WW-3000 force StrutsPrepare	-2
+2249	perfective	The class name is the name of the	-2
+2251	corrective	WW-3402 - memory leak	-2
+2252	other	WW-3143 lowering log level for	-2
+2253	perfective	perfective: A commit message mentions aspects	1
+2260	other	perfective: A commit message mentions aspects	1
+2268	corrective	[SYSTEMML-672] Fix	-2
+2289	perfective	blocker: A commit message mentions a	-2
+2290	corrective	61184: SystemML Engine Enhance	-2
+2293	other	parFor: ParFor is a dependency	-2
+2295	perfective	[MINOR] Code refactoring	-2
+2309	other	[SYSTEMML-2477]	-2
+2310	other	par_for_n  209	-2
+2311	other	mvmult (optimizer usage,	-2
+2312	other	miscellaneous enhancements  COMMIT MESSA	-2
+2313	corrective	[SYSTEMML-906]	-2
+2321	other	[SYSTEMML-2120]	-2
+2330	perfective	[SYSTEMML-1517]	-2
+2331	other	[SYSTEMML-2047]	-2
+2332	perfective	[SYSTEMML-2460]	-2
+2336	other	[SYSTEMML-1439]	-2
+2340	perfective	perfective: A commit message mentions aspects	1
+2342	corrective	[HOTFIX][SYSTEMML	-2
+2344	corrective	[SYSTEMML-2369]	-2
+2348	corrective	Fix a bug in the getReader function	-2
+2355	other	perfective: A commit message mentions aspects	1
+2356	corrective	Perfective: A commit message mentions aspects	1
+2357	other	perfective: A commit message mentions aspects	1
+2361	perfective	'perfective'  COMMIT MES	1
+2370	corrective	CHANGES.txt  CH	-2
+2402	corrective	don't put another application/ in front	0
+2409	other	'node'  COMMIT MESSA	-2
+2410	perfective	TIKA-17  Tika-	-2
+2415	other	tika-config.xml  TIK	-2
+2418	other	perfective: A commit message mentions aspects	1
+2425	other	'perfective'  COMMIT MES	1
+2434	other	The class name is the name of the	-2
+2435	perfective	'cleanup'  COMMENT: '	-2
+2438	perfective	perfective: A commit message mentions aspects	1
+2444	other	TIKA-2074 - Service	-2
+2474	perfective	[WSS-251] - Rem	-2
+2476	corrective	perfective: A commit message mentions aspects	1
+2482	perfective	Conflicts: ws-security-	-2
+2483	perfective	Perfective: A commit message mentions aspects	1
+2487	corrective	[WSS-578] - Fix	-2
+2488	other	ws-security-dom/src/main	-2
+2492	corrective	[WSS-245] - W	-2
+2499	other	ZEPPELIN-172 Webs	-2
+2519	other	] Added the indentation similar to other interpreter setting	0
+2520	other	ZEPPELIN-3246	-2
+2527	other	ZEPPELIN-2261	-2

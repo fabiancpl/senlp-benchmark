@@ -1,0 +1,11 @@
+In the context of software codebases, classify the next comment sentence as 'usage', 'parameters', 'developmentNotes', 'expand', or 'Summary'. It is possible to assign more than one class to a sentence. Answer only with the selected classes separated by semicolon (,) without quotation marks.
+
+The meaning of each class is as follows:
+usage: The sentence explains how to use the code. It usually contains some examples.
+parameters: The sentence explains the parameters of a function.
+developmentNotes: The sentence covers topics related to the work in progress, temporary tips, and explanations, etc.
+expand: The sentence provides more details about the code itself.
+Summary: The sentence contains a brief description of the functionability of the source code.
+
+COMMENT SENTENCE:
+{text}

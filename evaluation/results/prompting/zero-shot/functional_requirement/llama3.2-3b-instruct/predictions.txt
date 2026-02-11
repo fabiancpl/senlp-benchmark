@@ -1,0 +1,193 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	functional non-functional unknown The correct	1
+11	functional	non-functional REASONING: The requirement does	0
+15	functional	non-functional	0
+22	functional	functional   Please select one of the following options	1
+32	functional	functional non-functional unknown The correct	1
+34	functional	non-functional functional other EXPLAN	0
+42	functional	The requirement is related to the functionality of the	1
+43	functional	functional RATING: high IMPACT:	1
+46	functional	non-functional	0
+50	functional	non-functional	0
+52	functional	functional	1
+53	functional	functional	1
+57	functional	functional  Note: The classification of the requirement is	1
+64	functional	non-functional	0
+68	functional	non-functional	0
+74	non-functional	functional	1
+77	functional	functional non-functional unknown The correct	1
+87	functional	non-functional	0
+92	functional	functional	1
+94	functional	non-functional	0
+95	functional	Functional SUBCLASS:  Non-Functional	1
+96	functional	Functional SUBCLASS:  None P	1
+98	functional	functional non-functional unknown The correct	1
+99	functional	non-functional	0
+106	functional	functional	1
+107	functional	non-functional	0
+110	functional	non-functional	0
+115	functional	functional/non-functional	1
+116	functional	functional non-functional unknown The correct	1
+125	functional	non-functional	0
+128	functional	functional	1
+130	non-functional	non-functional	0
+132	functional	non-functional	0
+135	functional	functional non-functional unknown Other	1
+141	functional	functional   Please select one of the following options	1
+143	functional	non-functional	0
+158	non-functional	functional non-functional other unknown	1
+159	non-functional	non-functional	0
+172	non-functional	functional	1
+181	non-functional	non-functional	0
+188	non-functional	non-functional	0
+189	non-functional	functional	1
+194	non-functional	non-functional	0
+196	non-functional	non-functional	0
+202	functional	functional	1
+204	functional	functional RATING: high IMPACT:	1
+206	functional	functional	1
+210	non-functional	functional	1
+211	non-functional	functional NON-FUNCTIONAL:  The system	1
+215	non-functional	functional	1
+220	functional	non-functional	0
+223	functional	functional	1
+237	functional	non-functional	0
+248	functional	functional non-functional unknown Other	1
+249	functional	functional	1
+250	non-functional	non-functional	0
+255	functional	The requirement is related to the usability of the	-2
+260	non-functional	non-functional	0
+268	non-functional	non-functional	0
+269	non-functional	functional non-functional other unknown	1
+272	non-functional	functional or non-functional	1
+282	non-functional	functional	1
+288	functional	Class QUARTER: Quarter COHORT	-2
+289	functional	Class QUARTER: Quarter COHORT	-2
+296	non-functional	Clinical Class DOMAIN: Clinical Education SUBJECT	-2
+299	functional	Functional:  Non-Functional:  Quality	1
+306	non-functional	Clinical Lab Section SUBJECT: Clinical Lab Section	-2
+309	functional	The requirement is related to the system's functionality	1
+320	functional	non-functional	0
+323	functional	non-functional	0
+325	functional	functional   REQUIREMENT: The system shall	1
+328	functional	functional	1
+330	non-functional	non-functional	0
+346	non-functional	functional	1
+360	non-functional	non-functional	0
+364	non-functional	functional/non-functional	1
+371	functional	non-functional	0
+376	functional	functional   Please select one of the following options	1
+381	functional	non-functional	0
+399	non-functional	non-functional	0
+403	non-functional	non-functional	0
+412	functional	functional/non-functional	1
+413	functional	non-functional	0
+415	non-functional	non-functional	0
+416	non-functional	non-functional	0
+421	non-functional	functional	1
+426	non-functional	non-functional	0
+427	functional	functional non-functional Other Unknown	1
+433	functional	functional	1
+437	functional	functional	1
+438	functional	non-functional	0
+441	functional	functional	1
+454	functional	non-functional	0
+461	non-functional	functional/non-functional	1
+472	functional	functional	1
+477	non-functional	non-functional	0
+478	non-functional	non-functional	0
+479	non-functional	non-functional	0
+480	non-functional	functional	1
+481	non-functional	non-functional	0
+491	non-functional	non-functional	0
+495	non-functional	non-functional	0
+514	functional	functional	1
+517	functional	non-functional	0
+526	functional	functional	1
+533	non-functional	functional non-functional Other Unknown	1
+537	non-functional	functional	1
+542	functional	functional	1
+544	functional	functional	1
+549	functional	functional	1
+557	functional	functional/non-functional	1
+558	functional	functional non-functional other unknown	1
+561	functional	functional	1
+562	functional	functional/non-functional	1
+563	functional	non-functional	0
+575	functional	functional	1
+581	non-functional	functional non-functional The correct answer is	1
+588	non-functional	functional	1
+590	non-functional	non-functional	0
+598	non-functional	non-functional	0
+599	non-functional	non-functional	0
+604	functional	functional	1
+607	non-functional	functional	1
+609	non-functional	functional non-functional Other Unknown	1
+613	non-functional	non-functional	0
+614	non-functional	functional	1
+621	non-functional	functional	1
+622	non-functional	non-functional	0
+625	non-functional	non-functional	0
+629	functional	non-functional	0
+632	functional	functional	1
+645	functional	non-functional	0
+647	non-functional	functional	1
+663	functional	functional non-functional unknown The correct	1
+667	functional	functional/non-functional	1
+669	functional	functional non-functional unknown The correct	1
+677	functional	non-functional	0
+684	functional	non-functional	0
+686	non-functional	non-functional	0
+689	functional	non-functional	0
+690	functional	functional	1
+703	functional	non-functional	0
+710	functional	non-functional	0
+711	functional	non-functional	0
+720	functional	functional	1
+726	non-functional	non-functional	0
+733	functional	functional non-functional unknown The correct	1
+737	non-functional	functional non-functional The correct answer is	1
+738	functional	non-functional	0
+747	functional	non-functional	0
+748	non-functional	non-functional	0
+750	non-functional	functional	1
+751	non-functional	non-functional	0
+755	non-functional	non-functional	0
+757	non-functional	functional	1
+761	non-functional	non-functional	0
+771	non-functional	non-functional	0
+773	non-functional	non-functional	0
+774	functional	non-functional	0
+775	functional	non-functional	0
+786	functional	functional	1
+791	non-functional	non-functional	0
+792	non-functional	non-functional	0
+796	non-functional	non-functional	0
+797	non-functional	functional	1
+806	non-functional	non-functional	0
+807	non-functional	non-functional	0
+814	functional	functional non-functional other unknown	1
+819	functional	functional	1
+835	functional	The requirement is related to the structure of the	-2
+836	functional	non-functional	0
+837	functional	non-functional	0
+849	functional	non-functional	0
+856	non-functional	Data Types SUBCLASS: Data Types Classification	-2
+859	functional	non-functional	0
+860	functional	non-functional	0
+875	functional	functional non-functional unknown The correct	1
+891	non-functional	non-functional	0
+896	functional	functional	1
+899	non-functional	non-functional	0
+906	functional	functional	1
+912	functional	functional	1
+925	functional	functional non-functional unknown Other (	1
+927	functional	functional	1
+933	functional	functional	1
+935	functional	functional	1
+939	functional	functional non-functional unknown Other (	1
+944	non-functional	non-functional	0
+945	functional	functional	1
+946	functional	functional	1
+950	functional	functional	1
+955	non-functional	non-functional	0

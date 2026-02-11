@@ -1,8 +1,7 @@
 """Language detector tool.
 
-This module implements a FastText inference process for detecting the language
-of a given text. It is based on a pre-built model available on the FastText
-official website.
+This module implements a FastText inference process for detecting the language of a given text. It
+is based on a pre-built model available on the FastText official website.
 """
 
 import re
@@ -12,7 +11,7 @@ import fasttext
 
 # The model binary can be downloaded here:
 # https://fasttext.cc/docs/en/language-identification.html
-MODEL_PATH = "../assets/models/lid.176.bin"
+MODEL_PATH = "../../assets/models/lid.176.bin"
 model = fasttext.load_model(MODEL_PATH)
 
 

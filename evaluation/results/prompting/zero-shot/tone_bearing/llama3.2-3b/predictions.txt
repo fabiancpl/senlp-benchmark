@@ -1,0 +1,1321 @@
+index	ground_truth	raw_prediction	parsed_prediction
+3	technical	non-technical	1
+4	technical	non-technical	1
+5	technical	technical  In the context of open source development platforms	0
+9	technical	non-technical	1
+16	technical	non-technical	1
+34	technical	non-technical	1
+54	technical	non-technical  In the context of open source	1
+55	technical	non-technical	1
+64	technical	technical	0
+66	technical	non-technical	1
+77	technical	non-technical  I'm not sure if this	1
+94	technical	non-technical	1
+98	technical	non-technical	1
+114	technical	technical	0
+116	technical	non-technical	1
+117	technical	non-technical	1
+119	technical	non-technical	1
+125	technical	technical	0
+126	technical	non-technical	1
+127	technical	non-technical	1
+130	technical	technical  The meaning of each class is as follows	0
+133	technical	non-technical	1
+137	technical	non-technical	1
+143	technical	technical  SENTENCE: I'm not sure if	0
+146	technical	non-technical	1
+154	technical	non-technical	1
+160	technical	technical  The meaning of each class is as follows	0
+161	technical	non-technical	1
+164	technical	non-technical	1
+189	technical	technical	0
+190	technical	non-technical	1
+197	technical	non-technical	1
+200	technical	technical	0
+201	technical	non-technical	1
+202	technical	non-technical	1
+206	technical	non-technical  Explanation: The sentence is not	1
+223	technical	non-technical	1
+224	technical	non-technical	1
+225	technical	non-technical	1
+232	technical	non-technical	1
+235	technical	non-technical	1
+241	technical	technical  In the context of open source development platforms	0
+242	technical	technical	0
+249	technical	technical	0
+253	technical	non-technical	1
+255	technical	non-technical	1
+260	technical	non-technical	1
+262	technical	non-technical	1
+280	technical	non-technical	1
+285	technical	non-technical	1
+301	technical	non-technical	1
+302	technical	non-technical	1
+320	technical	non-technical	1
+327	technical	non-technical	1
+335	technical	non-technical	1
+337	technical	non-technical  The meaning of each class is	1
+341	technical	non-technical	1
+345	technical	non-technical	1
+357	technical	non-technical	1
+362	technical	non-technical	1
+364	technical	non-technical  The meaning of each class is	1
+375	technical	non-technical	1
+379	technical	non-technical	1
+384	technical	non-technical	1
+385	technical	technical	0
+388	technical	non-technical	1
+391	technical	from the normal hugepage. I do not know	-2
+395	technical	non-technical	1
+404	technical	non-technical	1
+412	technical	non-technical	1
+417	technical	non-technical	1
+419	technical	non-technical	1
+455	technical	non-technical  1. https://github.com	1
+466	technical	non-technical	1
+467	technical	non-technical	1
+470	technical	non-technical	1
+474	technical	non-technical	1
+477	technical	non-technical  EXPLANATION: The sentence	1
+488	technical	non-technical	1
+492	technical	non-technical	1
+499	technical	non-technical	1
+502	technical	non-technical	1
+504	technical	non-technical	1
+510	technical	non-technical	1
+512	technical	non-technical	1
+513	technical	non-technical	1
+523	technical	non-technical	1
+524	technical	non-technical  Explanation: The sentence is non	1
+525	technical	technical	0
+536	technical	non-technical  The meaning of each class is	1
+537	technical	non-technical	1
+539	technical	non-technical	1
+559	technical	non-technical	1
+562	technical	non-technical	1
+563	technical	non-technical	1
+569	technical	technical	0
+574	technical	technical  SENTENCE: I'm not sure if	0
+580	technical	technical	0
+595	technical	non-technical	1
+600	technical	technical	0
+603	technical	non-technical	1
+606	technical	non-technical	1
+608	technical	non-technical	1
+616	technical	non-technical	1
+623	technical	non-technical	1
+635	technical	technical	0
+638	technical	non-technical	1
+645	technical	non-technical  In the context of open source	1
+646	technical	non-technical	1
+659	technical	non-technical  SENTENCE: I don't	1
+663	technical	non-technical  The meaning of each class is	1
+666	technical	non-technical	1
+667	technical	non-technical	1
+671	technical	non-technical  The meaning of each class is	1
+673	technical	technical  The meaning of each class is as follows	0
+675	technical	non-technical	1
+688	technical	non-technical	1
+698	technical	non-technical	1
+699	technical	non-technical	1
+709	technical	non-technical	1
+713	technical	non-technical	1
+716	technical	non-technical	1
+717	technical	, I'm not sure if the randomization is	-2
+722	technical	non-technical	1
+723	technical	technical	0
+728	technical	non-technical	1
+732	technical	non-technical	1
+740	technical	non-technical	1
+753	technical	non-technical	1
+760	technical	non-technical	1
+766	technical	non-technical	1
+768	technical	technical	0
+769	technical	non-technical	1
+770	technical	non-technical  The sentence does not demonstrate any	1
+774	technical	non-technical	1
+775	technical	non-technical	1
+784	technical	interface" rule, but it's a one-time	-2
+793	technical	non-technical	1
+797	technical	non-technical	1
+804	technical	non-technical	1
+814	technical	non-technical	1
+815	technical	non-technical	1
+822	technical	non-technical	1
+823	technical	non-technical	1
+825	technical	non-technical	1
+827	technical	technical  I'm not sure what you mean by	0
+830	technical	technical  I already share my plan with you.	0
+832	technical	non-technical  In the context of open source	1
+846	technical	non-technical	1
+851	technical	technical	0
+853	technical	non-technical	1
+854	technical	technical	0
+860	technical	non-technical	1
+863	technical	technical	0
+870	technical	non-technical  In the context of open source	1
+872	technical	non-technical	1
+876	technical	non-technical	1
+878	technical	technical	0
+894	technical	non-technical	1
+895	technical	non-technical	1
+899	technical	non-technical	1
+901	technical	non-technical	1
+914	technical	non-technical	1
+918	technical	non-technical	1
+919	technical	non-technical	1
+922	technical	non-technical	1
+924	technical	non-technical	1
+928	technical	non-technical	1
+943	technical	technical	0
+946	technical	non-technical	1
+950	technical	non-technical	1
+951	technical	non-technical	1
+953	technical	non-technical	1
+954	technical	non-technical	1
+956	technical		-2
+959	technical	non-technical	1
+966	technical	non-technical	1
+971	technical	non-technical	1
+975	technical	non-technical	1
+980	technical	technical  Explanation: The sentence is technical. It	0
+984	technical	non-technical	1
+989	technical	non-technical	1
+991	technical	non-technical	1
+992	technical	non-technical	1
+995	technical	non-technical  The patch looks good to me	1
+1012	technical	technical	0
+1015	technical	non-technical	1
+1016	technical	non-technical	1
+1021	technical	non-technical	1
+1028	technical	non-technical	1
+1045	technical	technical  In the context of open source development platforms	0
+1059	technical	non-technical	1
+1060	technical	non-technical	1
+1062	technical	non-technical	1
+1063	technical	non-technical	1
+1065	technical	non-technical  The meaning of each class is	1
+1066	technical	non-technical  The meaning of each class is	1
+1069	technical	technical  In the context of open source development platforms	0
+1076	technical	non-technical	1
+1077	technical	non-technical	1
+1081	technical	non-technical  SENTENCE: I think the	1
+1082	technical	, I think we need to consider the possibility that	-2
+1118	technical	non-technical	1
+1120	technical	non-technical  Explanation: The sentence is non	1
+1122	technical	non-technical	1
+1139	technical	non-technical	1
+1141	technical	non-technical	1
+1145	technical	technical	0
+1147	technical	non-technical	1
+1148	technical	non-technical	1
+1150	technical	non-technical	1
+1154	technical	non-technical	1
+1155	technical	non-technical	1
+1156	technical	non-technical	1
+1160	technical	non-technical	1
+1166	technical	non-technical	1
+1167	technical	technical  SENTENCE: Any comments on this set	0
+1169	technical	non-technical	1
+1184	technical	non-technical	1
+1191	technical	non-technical	1
+1202	technical	non-technical	1
+1205	technical	non-technical	1
+1214	technical	non-technical	1
+1217	technical	non-technical	1
+1218	technical	non-technical	1
+1243	technical	technical  SENTENCE: I'm not sure if	0
+1248	technical	technical	0
+1250	technical	non-technical	1
+1252	technical	non-technical  Explanation: The sentence is written	1
+1254	technical	non-technical	1
+1256	technical	non-technical	1
+1267	technical	non-technical	1
+1275	technical	non-technical	1
+1276	technical	non-technical	1
+1282	technical	non-technical	1
+1291	technical	non-technical	1
+1296	technical	non-technical	1
+1300	technical	non-technical	1
+1306	technical	non-technical	1
+1308	technical	non-technical	1
+1311	technical	non-technical	1
+1312	technical	non-technical	1
+1314	technical	non-technical  EXPLANATION: The sentence	1
+1318	technical	technical	0
+1324	technical	non-technical  In the context of open source	1
+1333	non-technical	non-technical	1
+1346	non-technical	this in the upstream kernel. I think we should	-2
+1352	non-technical	non-technical	1
+1355	non-technical	non-technical	1
+1368	non-technical	non-technical	1
+1369	non-technical	non-technical	1
+1372	non-technical	space for them. This is a change in behaviour	-2
+1378	non-technical	that you are saying that the patch wording is not	-2
+1380	non-technical	non-technical  In the context of open source	1
+1397	non-technical	non-technical	1
+1399	non-technical	non-technical	1
+1401	non-technical	non-technical	1
+1403	non-technical	non-technical	1
+1405	non-technical	non-technical	1
+1412	non-technical	non-technical	1
+1413	non-technical	non-technical  The sentence demonstrates moods or	1
+1419	non-technical	non-technical	1
+1428	non-technical	non-technical	1
+1437	non-technical	technical	0
+1438	non-technical	non-technical  SENTENCE: I'm not	1
+1442	non-technical	non-technical	1
+1444	non-technical	non-technical	1
+1457	non-technical	non-technical	1
+1463	non-technical	technical	0
+1482	non-technical	oting the kernel source: "The limit is	-2
+1490	non-technical	non-technical	1
+1497	technical	technical	0
+1499	technical	non-technical	1
+1500	technical	technical	0
+1510	technical	non-technical	1
+1516	technical	non-technical	1
+1521	technical	non-technical  I think this is a good	1
+1526	technical	non-technical	1
+1531	technical	non-technical	1
+1533	technical	[removed - inappropriate content]	-2
+1537	technical	non-technical	1
+1552	technical	non-technical	1
+1556	technical	non-technical	1
+1564	technical	technical	0
+1577	technical	technical	0
+1613	technical	technical	0
+1628	technical	non-technical  I think the sentence is non	1
+1638	technical	non-technical	1
+1646	technical	non-technical	1
+1649	technical	technical	0
+1652	technical	non-technical  In the context of open source	1
+1661	technical	non-technical	1
+1663	technical	non-technical	1
+1668	technical	non-technical	1
+1684	technical	non-technical	1
+1695	technical	non-technical	1
+1696	technical	non-technical	1
+1697	technical	technical  In the context of open source development platforms	0
+1699	technical	non-technical	1
+1708	technical	non-technical	1
+1710	technical	non-technical	1
+1736	technical	non-technical	1
+1738	technical	non-technical  I think this is a good	1
+1739	technical	non-technical	1
+1741	technical	non-technical  In the context of open source	1
+1742	technical	non-technical  SENTENCE: Also N435	1
+1749	technical	technical	0
+1753	technical	technical  SENTENCE: Also, just wanted to	0
+1765	technical	non-technical	1
+1771	technical	technical	0
+1772	technical	technical	0
+1773	technical	non-technical	1
+1787	technical	non-technical  I think it's a non	1
+1793	technical	technical	0
+1799	technical	technical	0
+1801	technical	non-technical	1
+1803	technical	non-technical	1
+1804	technical	non-technical  I think the answer is non	1
+1807	technical	non-technical	1
+1813	technical	non-technical  ANSWER: Any news when	1
+1814	technical	technical  SENTENCE: I'm sorry, I	0
+1816	technical	non-technical	1
+1831	technical	non-technical	1
+1832	technical	non-technical	1
+1836	technical	non-technical	1
+1841	technical	technical	0
+1846	technical	non-technical	1
+1847	technical	non-technical	1
+1848	technical	technical	0
+1850	technical	non-technical	1
+1853	technical	non-technical	1
+1854	technical	non-technical  The sentence is non-technical	1
+1855	technical	non-technical	1
+1861	technical	non-technical	1
+1864	technical	non-technical  The sentence is non-technical	1
+1875	technical	technical	0
+1883	technical	non-technical	1
+1887	technical	technical  I'm not sure if this is a	0
+1890	technical	non-technical  SENTENCE: I'm not	1
+1892	technical	non-technical	1
+1901	technical	non-technical	1
+1902	technical	non-technical	1
+1921	technical	non-technical	1
+1925	technical	non-technical	1
+1927	technical	non-technical	1
+1929	technical	non-technical	1
+1960	technical	non-technical  Explanation: The sentence is non	1
+1962	technical	non-technical	1
+1970	technical	non-technical	1
+1974	technical	non-technical  I am not sure if this	1
+1978	technical	non-technical	1
+1984	technical	non-technical	1
+1987	technical	technical	0
+1991	technical	non-technical	1
+1992	technical	technical  The following sentence is a technical description of	0
+1995	technical	non-technical	1
+1996	technical	non-technical	1
+2002	technical	technical	0
+2006	technical	non-technical	1
+2009	technical	non-technical	1
+2011	technical	non-technical	1
+2016	technical	non-technical	1
+2020	technical	non-technical	1
+2021	technical	non-technical	1
+2022	technical	non-technical	1
+2024	technical	non-technical	1
+2025	technical	non-technical	1
+2031	technical	non-technical	1
+2033	technical	non-technical  Explanation: The sentence is non	1
+2055	technical	non-technical	1
+2063	technical	non-technical	1
+2067	technical	non-technical	1
+2069	technical	non-technical	1
+2074	technical	non-technical	1
+2076	technical	non-technical	1
+2085	technical	technical	0
+2088	technical	non-technical	1
+2098	technical	non-technical	1
+2099	technical	non-technical	1
+2112	technical	non-technical  SENTENCE: I'm not	1
+2123	technical	non-technical  I think it's a bit	1
+2126	technical	technical	0
+2127	technical	non-technical	1
+2136	technical	non-technical  I think it's a bit	1
+2137	technical	non-technical  SENTENCE: correct. So	1
+2138	technical	non-technical  Explanation: The sentence is non	1
+2143	technical	non-technical  The meaning of each class is	1
+2144	technical	non-technical	1
+2149	technical	non-technical	1
+2150	technical	non-technical	1
+2152	technical	non-technical  In the context of open source	1
+2154	technical	technical	0
+2158	technical	non-technical	1
+2162	technical	non-technical	1
+2164	technical	non-technical	1
+2165	technical	non-technical	1
+2166	technical	non-technical	1
+2168	technical	non-technical  In the context of open source	1
+2185	technical	non-technical	1
+2194	technical	non-technical	1
+2195	technical	non-technical	1
+2203	technical	non-technical	1
+2206	technical	non-technical	1
+2207	technical	non-technical	1
+2209	technical	non-technical	1
+2215	technical	non-technical  I think it's non-	1
+2216	technical	non-technical  In the context of open source	1
+2217	technical	non-technical	1
+2223	technical	non-technical	1
+2224	technical	non-technical	1
+2228	technical	non-technical  I think this is a non	1
+2229	technical	non-technical	1
+2230	technical	non-technical  Explanation: The sentence is non	1
+2233	technical	non-technical	1
+2238	technical	non-technical	1
+2243	technical	non-technical	1
+2247	technical	non-technical	1
+2249	technical	non-technical	1
+2250	technical	non-technical	1
+2273	technical	non-technical	1
+2284	technical	technical	0
+2290	technical	technical  In the context of open source development platforms	0
+2293	technical	non-technical	1
+2296	technical	technical	0
+2304	technical	non-technical	1
+2309	technical	to use 3rd party components, and now	-2
+2311	technical	non-technical	1
+2318	technical	technical	0
+2319	technical	non-technical	1
+2320	technical	non-technical	1
+2324	technical	non-technical	1
+2326	technical	technical	0
+2328	technical	non-technical	1
+2329	technical	non-technical	1
+2333	technical	non-technical  The sentence demonstrates moods or	1
+2348	technical	non-technical	1
+2356	technical	non-technical	1
+2358	technical	non-technical	1
+2360	technical	non-technical	1
+2361	technical	non-technical  I'm not sure if this	1
+2366	technical	technical  The meaning of each class is as follows	0
+2368	technical	non-technical	1
+2371	technical	non-technical	1
+2372	technical	non-technical	1
+2373	technical	non-technical	1
+2382	technical	non-technical	1
+2387	technical	non-technical	1
+2405	technical	non-technical	1
+2411	technical	non-technical	1
+2423	technical	non-technical	1
+2429	technical	non-technical	1
+2430	technical	non-technical	1
+2433	technical	non-technical	1
+2446	technical	non-technical  In the context of open source	1
+2454	technical	technical	0
+2462	technical	non-technical	1
+2464	technical	non-technical	1
+2468	technical	non-technical	1
+2492	technical	non-technical	1
+2494	technical	non-technical	1
+2495	technical	technical  The sentence does not demonstrate any mood or	0
+2500	technical	non-technical	1
+2504	technical	non-technical	1
+2511	technical	non-technical	1
+2517	technical	non-technical  The sentence demonstrates moods or	1
+2530	technical	technical	0
+2531	technical	non-technical	1
+2536	technical	non-technical	1
+2539	technical	technical  ```js function isNegative(num)	0
+2544	technical	non-technical	1
+2553	technical	non-technical	1
+2554	technical	non-technical  I am not sure if this	1
+2559	technical	non-technical	1
+2561	technical	non-technical	1
+2565	technical	non-technical	1
+2595	technical	non-technical	1
+2601	technical	non-technical	1
+2603	technical	non-technical	1
+2611	technical	non-technical	1
+2612	technical	non-technical  The meaning of each class is	1
+2617	technical	non-technical	1
+2622	technical	non-technical	1
+2623	technical	non-technical	1
+2640	technical	non-technical	1
+2647	technical	non-technical	1
+2650	technical	non-technical	1
+2653	technical	non-technical	1
+2657	technical	the team are usually volunteers, but there are some	-2
+2658	technical	non-technical	1
+2659	technical	non-technical	1
+2670	technical	technical	0
+2672	technical	non-technical	1
+2676	technical	non-technical	1
+2679	technical	into the Windows Terminal API. This could be a	-2
+2692	technical	. We can only make assumptions that the positives and	-2
+2705	technical	non-technical	1
+2706	technical	non-technical	1
+2707	technical	non-technical	1
+2714	technical	non-technical	1
+2719	technical	non-technical	1
+2724	technical	non-technical	1
+2725	technical	non-technical  I am a bit surprise by	1
+2726	technical	non-technical	1
+2728	technical	non-technical	1
+2731	technical	non-technical	1
+2733	technical	technical	0
+2736	technical	non-technical	1
+2758	technical	non-technical	1
+2761	technical	non-technical	1
+2763	technical	non-technical	1
+2765	technical	non-technical	1
+2780	technical	thing we are trying to avoid. So, I	-2
+2781	technical	non-technical	1
+2784	technical	non-technical	1
+2789	technical	non-technical	1
+2793	technical	non-technical	1
+2794	technical	non-technical	1
+2803	technical	non-technical	1
+2813	technical	non-technical  I did not see our way	1
+2828	technical	non-technical	1
+2842	technical	non-technical	1
+2843	technical	non-technical	1
+2849	technical	non-technical	1
+2858	technical	non-technical	1
+2861	technical	etc. You need to be able to expose your	-2
+2863	technical	JSX. But Flutter is still using XML files and	-2
+2869	technical	non-technical	1
+2871	technical	non-technical	1
+2876	technical	non-technical	1
+2877	technical	non-technical	1
+2880	technical	technical  SENTENCE: I encourage you to paste	0
+2881	technical	non-technical	1
+2885	technical	non-technical	1
+2892	technical	non-technical	1
+2897	technical	non-technical	1
+2898	technical	technical	0
+2899	technical	non-technical	1
+2901	technical	non-technical	1
+2902	technical	non-technical	1
+2903	technical	non-technical  SENTENCE: I am not	1
+2906	technical	non-technical	1
+2907	technical	non-technical	1
+2912	technical	technical	0
+2913	technical	non-technical  I had a problem to update	1
+2915	technical	non-technical	1
+2924	technical	technical	0
+2930	technical	non-technical	1
+2934	technical	non-technical	1
+2941	technical	non-technical  I have no idea what you	1
+2942	technical	non-technical	1
+2945	technical	non-technical	1
+2947	technical	technical	0
+2950	technical	non-technical	1
+2951	technical	non-technical	1
+2954	technical	non-technical	1
+2958	technical	non-technical	1
+2965	technical	non-technical	1
+2974	technical	non-technical	1
+2976	technical	non-technical	1
+2979	technical	non-technical	1
+2982	technical	non-technical	1
+2984	technical	non-technical	1
+2992	technical	technical	0
+2999	technical	technical  SENTENCE: I know you're dealing	0
+3000	technical	technical	0
+3006	technical	non-technical	1
+3007	technical	non-technical	1
+3017	technical	non-technical	1
+3021	technical	non-technical	1
+3029	technical	non-technical  I only remember ever mentioning bg	1
+3037	technical	technical  In the context of open source development platforms	0
+3038	technical	non-technical  I posted a link to a	1
+3039	technical	non-technical	1
+3040	technical	non-technical	1
+3046	technical	non-technical	1
+3056	technical	non-technical	1
+3059	technical	non-technical	1
+3064	technical	non-technical	1
+3066	technical	non-technical  I saw it, yes!	1
+3069	technical	non-technical  I see nothing in this proposal	1
+3072	technical	non-technical	1
+3079	technical	non-technical	1
+3080	technical	non-technical	1
+3082	technical	non-technical	1
+3087	technical	non-technical	1
+3091	technical	non-technical	1
+3096	technical	non-technical	1
+3099	technical	non-technical	1
+3101	technical	non-technical	1
+3103	technical	non-technical	1
+3106	technical	non-technical	1
+3115	technical	non-technical	1
+3118	technical	non-technical	1
+3124	technical	non-technical	1
+3126	technical	non-technical	1
+3127	technical	non-technical	1
+3129	technical	non-technical	1
+3133	technical	non-technical	1
+3135	technical	technical	0
+3143	technical	non-technical  I think the discussion on HIP	1
+3144	technical	non-technical	1
+3150	technical	non-technical	1
+3161	technical	non-technical	1
+3167	technical	non-technical	1
+3173	technical	non-technical	1
+3177	technical	non-technical	1
+3187	technical	non-technical  The meaning of each class is	1
+3198	technical	non-technical	1
+3199	technical	I don't think that is the case. I	-2
+3205	technical	non-technical	1
+3219	technical	non-technical	1
+3222	technical	non-technical	1
+3224	technical	non-technical  I won't complain and I	1
+3225	technical	non-technical	1
+3227	technical	non-technical  SENTENCE: I wonder if	1
+3228	technical	non-technical	1
+3235	technical	information was provided, and the PR was even closed	-2
+3236	technical	non-technical	1
+3237	technical	technical	0
+3240	technical	non-technical	1
+3241	technical	non-technical	1
+3247	technical	non-technical	1
+3254	technical	non-technical	1
+3255	technical	non-technical	1
+3260	technical	non-technical	1
+3267	technical	non-technical	1
+3272	technical	non-technical	1
+3276	technical	think we should do. I think that is a	-2
+3278	technical	non-technical	1
+3285	technical	non-technical  I'll add my comment,	1
+3286	technical	non-technical	1
+3288	technical	non-technical	1
+3290	technical	technical	0
+3292	technical	non-technical	1
+3304	technical	non-technical	1
+3308	technical	non-technical	1
+3309	technical	non-technical	1
+3314	technical	non-technical	1
+3315	technical	non-technical	1
+3320	technical	non-technical	1
+3324	technical	non-technical	1
+3325	technical	non-technical	1
+3338	technical	non-technical	1
+3339	technical	non-technical	1
+3343	technical	non-technical	1
+3345	technical	non-technical	1
+3351	technical	non-technical	1
+3358	technical	I'm not saying you do need to justify anything	-2
+3359	technical	non-technical  The meaning of each class is	1
+3370	technical	non-technical	1
+3373	technical	non-technical	1
+3380	technical	non-technical	1
+3387	technical	non-technical	1
+3390	technical	technical	0
+3396	technical	non-technical	1
+3402	technical	non-technical	1
+3404	technical	non-technical	1
+3410	technical	non-technical	1
+3419	technical	non-technical	1
+3423	technical	non-technical	1
+3429	technical	non-technical	1
+3434	technical	non-technical	1
+3435	technical	non-technical	1
+3440	technical	non-technical	1
+3446	technical	technical	0
+3449	technical	non-technical	1
+3451	technical	non-technical	1
+3452	technical	non-technical	1
+3455	technical	non-technical	1
+3461	technical	non-technical  EXPLANATION: The sentence	1
+3462	technical	non-technical	1
+3468	technical	non-technical  Explanation: The sentence is written	1
+3469	technical	non-technical	1
+3470	technical	non-technical	1
+3472	technical	non-technical	1
+3478	technical	non-technical	1
+3482	technical	non-technical	1
+3492	technical	non-technical	1
+3493	technical	non-technical	1
+3495	technical	non-technical	1
+3498	technical	non-technical	1
+3503	technical	non-technical	1
+3510	technical	non-technical	1
+3511	technical	non-technical	1
+3513	technical	non-technical	1
+3516	technical	non-technical	1
+3522	technical	non-technical	1
+3524	technical	non-technical	1
+3535	technical	non-technical	1
+3536	technical	non-technical	1
+3537	technical	non-technical	1
+3541	technical	non-technical	1
+3542	technical	non-technical	1
+3544	technical	non-technical  Explanation: The sentence is non	1
+3553	technical	non-technical  The meaning of each class is	1
+3557	technical	non-technical	1
+3559	technical	non-technical	1
+3562	technical	technical	0
+3565	technical	non-technical	1
+3585	technical	technical	0
+3587	technical	non-technical	1
+3588	technical	non-technical	1
+3589	technical	non-technical	1
+3600	technical	technical	0
+3604	technical	non-technical  The sentence is non-technical	1
+3608	technical	non-technical	1
+3612	technical	non-technical	1
+3613	technical	non-technical	1
+3614	technical	non-technical	1
+3616	technical	non-technical  The sentence demonstrates moods or	1
+3617	technical	non-technical  I think this is a non	1
+3619	technical	technical	0
+3620	technical	non-technical	1
+3625	technical	non-technical  I think the sentence is non	1
+3629	technical	non-technical	1
+3630	technical	non-technical	1
+3633	technical	non-technical	1
+3640	technical	non-technical  I think this is a good	1
+3642	technical	non-technical	1
+3644	technical	non-technical	1
+3654	technical	technical	0
+3658	technical	non-technical	1
+3663	technical	non-technical	1
+3666	technical	non-technical	1
+3670	technical	non-technical	1
+3674	technical	non-technical	1
+3675	technical	non-technical	1
+3678	technical	non-technical	1
+3680	technical	non-technical	1
+3682	technical	non-technical	1
+3685	technical	non-technical	1
+3690	technical	non-technical	1
+3698	technical	non-technical	1
+3699	technical	non-technical	1
+3701	technical	non-technical  The meaning of each class is	1
+3714	technical	non-technical	1
+3724	technical	non-technical  In the context of open source	1
+3729	technical	non-technical	1
+3740	technical	non-technical	1
+3745	technical	non-technical	1
+3747	technical	non-technical	1
+3749	technical	non-technical	1
+3750	technical	non-technical	1
+3752	technical	non-technical	1
+3762	technical	non-technical	1
+3764	technical	non-technical	1
+3765	technical	non-technical	1
+3768	technical	non-technical	1
+3770	technical	technical	0
+3795	technical	non-technical	1
+3804	technical	technical  In the context of open source development platforms	0
+3805	technical	non-technical	1
+3811	technical	non-technical	1
+3812	technical	non-technical	1
+3813	technical	non-technical	1
+3840	technical	non-technical	1
+3843	technical	non-technical	1
+3845	technical	non-technical	1
+3855	technical	non-technical	1
+3863	technical	non-technical	1
+3864	technical	technical	0
+3869	technical	non-technical  The meaning of each class is	1
+3877	technical	non-technical  In the context of open source	1
+3881	technical	non-technical	1
+3887	technical	non-technical  In the context of open source	1
+3891	technical	non-technical	1
+3898	technical	non-technical	1
+3903	technical	non-technical	1
+3904	technical	non-technical	1
+3911	technical	non-technical	1
+3912	technical	non-technical  The meaning of each class is	1
+3914	technical	non-technical  Explanation: The sentence is non	1
+3916	technical	non-technical	1
+3924	technical	non-technical	1
+3930	technical	non-technical	1
+3931	technical	technical	0
+3934	technical	non-technical	1
+3937	technical	non-technical	1
+3940	technical	technical	0
+3943	technical	technical	0
+3945	technical	non-technical	1
+3959	technical	non-technical	1
+3965	technical	non-technical	1
+3966	technical	non-technical	1
+3980	technical	non-technical	1
+3986	technical	non-technical	1
+3991	technical	non-technical	1
+4008	technical	non-technical	1
+4011	technical	non-technical	1
+4015	technical	non-technical	1
+4018	technical	non-technical	1
+4019	technical	non-technical	1
+4022	technical	non-technical	1
+4031	technical	non-technical  I am trying to use the	1
+4044	technical	non-technical	1
+4052	technical	non-technical	1
+4058	technical	non-technical	1
+4068	technical	non-technical	1
+4081	technical	non-technical	1
+4091	technical	non-technical	1
+4093	technical	non-technical	1
+4111	technical	non-technical	1
+4120	technical	technical	0
+4130	technical	non-technical	1
+4137	technical	non-technical	1
+4142	technical	non-technical  The meaning of each class is	1
+4149	technical	non-technical  I think this is a non	1
+4151	technical	non-technical	1
+4155	technical	non-technical	1
+4159	technical	non-technical	1
+4161	technical	non-technical	1
+4168	technical	non-technical	1
+4175	technical	non-technical	1
+4182	technical	non-technical	1
+4186	technical	technical	0
+4189	technical	non-technical	1
+4195	technical	non-technical  The meaning of each class is	1
+4197	technical	non-technical	1
+4201	technical	non-technical	1
+4210	technical	someone about Python, I always recommend to use the	-2
+4213	technical	non-technical	1
+4225	technical	non-technical	1
+4229	technical	non-technical	1
+4232	technical	non-technical	1
+4235	technical	non-technical	1
+4238	technical	non-technical	1
+4247	technical	non-technical	1
+4258	technical	non-technical	1
+4265	technical	non-technical	1
+4274	technical	comment.	-2
+4275	technical	non-technical	1
+4283	technical	non-technical	1
+4285	technical	non-technical	1
+4288	technical	technical	0
+4291	technical	non-technical	1
+4299	technical	non-technical	1
+4300	technical	non-technical	1
+4302	technical	non-technical	1
+4304	technical	non-technical	1
+4306	technical	non-technical	1
+4310	technical	non-technical	1
+4311	technical	non-technical	1
+4314	technical	non-technical	1
+4318	technical	non-technical	1
+4324	technical	non-technical	1
+4326	technical	non-technical	1
+4332	technical	non-technical	1
+4338	technical	non-technical	1
+4339	technical	non-technical	1
+4343	technical	non-technical	1
+4345	technical	non-technical	1
+4346	technical	non-technical	1
+4353	technical	non-technical	1
+4354	technical	non-technical	1
+4356	technical	non-technical	1
+4359	technical	non-technical	1
+4367	technical	non-technical	1
+4370	technical	non-technical	1
+4374	technical	non-technical	1
+4376	technical	non-technical	1
+4380	technical	non-technical	1
+4386	technical	non-technical	1
+4393	technical	non-technical  In the context of open source	1
+4395	technical	non-technical	1
+4402	technical	non-technical	1
+4410	technical	non-technical	1
+4411	technical	non-technical	1
+4417	technical	non-technical	1
+4429	technical	non-technical  I'm not sure if this	1
+4436	technical	non-technical	1
+4444	technical	non-technical	1
+4445	technical	non-technical	1
+4450	technical	non-technical	1
+4453	technical	non-technical  I'm not sure if this	1
+4457	technical	non-technical	1
+4465	technical	non-technical  The sentence does not demonstrate any	1
+4466	technical	non-technical	1
+4468	technical	non-technical	1
+4480	technical	non-technical	1
+4492	technical	non-technical	1
+4498	technical	non-technical	1
+4509	technical	non-technical	1
+4512	technical	non-technical	1
+4528	technical	non-technical	1
+4531	technical	technical  SENTENCE: I'm not sure if	0
+4532	technical	non-technical  Explanation: The sentence demonstrates m	1
+4548	technical	and make this happen!	-2
+4557	technical	non-technical	1
+4576	technical	non-technical	1
+4581	technical	non-technical	1
+4583	technical	technical	0
+4590	technical	non-technical	1
+4593	technical	technical	0
+4594	technical	non-technical	1
+4597	technical	non-technical	1
+4600	technical	non-technical  I am not sure if this	1
+4601	technical	non-technical	1
+4619	technical	non-technical	1
+4620	technical	non-technical	1
+4623	technical	non-technical	1
+4633	technical	technical	0
+4636	technical	non-technical	1
+4637	technical	technical	0
+4642	technical	non-technical	1
+4653	technical	technical  SENTENCE: I'm not sure if	0
+4656	technical	non-technical	1
+4659	technical	non-technical	1
+4660	technical	non-technical	1
+4661	technical	non-technical	1
+4663	technical	non-technical	1
+4664	technical	non-technical	1
+4667	technical	technical	0
+4682	technical	non-technical	1
+4692	technical	non-technical	1
+4698	technical	technical	0
+4701	technical	non-technical	1
+4710	technical	non-technical	1
+4712	technical	non-technical	1
+4715	technical	non-technical  SENTENCE: I'm not	1
+4716	technical	non-technical  I think the sentence is non	1
+4719	technical	non-technical	1
+4723	technical	non-technical	1
+4733	technical	non-technical	1
+4734	technical	non-technical	1
+4737	technical	ale to do that, because we were not able	-2
+4739	technical	non-technical	1
+4748	technical	non-technical	1
+4751	technical	non-technical	1
+4760	technical	non-technical	1
+4766	technical	non-technical	1
+4779	technical	non-technical  The meaning of each class is	1
+4780	technical	in the server thinking the file is still managed by	-2
+4781	technical	non-technical  I am a beginner in types	1
+4789	technical	non-technical  The meaning of each class is	1
+4795	technical	technical  SENTENCE: thanks for the quick response	0
+4800	technical	technical  I'm not sure if this is the	0
+4804	technical	non-technical  SENTENCE: thanks for the	1
+4805	technical	non-technical	1
+4810	technical	non-technical	1
+4814	technical	technical  In the context of open source development platforms	0
+4822	technical	non-technical	1
+4826	technical	technical	0
+4827	technical	technical	0
+4830	technical	non-technical	1
+4838	technical	non-technical	1
+4841	technical	non-technical	1
+4850	technical	non-technical	1
+4855	technical	non-technical	1
+4860	technical	non-technical  I think it's non-	1
+4867	technical	non-technical	1
+4879	technical	non-technical	1
+4886	technical	non-technical	1
+4887	technical	non-technical	1
+4888	technical	non-technical  SENTENCE: I'm not	1
+4889	technical	non-technical  The meaning of each class is	1
+4891	technical	non-technical	1
+4897	technical	"It means that we can focus on the things	-2
+4903	technical	non-technical	1
+4904	technical	non-technical	1
+4905	technical	non-technical  SENTENCE: I'm not	1
+4912	technical	non-technical	1
+4916	technical	non-technical	1
+4917	technical	non-technical	1
+4920	technical	non-technical	1
+4922	technical	non-technical	1
+4935	technical	non-technical	1
+4944	technical	non-technical	1
+4945	technical	non-technical	1
+4947	technical	non-technical	1
+4948	technical	I'm not trying to "promote" it	-2
+4952	technical	non-technical	1
+4953	technical	non-technical	1
+4966	technical	non-technical	1
+4967	technical	non-technical  The issue is assignment, if	1
+4972	technical	non-technical  The last two comments here hit	1
+4977	technical	non-technical	1
+4989	technical	non-technical	1
+5002	technical	non-technical	1
+5003	technical	non-technical	1
+5011	technical	non-technical	1
+5013	technical	non-technical	1
+5014	technical	non-technical	1
+5017	technical	non-technical	1
+5022	technical	technical	0
+5026	technical	non-technical	1
+5027	technical	non-technical	1
+5037	technical	technical  In the context of open source development platforms	0
+5043	technical	non-technical	1
+5055	technical	non-technical	1
+5059	technical	non-technical	1
+5060	technical	non-technical	1
+5061	technical	technical	0
+5078	technical	non-technical	1
+5079	technical	technical	0
+5092	technical	non-technical	1
+5097	technical	non-technical	1
+5099	technical	non-technical	1
+5101	technical	non-technical	1
+5113	technical	non-technical	1
+5114	technical	non-technical	1
+5116	technical	non-technical	1
+5119	technical	non-technical	1
+5127	technical	non-technical	1
+5132	technical	non-technical	1
+5133	technical	non-technical  SENTENCE: This event allows	1
+5136	technical	technical	0
+5137	technical	non-technical	1
+5140	technical	non-technical	1
+5141	technical	non-technical	1
+5143	technical	non-technical	1
+5144	technical	non-technical	1
+5148	technical	non-technical	1
+5152	technical	non-technical	1
+5153	technical	non-technical  I think this is a non	1
+5158	technical	non-technical	1
+5160	technical	non-technical  SENTENCE: I'm not	1
+5161	technical	non-technical	1
+5170	technical	non-technical  Explanation: The sentence is non	1
+5183	technical	non-technical	1
+5184	technical	non-technical	1
+5185	technical	non-technical  ANSWER: This is still	1
+5189	technical	non-technical	1
+5190	technical	non-technical	1
+5192	technical	non-technical	1
+5195	technical	non-technical	1
+5197	technical	non-technical	1
+5209	technical	non-technical	1
+5219	technical	non-technical	1
+5220	technical	non-technical	1
+5221	technical	technical  In the context of open source development platforms	0
+5224	technical	non-technical	1
+5231	technical	non-technical	1
+5236	technical	non-technical	1
+5237	technical	non-technical	1
+5240	technical	non-technical	1
+5241	technical	non-technical  The meaning of each class is	1
+5256	technical	technical	0
+5258	technical	non-technical	1
+5260	technical	non-technical	1
+5269	technical	non-technical  The sentence is non-technical	1
+5272	technical	non-technical	1
+5277	technical	technical	0
+5282	technical	non-technical	1
+5284	technical	technical	0
+5297	technical	non-technical	1
+5301	technical	use Web Api 2, we are stuck with	-2
+5302	technical	non-technical	1
+5308	technical	non-technical  The sentence demonstrates moods or	1
+5314	technical	non-technical	1
+5315	technical	non-technical	1
+5324	technical	non-technical	1
+5329	technical	non-technical	1
+5335	technical	technical	0
+5336	technical	non-technical	1
+5340	technical	non-technical	1
+5341	technical	technical	0
+5345	technical	non-technical	1
+5356	technical	non-technical	1
+5357	technical	non-technical	1
+5359	technical	technical  In the context of open source development platforms	0
+5365	technical	non-technical	1
+5369	technical	non-technical	1
+5379	technical	non-technical	1
+5382	technical	non-technical	1
+5383	technical	non-technical	1
+5390	technical	non-technical	1
+5391	technical	non-technical	1
+5393	technical	non-technical	1
+5394	technical	non-technical  In the context of open source	1
+5395	technical	non-technical	1
+5400	technical	technical	0
+5405	technical	non-technical	1
+5410	technical	non-technical  I think this is a non	1
+5411	technical	non-technical	1
+5416	technical	non-technical	1
+5417	technical	non-technical	1
+5422	technical	non-technical	1
+5426	technical	non-technical	1
+5439	technical	non-technical	1
+5444	technical	non-technical	1
+5445	technical	non-technical	1
+5447	technical	non-technical	1
+5448	technical	technical	0
+5464	technical	technical	0
+5467	technical	non-technical	1
+5469	technical	non-technical	1
+5471	technical	non-technical	1
+5472	technical	technical	0
+5475	technical	technical  In the context of open source development platforms	0
+5479	technical	non-technical	1
+5482	technical	non-technical	1
+5483	technical	non-technical	1
+5488	technical	non-technical  The sentence demonstrates moods or	1
+5494	technical	non-technical	1
+5501	technical	non-technical	1
+5502	technical	non-technical	1
+5506	technical	non-technical	1
+5510	technical	than any other framework. I'm not saying that	-2
+5513	technical	non-technical	1
+5516	technical	technical  In the context of open source development platforms	0
+5521	technical	performance. I'm not sure what you mean by	-2
+5526	technical	a good fit for tensorflow, because it could use	-2
+5534	technical	non-technical	1
+5539	technical	non-technical  Explanation: The sentence is written	1
+5552	technical	non-technical	1
+5558	technical	non-technical	1
+5561	technical	non-technical	1
+5576	technical	non-technical	1
+5578	technical	non-technical	1
+5584	technical	non-technical	1
+5591	technical	non-technical	1
+5592	technical	non-technical	1
+5596	technical	technical  SENTENCE: I'm so excited to	0
+5618	technical	non-technical	1
+5631	technical	non-technical	1
+5632	technical	non-technical	1
+5636	technical	non-technical  I think the question is a	1
+5637	technical	non-technical	1
+5642	technical	non-technical	1
+5646	technical	non-technical  EXPLANATION: The sentence	1
+5647	technical	non-technical  The meaning of each class is	1
+5654	technical	non-technical  The meaning of each class is	1
+5655	technical	non-technical	1
+5664	technical	non-technical	1
+5666	technical	non-technical	1
+5667	technical	But it's not the way the Yarn v	-2
+5672	technical	non-technical	1
+5678	technical	non-technical	1
+5680	technical	non-technical	1
+5683	technical	non-technical	1
+5689	technical	non-technical  Explanation: The sentence is non	1
+5692	technical	non-technical	1
+5696	technical	non-technical	1
+5698	technical	non-technical	1
+5699	technical	non-technical	1
+5714	technical	non-technical	1
+5733	technical	non-technical	1
+5739	technical	non-technical	1
+5746	technical	non-technical	1
+5749	technical	non-technical	1
+5750	technical	non-technical	1
+5755	technical	non-technical	1
+5762	technical	non-technical	1
+5766	technical	non-technical	1
+5773	technical	non-technical	1
+5779	technical	non-technical	1
+5780	technical	non-technical	1
+5786	technical	non-technical	1
+5790	technical	non-technical  SENTENCE: We are working	1
+5791	technical	non-technical  I think it's a good	1
+5794	technical	non-technical	1
+5803	technical	a toy. For example, if you want to	-2
+5809	technical	non-technical	1
+5814	technical	non-technical	1
+5816	technical	non-technical	1
+5820	technical	non-technical  In the context of open source	1
+5822	technical	non-technical	1
+5829	technical	non-technical	1
+5830	technical	non-technical	1
+5832	technical	non-technical	1
+5833	technical	non-technical  In the context of open source	1
+5837	technical	non-technical	1
+5839	technical	non-technical	1
+5844	technical	non-technical  The meaning of each class is	1
+5856	technical	non-technical	1
+5865	technical	technical	0
+5870	technical	non-technical	1
+5871	technical	technical	0
+5873	technical	non-technical	1
+5875	technical	non-technical	1
+5880	technical	non-technical	1
+5882	technical	technical  SENTENCE: Your output reference is incorrect	0
+5893	non-technical	non-technical  SENTENCE: (I) I	1
+5895	non-technical	technical	0
+5902	non-technical	technical	0
+5905	non-technical	non-technical	1
+5912	non-technical	non-technical	1
+5913	non-technical	technical	0
+5924	non-technical	non-technical	1
+5928	non-technical	technical	0
+5931	non-technical	non-technical  The sentence demonstrates moods or	1
+5935	non-technical	non-technical	1
+5936	non-technical	non-technical  The meaning of each class is	1
+5939	non-technical	non-technical	1
+5941	non-technical	technical	0
+5944	non-technical	non-technical	1
+5956	non-technical	non-technical	1
+5967	non-technical	non-technical	1
+5968	non-technical	non-technical  I think it's a non	1
+5970	non-technical	non-technical	1
+5984	non-technical	non-technical	1
+5987	non-technical	non-technical	1
+5991	non-technical	non-technical	1
+5993	non-technical	X is just a wrapper around that. I am	-2
+5997	non-technical	non-technical  Explanation: The sentence is non	1
+5999	non-technical	non-technical  I'm not sure if this	1
+6000	non-technical	non-technical	1
+6002	non-technical	non-technical	1
+6007	non-technical	non-technical	1
+6015	non-technical	non-technical  In the context of open source	1
+6016	non-technical	I mean, i am not sure if i understand	-2
+6023	non-technical	non-technical	1
+6029	non-technical	non-technical	1
+6030	non-technical	non-technical	1
+6037	non-technical	non-technical	1
+6041	non-technical	your issue.** Instead, please use the [	-2
+6044	non-technical	non-technical	1
+6048	non-technical	technical	0
+6052	non-technical	, and the ability to export to a variety of	-2
+6054	non-technical	non-technical	1
+6058	non-technical	non-technical	1
+6072	non-technical	non-technical	1
+6079	non-technical	non-technical	1
+6082	non-technical	non-technical	1
+6083	non-technical	non-technical	1
+6088	non-technical	non-technical	1
+6090	non-technical	non-technical	1
+6091	non-technical	non-technical	1
+6093	non-technical	non-technical	1
+6100	non-technical	non-technical	1
+6101	non-technical	non-technical	1
+6105	non-technical	non-technical  Explanation: The sentence demonstrates m	1
+6115	non-technical	non-technical  I think the sentence is non	1
+6135	non-technical	non-technical	1
+6137	non-technical	non-technical	1
+6138	non-technical	non-technical  I was talking about the Microsoft	1
+6145	non-technical	non-technical	1
+6146	non-technical	non-technical	1
+6151	non-technical	non-technical  In the context of open source	1
+6153	non-technical	non-technical	1
+6159	non-technical	non-technical	1
+6162	non-technical	non-technical	1
+6163	non-technical	non-technical	1
+6164	non-technical	non-technical	1
+6165	non-technical	non-technical	1
+6167	non-technical	non-technical	1
+6172	non-technical	non-technical	1
+6181	non-technical	non-technical	1
+6191	non-technical	technical	0
+6199	non-technical	non-technical	1
+6200	non-technical	non-technical	1
+6202	non-technical	non-technical	1
+6204	non-technical	non-technical	1
+6214	non-technical	non-technical	1
+6220	non-technical	non-technical	1
+6222	non-technical	non-technical	1
+6224	non-technical	technical	0
+6226	non-technical	non-technical	1
+6230	non-technical	technical  SENTENCE: I'm not sure what	0
+6231	non-technical	non-technical	1
+6232	non-technical	non-technical	1
+6237	non-technical	non-technical	1
+6240	non-technical	non-technical  ANSWER: The sentence demonstrates	1
+6243	non-technical	non-technical	1
+6244	non-technical	non-technical	1
+6247	non-technical	non-technical  I'm not sure if this	1
+6252	non-technical	non-technical	1
+6262	non-technical	non-technical	1
+6264	non-technical	non-technical	1
+6265	non-technical	non-technical	1
+6268	non-technical	non-technical	1
+6271	non-technical	non-technical	1
+6275	non-technical	non-technical	1
+6283	non-technical	non-technical	1
+6287	non-technical	non-technical	1
+6290	non-technical	non-technical	1
+6300	non-technical	technical	0
+6301	non-technical	non-technical	1
+6324	non-technical	non-technical	1
+6325	non-technical	non-technical	1
+6334	non-technical	non-technical	1
+6342	non-technical	non-technical	1
+6345	non-technical	non-technical	1
+6346	non-technical	non-technical	1
+6351	non-technical	non-technical	1
+6353	non-technical	non-technical	1
+6354	non-technical	non-technical	1
+6358	non-technical	non-technical  The sentence demonstrates moods or	1
+6359	non-technical	non-technical	1
+6368	non-technical	non-technical	1
+6374	non-technical	non-technical	1
+6376	non-technical	non-technical	1
+6377	non-technical	non-technical	1
+6382	non-technical	non-technical	1
+6390	non-technical	non-technical	1
+6397	non-technical	non-technical	1
+6399	non-technical	non-technical  The meaning of each class is	1
+6403	non-technical	issue and trying to get it resolved. I have	-2
+6409	non-technical	non-technical	1
+6433	non-technical	technical	0
+6444	non-technical	non-technical	1
+6446	non-technical	non-technical  In the context of open source	1
+6449	non-technical	non-technical	1
+6466	non-technical	non-technical	1
+6471	non-technical	non-technical	1
+6472	non-technical	technical  In the context of open source development platforms	0
+6474	non-technical	non-technical	1
+6476	non-technical	non-technical	1
+6496	non-technical	non-technical	1
+6502	non-technical	non-technical	1
+6503	non-technical	non-technical	1
+6504	non-technical	non-technical	1
+6510	non-technical	non-technical	1
+6511	non-technical	non-technical	1
+6515	non-technical	non-technical	1
+6518	non-technical	non-technical  I'm not sure what you	1
+6530	non-technical	non-technical	1
+6534	non-technical	non-technical	1
+6542	non-technical	non-technical	1
+6545	non-technical	non-technical  SENTENCE: I'm not	1
+6548	non-technical	non-technical	1
+6555	non-technical	non-technical	1
+6564	non-technical	non-technical  In the context of open source	1
+6567	non-technical	non-technical	1
+6570	non-technical	non-technical	1
+6573	non-technical	non-technical	1
+6574	non-technical	non-technical	1
+6577	non-technical	non-technical  I'm not sure if this	1
+6592	non-technical	non-technical	1
+6594	non-technical	non-technical	1

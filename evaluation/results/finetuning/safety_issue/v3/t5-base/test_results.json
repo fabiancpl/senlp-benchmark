@@ -1,0 +1,36 @@
+{
+    "epoch": 7.0,
+    "eval_accuracy": 0.8411458333333334,
+    "eval_confusion_matrix": [
+        [
+            187,
+            29
+        ],
+        [
+            32,
+            136
+        ]
+    ],
+    "eval_f1_None": [
+        0.8597701149425288,
+        0.8168168168168168
+    ],
+    "eval_f1_macro": 0.8382934658796728,
+    "eval_f1_micro": 0.8411458333333334,
+    "eval_loss": 0.3345743715763092,
+    "eval_precision_None": [
+        0.8538812785388128,
+        0.8242424242424242
+    ],
+    "eval_precision_macro": 0.8390618513906185,
+    "eval_precision_micro": 0.8411458333333334,
+    "eval_recall_None": [
+        0.8657407407407407,
+        0.8095238095238095
+    ],
+    "eval_recall_macro": 0.8376322751322751,
+    "eval_recall_micro": 0.8411458333333334,
+    "eval_runtime": 0.8747,
+    "eval_samples_per_second": 439.022,
+    "eval_steps_per_second": 3.43
+}

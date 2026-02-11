@@ -1,0 +1,9 @@
+In the context of software development community forums, classify the next question as 'HQ', 'LQ_EDIT' or 'LQ_CLOSE'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+HQ: High-quality question that requires no moderation action.
+LQ_EDIT: Low-quality question that requires community edits.
+LQ_CLOSE: Low-quality question that will be closed by the community without a single edit.
+
+QUESTION:
+{text}

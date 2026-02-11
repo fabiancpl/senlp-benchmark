@@ -1,0 +1,193 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	non-functional	0
+11	functional	functional non-functional functional non-functional	1
+15	functional	non-functional	0
+22	functional	functional non-functional other Please select	1
+32	functional	functional non-functional Please select one of	1
+34	functional	non-functional	0
+42	functional	functional   Please answer with the selected class.	1
+43	functional	functional non-functional functional non-functional	1
+46	functional	functional non-functional functional non-functional	1
+50	functional	functional non-functional functional non-functional	1
+52	functional	?	-2
+53	functional	functional non-functional other Please select	1
+57	functional	functional non-functional functional or	1
+64	functional	non-functional	0
+68	functional	functional non-functional functional non-functional	1
+74	non-functional	functional non-functional functional non-functional	1
+77	functional	functional non-functional other (please specify	1
+87	functional	functional non-functional functional non-functional	1
+92	functional	non-functional   Please note that the classification of	0
+94	functional	non-functional	0
+95	functional	functional non-functional functional non-functional	1
+96	functional	functional non-functional other Please select	1
+98	functional	functional non-functional Please select one of	1
+99	functional	non-functional	0
+106	functional	functional non-functional other Please select	1
+107	functional	functional non-functional functional non-functional	1
+110	functional	functional non-functional other Please select	1
+115	functional	functional non-functional functional non-functional	1
+116	functional	functional non-functional functional non-functional	1
+125	functional	functional non-functional other Please select	1
+128	functional	functional non-functional functional non-functional	1
+130	non-functional	functional non-functional functional non-functional	1
+132	functional	functional non-functional other (please specify	1
+135	functional	functional non-functional functional non-functional	1
+141	functional	functional non-functional other Please select	1
+143	functional	functional non-functional other (please specify	1
+158	non-functional	functional non-functional functional non-functional	1
+159	non-functional	functional non-functional other Please select	1
+172	non-functional	non-functional functional other (please specify	0
+181	non-functional	non-functional	0
+188	non-functional	non-functional	0
+189	non-functional	functional non-functional functional non-functional	1
+194	non-functional	functional non-functional functional non-functional	1
+196	non-functional	Please fill in the answer.   Note:	-2
+202	functional	non-functional	0
+204	functional	non-functional	0
+206	functional	non-functional	0
+210	non-functional	functional non-functional functional non-functional	1
+211	non-functional	non-functional	0
+215	non-functional	non-functional	0
+220	functional	non-functional	0
+223	functional	non-functional	0
+237	functional	non-functional	0
+248	functional	functional non-functional other Please select	1
+249	functional	functional non-functional functional non-functional	1
+250	non-functional	Please fill in the answer.   (Note:	-2
+255	functional	non-functional	0
+260	non-functional	non-functional	0
+268	non-functional	functional non-functional Please select one of	1
+269	non-functional	non-functional	0
+272	non-functional	Please select one of the options.   (Note	-2
+282	non-functional	functional	1
+288	functional	Please fill in the answer.   (Note:	-2
+289	functional	Please fill in the answer.   (Note:	-2
+296	non-functional	functional non-functional other Please select	1
+299	functional	non-functional   Note: The classification of the	0
+306	non-functional	Please fill in the answer.   (Note:	-2
+309	functional	functional non-functional other (please specify	1
+320	functional	functional non-functional functional non-functional	1
+323	functional	functional non-functional functional non-functional	1
+325	functional	Please enter your answer here.   (Note:	-2
+328	functional	functional non-functional other (please specify	1
+330	non-functional	non-functional	0
+346	non-functional	functional non-functional functional non-functional	1
+360	non-functional	Please fill in the answer.   Note:	-2
+364	non-functional	functional non-functional functional non-functional	1
+371	functional	functional non-functional other (please specify	1
+376	functional	functional   Please answer with the selected class.	1
+381	functional	functional non-functional functional non-functional	1
+399	non-functional	non-functional	0
+403	non-functional	functional non-functional other Please select	1
+412	functional	functional non-functional functional non-functional	1
+413	functional	functional non-functional other Please select	1
+415	non-functional	_______________________	-2
+416	non-functional	non-functional   Note: The classification of the	0
+421	non-functional	Please fill in the answer.   (Note:	-2
+426	non-functional	Please fill in the answer.   Note:	-2
+427	functional	functional non-functional functional non-functional	1
+433	functional	functional non-functional other Please select	1
+437	functional	non-functional	0
+438	functional	non-functional	0
+441	functional	functional non-functional Please select one of	1
+454	functional	Please answer with either 'functional' or '	1
+461	non-functional	Please enter your answer here.   (Note:	-2
+472	functional	functional non-functional functional non-functional	1
+477	non-functional	functional non-functional other Please select	1
+478	non-functional	functional non-functional other Please select	1
+479	non-functional	non-functional	0
+480	non-functional	Please enter your answer.   (Note: Please	-2
+481	non-functional	functional non-functional other (please specify	1
+491	non-functional	functional non-functional functional non-functional	1
+495	non-functional	functional non-functional functional non-functional	1
+514	functional	non-functional	0
+517	functional	functional non-functional functional non-functional	1
+526	functional	non-functional	0
+533	non-functional	non-functional	0
+537	non-functional	functional non-functional other Please select	1
+542	functional	non-functional   Please note that the classification of	0
+544	functional	functional non-functional other Please select	1
+549	functional	functional non-functional other Please select	1
+557	functional	functional non-functional other (please specify	1
+558	functional	non-functional	0
+561	functional	Please enter your answer here.   (Note:	-2
+562	functional	non-functional	0
+563	functional	non-functional	0
+575	functional	non-functional	0
+581	non-functional	Please fill in the answer.   Note:	-2
+588	non-functional	Please enter your answer here.   (Note:	-2
+590	non-functional	functional non-functional functional non-functional	1
+598	non-functional	functional non-functional other Please select	1
+599	non-functional	Please fill in the answer.   Note:	-2
+604	functional	non-functional	0
+607	non-functional	non-functional	0
+609	non-functional	non-functional	0
+613	non-functional	non-functional	0
+614	non-functional	functional non-functional other Please select	1
+621	non-functional	functional non-functional functional CLASS:	1
+622	non-functional	non-functional	0
+625	non-functional	functional	1
+629	functional	non-functional	0
+632	functional	functional non-functional functional non-functional	1
+645	functional	functional non-functional functional non-functional	1
+647	non-functional	functional non-functional functional non-functional	1
+663	functional	non-functional	0
+667	functional	Please fill in the answer.   (Note:	-2
+669	functional	functional non-functional other Please select	1
+677	functional	functional non-functional other (please specify	1
+684	functional	functional non-functional other Please select	1
+686	non-functional	non-functional	0
+689	functional	functional non-functional other (please specify	1
+690	functional	functional non-functional other (please specify	1
+703	functional	non-functional   Note: The classification of the	0
+710	functional	Please fill in the answer.   (Note:	-2
+711	functional	functional non-functional functional non-functional	1
+720	functional	functional non-functional functional non-functional	1
+726	non-functional	functional non-functional other Please select	1
+733	functional	non-functional	0
+737	non-functional	functional non-functional functional non-functional	1
+738	functional	non-functional   Note: The classification is based	0
+747	functional	functional non-functional scalable avoid	1
+748	non-functional	Please fill in the answer.   (Note:	-2
+750	non-functional	functional non-functional other Please select	1
+751	non-functional	functional non-functional other Please select	1
+755	non-functional	functional non-functional functional non-functional	1
+757	non-functional	Please fill in the answer.   Note:	-2
+761	non-functional	non-functional	0
+771	non-functional	non-functional	0
+773	non-functional	non-functional	0
+774	functional	functional non-functional other Please select	1
+775	functional	functional non-functional Please select one of	1
+786	functional	non-functional	0
+791	non-functional	functional non-functional other Please select	1
+792	non-functional	non-functional	0
+796	non-functional	Please fill in the answer.   Note:	-2
+797	non-functional	non-functional   Please note that the requirement is	0
+806	non-functional	functional non-functional functional non-functional	1
+807	non-functional	functional non-functional Please select one of	1
+814	functional	functional non-functional functional non-functional	1
+819	functional	functional non-functional functional non-functional	1
+835	functional	functional non-functional functional non-functional	1
+836	functional	non-functional	0
+837	functional	functional non-functional other Please select	1
+849	functional	functional non-functional functional non-functional	1
+856	non-functional	Please fill in the answer.   (Note:	-2
+859	functional	functional non-functional Please select one of	1
+860	functional	non-functional	0
+875	functional	functional non-functional other Please select	1
+891	non-functional	functional non-functional other Please select	1
+896	functional	non-functional	0
+899	non-functional	Please fill in the answer.   Note:	-2
+906	functional	non-functional	0
+912	functional	functional non-functional functional non-functional	1
+925	functional	non-functional	0
+927	functional	functional non-functional other Please select	1
+933	functional	non-functional	0
+935	functional	non-functional	0
+939	functional	non-functional	0
+944	non-functional	functional non-functional functional non-functional	1
+945	functional	functional non-functional other Please select	1
+946	functional	functional non-functional functional non-functional	1
+950	functional	functional non-functional other Please select	1
+955	non-functional	Please fill in the answer.   (Note:	-2

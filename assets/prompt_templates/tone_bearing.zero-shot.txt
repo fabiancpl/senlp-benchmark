@@ -1,0 +1,8 @@
+In the context of open source development platforms, classify the next sentence as 'technical' or 'non-technical'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+technical: The sentence does not demonstrate any mood or style of expression.
+non-technical: The sentence demonstrates moods or styles of expression like humility, excitement, apologies, friendly joke, sadness, oppression, bitter frustration, impatience, mocking, or vulgarity.
+
+SENTENCE:
+{text}

@@ -1,0 +1,31 @@
+In the context of agile methodologies for software development, estimate the story points for the next task with an integer value between 1 and 100. Answer only with the story points in integer format.
+
+---
+
+Below are some examples to guide you in the estimation task:
+
+- EXAMPLE 1:
+TASK:
+{shot_1}
+
+STORY POINTS:
+{label_1}
+
+- EXAMPLE 2:
+TASK:
+{shot_2}
+
+STORY POINTS:
+{label_2}
+
+- EXAMPLE 3:
+TASK:
+{shot_3}
+
+STORY POINTS:
+{label_3}
+
+---
+
+TASK TO ESTIMATE:
+{text}

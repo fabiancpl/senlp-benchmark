@@ -1,0 +1,11 @@
+In the context of software development community forums, classify the next question as 'open', 'not a real question', 'off topic', 'not constructive' or 'too localized'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+open: The question remains open after moderation.
+not a real question: The question is closed during moderation because it is not a real question.
+off topic: The question is closed during moderation because it is off-topic.
+not constructive: The question is closed during moderation because it is not constructive.
+too localized: The question is closed during moderation because it is too localized.
+
+QUESTION:
+{text}

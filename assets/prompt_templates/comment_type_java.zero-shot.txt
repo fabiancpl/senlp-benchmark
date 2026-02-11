@@ -1,0 +1,13 @@
+In the context of software codebases, classify the next comment sentence as 'summary', 'ownership', 'expand', 'usage', 'pointer', 'deprecation', or 'rational'. It is possible to assign more than one class to a sentence. Answer only with the selected classes separated by semicolon (,) without quotation marks.
+
+The meaning of each class is as follows:
+summary: The sentence contains a brief description of the behavior of the source code being referenced.
+ownership: The sentence describes the authors and the ownership with different granularity.
+expand: The sentence includes descriptions of the associated code, in particular, it provides more details about the code itself.
+usage: The sentence regards explicit suggestions to users that are planning to use a functionality.
+pointer: The sentence contains references to linked resources.
+deprecation: The sentence contains explicit warnings used to inform the users about (future) deprecated interface artifacts.
+rational: The sentence explains the rationale behind some choices, patterns, or options.
+
+COMMENT SENTENCE:
+{text}

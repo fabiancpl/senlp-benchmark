@@ -1,0 +1,8 @@
+In the context of open source development platforms, classify the next sentence as 'civil' or 'uncivil'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+civil: The sentence demonstrates moods or styles of expression like humility, excitement, apologies, friendly joke, sadness, or oppression.
+uncivil: The sentence demonstrates moods or styles of expression like bitter frustration, impatience, mocking, or vulgarity.
+
+SENTENCE:
+{text}

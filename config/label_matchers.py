@@ -19,6 +19,13 @@ matchers = {
         3: "not constructive",
         4: "too localized"
     },
+    "comment_type_python": [
+        "usage",
+        "parameters",
+        "developmentNotes",
+        "expand",
+        "Summary"
+    ],
     "comment_type_java": [
         "summary",
         "ownership",
@@ -27,13 +34,6 @@ matchers = {
         "pointer",
         "deprecation",
         "rational"
-    ],
-    "comment_type_python": [
-        "usage",
-        "parameters",
-        "developmentNotes",
-        "expand",
-        "Summary"
     ],
     "comment_type_pharo": [
         "keyimplementationpoints",
@@ -49,14 +49,31 @@ matchers = {
         1: "perfective",
         2: "corrective"
     },
+    "functional_requirement": {
+        0: "non-functional",
+        1: "functional"
+    },
     "incivility": {
         0: "uncivil",
         1: "civil"
+    },
+    "issue_intention": {
+        0: "aspect evaluation",
+        1: "feature request",
+        2: "information giving",
+        3: "information seeking",
+        4: "others",
+        5: "problem discovery",
+        6: "solution proposal"
     },
     "issue_type": {
         0: "bug",
         1: "enhancement",
         2: "question"
+    },
+    "quality_requirement": {
+        0: "non-quality",
+        1: "quality"
     },
     "question_quality": {
         0: "LQ_CLOSE",
@@ -83,10 +100,6 @@ matchers = {
         "VERB",
         "X"
     ],
-    "requirement_type": {
-        0: "non-functional",
-        1: "functional"
-    },
     "review_aspect": [
         "usability",
         "others",
@@ -100,6 +113,16 @@ matchers = {
         "portability",
         "security"
     ],
+    "review_type": {
+        0: "information seeking",
+        1: "information giving",
+        2: "feature request",
+        3: "problem discovery"
+    },
+    "safety_issue": {
+        0: "NO",
+        1: "YES"
+    },
     "se_entities": [
         "O",
         "B-Data_Structure", "I-Data_Structure",
@@ -123,6 +146,10 @@ matchers = {
         "B-Algorithm", "I-Algorithm",
         "B-HTML_XML_Tag", "I-HTML_XML_Tag"
     ],
+    "security_requirement": {
+        0: "nonsec",
+        1: "sec"
+    },
     "sentiment": {
         0: "negative",
         1: "neutral",

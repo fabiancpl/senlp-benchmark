@@ -1,0 +1,13 @@
+In the context of software development repositories, classify the next issue sentence as 'aspect evaluation', 'feature request', 'information giving', 'information seeking', 'problem discovery', 'solution proposal', or 'others'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+aspect evaluation: The sentence expresses opinions or assessments about a specific aspect.
+feature request: The sentence requires implementing new features or improving existing ones.
+information giving: The sentence shares knowledge or experiences with other developers, or informs others about new plans or future updates.
+information seeking: The sentence attempts to get information or help from other developers.
+problem discovery: The sentence reports bugs or describes unexpected behaviors.
+solution proposal: The sentence shares possible solutions to discovered problems.
+others: The intention of the sentence does not fall on any of the other classes.
+
+ISSUE SENTENCE:
+{text}

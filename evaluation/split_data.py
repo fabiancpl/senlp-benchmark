@@ -1,19 +1,17 @@
 """ETL to split the data using cross-validation.
 
-This ETL implements the data splitting process for cross-validation using
-strategies such as Stratified k-Fold, Repeated K-Fold or Leave One Group Out,
-as defined by Scikit-Learn here: https://scikit-learn.org/stable/modules/cross_validation.html.
-These strategies are supported for binary and multi-class classification, and
-regression.
+This ETL implements the data splitting process for cross-validation using strategies such as
+Stratified k-Fold, Repeated K-Fold or Leave One Group Out, as defined by Scikit-Learn here:
+https://scikit-learn.org/stable/modules/cross_validation.html. These strategies are supported for
+binary and multi-class classification, and regression.
 
-For multi-label classification and ranking tasks with multiple targets, an
-iterative strategy is used as defined here: http://scikit.ml/stratification.html
+For multi-label classification and ranking tasks with multiple targets, an iterative strategy is
+used as defined here: http://scikit.ml/stratification.html
 
 For NER and MLM tasks a simple random splitting is implemented.
 
-The resulting file is a CSV with the same number rows of the source dataset
-but with columns corresponding to each fold, depending on the strategy
-selected. The values follow this notation:
+The resulting file is a CSV with the same number rows of the source dataset but with columns
+corresponding to each fold, depending on the strategy selected. The values follow this notation:
 1 - Instance used for training in the current fold
 0 - Instance used for validation in the current fold
 2 - Intance used for testing at the end of the cross-validation experiment
@@ -21,8 +19,8 @@ selected. The values follow this notation:
 Note that instances assigned for testing are the same for all the folds.
 
 NOTE:
-- Arguments --cv_strategy (leave-one-group-out|repeated-k-fold) --repetitions
-and --group will be removed in future versions.
+- Arguments --cv_strategy (leave-one-group-out|repeated-k-fold) --repetitions and --group will be
+removed in future versions.
 """
 
 import argparse
@@ -47,7 +45,7 @@ from skmultilearn.model_selection import (
 )
 
 
-DATASETS_BASE_PATH = "../preprocessing/datasets"
+DATASETS_BASE_PATH = "../preprocessing/evaluation/datasets"
 SPLITS_BASE_PATH = "./splits"
 
 
@@ -99,7 +97,7 @@ def main(params):
     try:
         logger.info("Loading the %s dataset...", params.dataset_name)
         # WARNING: The cased version of the dataset is asumed as default, so it must always exist!
-        df = pd.read_parquet(f"{DATASETS_BASE_PATH}/cased/{params.dataset_name}.parquet")
+        df = pd.read_parquet(f"{DATASETS_BASE_PATH}/{params.dataset_name}.parquet")
     except FileNotFoundError:
         logger.error("Dataset %s does not exist!", params.dataset_name)
         sys.exit(1)
@@ -115,6 +113,8 @@ def main(params):
             test_size=params.test_size
         )
     else:
+        logger.info(df.columns)
+
         train_val_df, test_df = train_test_split(
             df,
             test_size=params.test_size,

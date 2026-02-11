@@ -1,0 +1,481 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	functional
+REASON: The GCS shall report	1
+11	functional	functional
+REASON: The GCSMiddleware shall	1
+15	functional	functional
+REASON: The requirement includes some functional	1
+22	functional	functional
+REASON: The RouteCreationUI shall	1
+32	functional	functional
+REASON: The requirement includes some functional	1
+34	functional	functional
+REASON: The requirement is functional because	1
+42	functional	functional
+REASON: The ActivityLogger shall log	1
+43	functional	functional
+REASON: The requirement includes some functional	1
+46	functional	functional
+REASON: The requirement includes some functional	1
+50	functional	functional
+REASON: The maximum number of allowed	1
+52	functional	functional
+REASON: The vehicle core is the	1
+53	functional	functional
+REASON: The VehicleCore shall support	1
+57	functional	functional
+REASON: The requirement includes some functional	1
+64	functional	functional
+REASON: The requirement includes some functional	1
+68	functional	functional
+REASON: The requirement includes some functional	1
+74	non-functional	functional
+REQUIREMENT:
+The UAVActivationManager	1
+77	functional	functional
+REASON: The system must be able	1
+87	functional	functional
+REASON: The UAV is not ready	1
+92	functional	functional
+REASON: The requirement is functional because	1
+94	functional	functional
+REASON: The ID is used to	1
+95	functional	functional
+REASON: The requirement includes some functional	1
+96	functional	functional
+REASON: The requirement includes some functional	1
+98	functional	functional
+REASON: The requirement includes some functional	1
+99	functional	functional
+
+REQUIREMENT:
+The system must support	1
+106	functional	functional
+
+REQUIREMENT:
+The system must enable	1
+107	functional	functional
+
+REQUIREMENT:
+The system must enable	1
+110	functional	functional
+
+REQUIREMENT:
+The system should support	1
+115	functional	functional
+
+REQUIREMENT:
+The system must support	1
+116	functional	functional
+REASON: The system should display file	1
+125	functional	functional
+REASON: The requirement includes some functional	1
+128	functional	functional
+REASON: The system must enable immediate	1
+130	non-functional	functional
+
+REQUIREMENT:
+The system must support	1
+132	functional	functional
+REASON: The requirement includes some functional	1
+135	functional	functional
+REQUIREMENT:
+The system must offer	1
+141	functional	functional
+
+REQUIREMENT:
+The system should support	1
+143	functional	functional
+REASON: The requirement includes some functional	1
+158	non-functional	functional
+REASON: The user interface should be	1
+159	non-functional	functional
+REASON: The requirement includes some functional	1
+172	non-functional	functional
+REQUIREMENT:
+The system should provide	1
+181	non-functional	functional
+REASON: The system must adhere to	1
+188	non-functional	functional
+REASON: The requirement is functional.	1
+189	non-functional	functional
+
+REQUIREMENT:
+The product shall respond	1
+194	non-functional	functional
+REQUIREMENT:
+The display shall have	1
+196	non-functional	functional
+REASON: The sequential and temporal regions	1
+202	functional	functional
+REASON: The requirement is functional because	1
+204	functional	Functional
+REASON: The system shall filter data	1
+206	functional	functional
+REASON: The system shall display the	1
+210	non-functional	functional
+
+REQUIREMENT:
+The system shall be	1
+211	non-functional	functional
+REQUIREMENT:
+The user interface shall	1
+215	non-functional	functional
+
+REQUIREMENT:
+The system shall be	1
+220	functional	functional
+REASON: The report is a functional	1
+223	functional	functional
+REASON: The requirement is functional because	1
+237	functional	functional
+REASON: The requirement includes some functional	1
+248	functional	functional
+REASON: The system shall notify the	1
+249	functional	functional
+REASON: The requirement includes some functional	1
+250	non-functional	functional
+
+REQUIREMENT:
+The system shall be	1
+255	functional	Functional
+NON-FUNCTIONAL: None
+
+RE	1
+260	non-functional	functional
+REQUIREMENT:
+The system shall be	1
+268	non-functional	functional
+REASON: The system shall operate within	1
+269	non-functional	functional
+REASON: The system shall interface with	1
+272	non-functional	functional
+
+REQUIREMENT:
+We must be able	1
+282	non-functional	functional
+REASON: The system shall use the	1
+288	functional	functional
+REQUIREMENT:
+For each class within	1
+289	functional	functional
+REQUIREMENT:
+For each class within	1
+296	non-functional	functional
+REQUIREMENT:
+A clinical class shall	1
+299	functional	Functional
+REQUIREMENT:
+Program Administrators and	1
+306	non-functional	functional
+NON-FUNCTIONAL: None
+
+RE	1
+309	functional	functional
+REASON: The requirement includes some functional	1
+320	functional	functional
+
+REQUIREMENT:
+The system will notify	1
+323	functional	functional
+REASON: The requirement includes some functional	1
+325	functional	Functional
+REQUIREMENT:
+Program Administrators/N	1
+328	functional	Functional
+REQUIREMENT:
+Program Administrators/N	1
+330	non-functional	functional
+REASON: The application shall be created	1
+346	non-functional	functional
+REASON: The requirement is functional because	1
+360	non-functional	functional
+
+REQUIREMENT:
+The Disputes	1
+364	non-functional	functional
+REASON: The system shall provide the	1
+371	functional	functional
+
+REQUIREMENT:
+The Disputes	1
+376	functional	functional
+REASON: The Disputes System	1
+381	functional	functional
+
+REQUIREMENT:
+The Disputes	1
+399	non-functional	functional
+REASON: The requirement includes some functional	1
+403	non-functional	functional
+REASON: The product shall achieve a	1
+412	functional	functional
+REASON: The requirement includes some functional	1
+413	functional	functional
+REASON: The requirement includes some functional	1
+415	non-functional	functional
+REASON: The requirement includes some functional	1
+416	non-functional	functional
+REASON: The requirement is functional because	1
+421	non-functional	functional
+REASON: The requirement includes some functional	1
+426	non-functional	functional
+REQUIREMENT:
+The search radius shall	1
+427	functional	functional
+REASON: The requirement includes some functional	1
+433	functional	functional
+REASON: The requirement includes some functional	1
+437	functional	functional
+
+REQUIREMENT:
+The available recycled parts	1
+438	functional	functional
+REASON: The estimator shall apply selected	1
+441	functional	functional
+
+REQUIREMENT:
+The adjuster shall	1
+454	functional	functional
+REASON: The requirement includes some functional	1
+461	non-functional	functional
+REASON: The product must make use	1
+472	functional	functional
+REASON: The requirement includes some functional	1
+477	non-functional	functional
+REASON: The requirement includes some functional	1
+478	non-functional	functional
+REASON: The product shall be able	1
+479	non-functional	functional
+REASON: The requirement includes some functional	1
+480	non-functional	functional
+REQUIREMENT:
+The product shall be	1
+481	non-functional	functional
+
+REQUIREMENT:
+The product must be	1
+491	non-functional	functional
+REASON: The requirement includes some functional	1
+495	non-functional	functional
+REASON: The product shall be able	1
+514	functional	functional
+REASON: The product will update existing	1
+517	functional	functional
+REASON: The conference room schedule is	1
+526	functional	functional
+REASON: The requirement includes some functional	1
+533	non-functional	functional
+REASON: The requirement includes some functional	1
+537	non-functional	functional
+REASON: The requirement includes some functional	1
+542	functional	functional
+REASON: The requirement includes some functional	1
+544	functional	functional
+REASON: The requirement includes some functional	1
+549	functional	functional
+REASON: The requirement includes some functional	1
+557	functional	functional
+REASON: The requirement includes some functional	1
+558	functional	functional
+REASON: The requirement includes some functional	1
+561	functional	functional
+REASON: The requirement is functional because	1
+562	functional	functional
+REASON: The requirement includes some functional	1
+563	functional	functional
+
+REQUIREMENT:
+System shall let the	1
+575	functional	functional
+REASON: The requirement includes some functional	1
+581	non-functional	functional
+REASON: The requirement is functional because	1
+588	non-functional	functional
+REASON: The requirement includes some functional	1
+590	non-functional	functional
+REASON: The server will support a	1
+598	non-functional	functional
+REASON: The requirement includes some functional	1
+599	non-functional	functional
+REASON: The requirement includes some functional	1
+604	functional	functional
+
+REQUIREMENT:
+The website will provide	1
+607	non-functional	functional
+REASON: The requirement includes some functional	1
+609	non-functional	functional
+REASON: The requirement includes some functional	1
+613	non-functional	functional
+REASON: The website shall protect itself	1
+614	non-functional	functional
+REASON: The requirement includes some functional	1
+621	non-functional	functional
+REASON: The website should cater to	1
+622	non-functional	functional
+REASON: The website shall not be	1
+625	non-functional	functional
+REASON: The requirement includes some functional	1
+629	functional	functional
+REQUIREMENT:
+viewing a movie	1
+632	functional	functional
+REASON: The requirement includes some functional	1
+645	functional	functional
+REASON: The requirement includes some functional	1
+647	non-functional	functional
+REASON: The owner shall have free	1
+663	functional	functional
+REQUIREMENT:
+If the leads score	1
+667	functional	functional
+
+REQUIREMENT:
+The leads washing functionality	1
+669	functional	functional
+
+REQUIREMENT:
+The leads washing functionality	1
+677	functional	functional
+REASON: The requirement includes some functional	1
+684	functional	functional
+REQUIREMENT:
+The product shall be	1
+686	non-functional	functional
+
+REQUIREMENT:
+The response time shall	1
+689	functional	functional
+REASON: The requirement is functional because	1
+690	functional	functional
+REASON: The user can remove himself	1
+703	functional	functional
+REQUIREMENT:
+For each turn the	1
+710	functional	functional
+REQUIREMENT:
+For each shot the	1
+711	functional	functional
+REASON: The requirement includes some functional	1
+720	functional	functional
+REQUIREMENT:
+The product shall allow	1
+726	non-functional	functional
+
+REQUIREMENT:
+The system shall be	1
+733	functional	functional
+REQUIREMENT:
+The product shall ensure	1
+737	non-functional	functional
+
+REQUIREMENT:
+The interface shall be	1
+738	functional	functional
+REASON: The requirement includes some functional	1
+747	functional	functional
+REASON: The requirement includes some functional	1
+748	non-functional	functional
+
+REQUIREMENT:
+The product shall be	1
+750	non-functional	functional
+REQUIREMENT:
+The product shall be	1
+751	non-functional	functional
+REQUIREMENT:
+The product shall be	1
+755	non-functional	functional
+REASON: The product will have a	1
+757	non-functional	functional
+REQUIREMENT:
+The product shall have	1
+761	non-functional	functional
+REASON: The system shall be display	1
+771	non-functional	functional
+
+REQUIREMENT:
+The WCS system shall	1
+773	non-functional	functional
+REASON: The requirement includes some functional	1
+774	functional	functional
+REASON: The requirement includes some functional	1
+775	functional	functional
+REASON: The system must be able	1
+786	functional	functional
+REQUIREMENT:
+Users shall be able	1
+791	non-functional	functional
+REASON: The requirement includes some functional	1
+792	non-functional	functional
+REASON: The requirement includes some functional	1
+796	non-functional	functional
+
+REQUIREMENT:
+The user shall be	1
+797	non-functional	functional
+REQUIREMENT:
+98% of the	1
+806	non-functional	functional
+REQUIREMENT:
+The product interface should	1
+807	non-functional	functional
+REQUIREMENT:
+User shall be able	1
+814	functional	functional
+REASON: The requirement is functional because	1
+819	functional	functional
+REASON: The requirement includes some functional	1
+835	functional	functional
+REASON: The requirement includes some functional	1
+836	functional	functional
+REASON: The requirement includes some functional	1
+837	functional	Functional
+REQUIREMENT:
+User shall be able	1
+849	functional	functional
+REQUIREMENT:
+User shall be able	1
+856	non-functional	functional
+REQUIREMENT:
+Each custom object attribute	1
+859	functional	functional
+REQUIREMENT:
+User shall be able	1
+860	functional	functional
+REASON: The requirement includes some functional	1
+875	functional	functional
+REASON: The requirement is functional because	1
+891	non-functional	functional
+REASON: The requirement is functional.	1
+896	functional	functional
+REASON: The WASP platform should	1
+899	non-functional	functional
+
+REQUIREMENT:
+A user's profile	1
+906	functional	functional
+REASON: The WASP platform shall	1
+912	functional	functional
+REASON: The requirement includes some functional	1
+925	functional	functional
+REASON: The WASP platform must	1
+927	functional	functional
+REASON: The geographic location of points	1
+933	functional	functional
+REASON: The platform should be able	1
+935	functional	functional
+REASON: The WASP platform should	1
+939	functional	functional
+REASON: The end-user must be	1
+944	non-functional	functional
+REASON: The requirement is functional.	1
+945	functional	functional
+REASON: The WASP platform must	1
+946	functional	functional
+REASON: The user's ID is	1
+950	functional	functional
+REASON: The requirement includes some functional	1
+955	non-functional	functional
+REASON: The WASP platform shall	1

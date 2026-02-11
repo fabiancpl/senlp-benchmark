@@ -1,0 +1,131 @@
+{
+    "epoch": 20.0,
+    "eval_Algorithm": {
+        "f1": 0.0,
+        "number": 22,
+        "precision": 0.0,
+        "recall": 0.0
+    },
+    "eval_Application": {
+        "f1": 0.5134328358208956,
+        "number": 465,
+        "precision": 0.4777777777777778,
+        "recall": 0.5548387096774193
+    },
+    "eval_Class": {
+        "f1": 0.464321608040201,
+        "number": 361,
+        "precision": 0.3643533123028391,
+        "recall": 0.6398891966759003
+    },
+    "eval_Code_Block": {
+        "f1": 0.2583732057416268,
+        "number": 249,
+        "precision": 0.21428571428571427,
+        "recall": 0.3253012048192771
+    },
+    "eval_Data_Structure": {
+        "f1": 0.6711409395973154,
+        "number": 188,
+        "precision": 0.5791505791505791,
+        "recall": 0.7978723404255319
+    },
+    "eval_Data_Type": {
+        "f1": 0.6851851851851851,
+        "number": 167,
+        "precision": 0.7070063694267515,
+        "recall": 0.6646706586826348
+    },
+    "eval_Device": {
+        "f1": 0.5168539325842697,
+        "number": 81,
+        "precision": 0.4742268041237113,
+        "recall": 0.5679012345679012
+    },
+    "eval_File_Name": {
+        "f1": 0.5146198830409358,
+        "number": 116,
+        "precision": 0.3893805309734513,
+        "recall": 0.7586206896551724
+    },
+    "eval_File_Type": {
+        "f1": 0.5234375,
+        "number": 103,
+        "precision": 0.43790849673202614,
+        "recall": 0.6504854368932039
+    },
+    "eval_Function": {
+        "f1": 0.43042071197411,
+        "number": 264,
+        "precision": 0.3757062146892655,
+        "recall": 0.5037878787878788
+    },
+    "eval_HTML_XML_Tag": {
+        "f1": 0.34146341463414637,
+        "number": 70,
+        "precision": 0.39622641509433965,
+        "recall": 0.3
+    },
+    "eval_Language": {
+        "f1": 0.8112798264642083,
+        "number": 221,
+        "precision": 0.7791666666666667,
+        "recall": 0.8461538461538461
+    },
+    "eval_Library": {
+        "f1": 0.4103343465045593,
+        "number": 264,
+        "precision": 0.3426395939086294,
+        "recall": 0.5113636363636364
+    },
+    "eval_Operating_System": {
+        "f1": 0.6766917293233082,
+        "number": 61,
+        "precision": 0.625,
+        "recall": 0.7377049180327869
+    },
+    "eval_Output_Block": {
+        "f1": 0.0,
+        "number": 36,
+        "precision": 0.0,
+        "recall": 0.0
+    },
+    "eval_User_Interface_Element": {
+        "f1": 0.5709876543209877,
+        "number": 290,
+        "precision": 0.5167597765363129,
+        "recall": 0.6379310344827587
+    },
+    "eval_User_Name": {
+        "f1": 0.7317073170731708,
+        "number": 23,
+        "precision": 0.8333333333333334,
+        "recall": 0.6521739130434783
+    },
+    "eval_Variable": {
+        "f1": 0.31319358816276205,
+        "number": 318,
+        "precision": 0.25760649087221094,
+        "recall": 0.39937106918238996
+    },
+    "eval_Version": {
+        "f1": 0.7054263565891473,
+        "number": 114,
+        "precision": 0.6319444444444444,
+        "recall": 0.7982456140350878
+    },
+    "eval_Website": {
+        "f1": 0.125,
+        "number": 34,
+        "precision": 0.21428571428571427,
+        "recall": 0.08823529411764706
+    },
+    "eval_loss": 0.3845645785331726,
+    "eval_overall_accuracy": 0.8925094693617474,
+    "eval_overall_f1": 0.49159506910720957,
+    "eval_overall_precision": 0.4306282722513089,
+    "eval_overall_recall": 0.5726718885987816,
+    "eval_runtime": 2.8704,
+    "eval_samples_per_second": 189.519,
+    "eval_steps_per_second": 1.742
+}

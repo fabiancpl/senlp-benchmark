@@ -1,0 +1,1321 @@
+index	ground_truth	raw_prediction	parsed_prediction
+3	technical		-2
+4	technical		-2
+5	technical	that the original commit was trying to workaround the issue	-2
+9	technical	be in disabled state and clk_set_rate() will	-2
+16	technical		-2
+34	technical		-2
+54	technical		-2
+55	technical	be happy to change my mind.  CLASS: technical	0
+64	technical		-2
+66	technical		-2
+77	technical	ob, and just keep on making more debt,	-2
+94	technical		-2
+98	technical		-2
+114	technical	a proprietary product. I'm not sure what the	-2
+116	technical		-2
+117	technical	and unacceptable. i'm not even going to use	-2
+119	technical		-2
+125	technical		-2
+126	technical		-2
+127	technical		-2
+130	technical		-2
+133	technical		-2
+137	technical	be using 4.4. But I don	-2
+143	technical		-2
+146	technical	sure what the right fix is. I think we	-2
+154	technical		-2
+160	technical	more checks to make sure we don't have a	-2
+161	technical		-2
+164	technical		-2
+189	technical	, and I'm not sure if I'm doing	-2
+190	technical		-2
+197	technical		-2
+200	technical		-2
+201	technical		-2
+202	technical		-2
+206	technical		-2
+223	technical	trace call, I have to do it in a	-2
+224	technical		-2
+225	technical		-2
+232	technical	technical	0
+235	technical	-technical  - EXAMPLE 4: SENTENCE	0
+241	technical	be using the battery settings in the firmware), and	-2
+242	technical	- EXAMPLE 4: SENTENCE: I	-2
+249	technical	block) is a bit odd. I'm not	-2
+253	technical	: technical  ---  SENTENCE TO CLASSIFY:	0
+255	technical	ending it to the list. I'll take a	-2
+260	technical	technical	0
+262	technical		-2
+280	technical		-2
+285	technical	on a bus. So, I need to make	-2
+301	technical		-2
+302	technical		-2
+320	technical	technical	0
+327	technical		-2
+335	technical		-2
+337	technical		-2
+341	technical	code. So, if you change the card settings	-2
+345	technical	in the probe of the device that is connected to	-2
+357	technical	technical	0
+362	technical	technical	0
+364	technical		-2
+375	technical	technical	0
+379	technical		-2
+384	technical		-2
+385	technical		-2
+388	technical	technical	0
+391	technical	in parallel, and the memory used by each job	-2
+395	technical		-2
+404	technical		-2
+412	technical		-2
+417	technical		-2
+419	technical		-2
+455	technical		-2
+466	technical		-2
+467	technical	's a bit technical. I'm not sure how	0
+470	technical		-2
+474	technical		-2
+477	technical		-2
+488	technical		-2
+492	technical		-2
+499	technical		-2
+502	technical	CLASS: non-technical  - EXAMPLE 4	1
+504	technical	non-technical	1
+510	technical		-2
+512	technical		-2
+513	technical	technical	0
+523	technical		-2
+524	technical		-2
+525	technical	technical	0
+536	technical		-2
+537	technical		-2
+539	technical	aly add a space after the comma to make the	-2
+559	technical	an the test on a ramdisk and it was	-2
+562	technical		-2
+563	technical		-2
+569	technical	libc should do this? I'm not sure if	-2
+574	technical		-2
+580	technical		-2
+595	technical		-2
+600	technical		-2
+603	technical	technical	0
+606	technical		-2
+608	technical	would be caught at runtime (via skcipher_request	-2
+616	technical	I think we need to do away with the hierarchical	-2
+623	technical	should work for Flutter (where you are building the	-2
+635	technical		-2
+638	technical	Get package is a hack and it doesn't work	-2
+645	technical		-2
+646	technical	, please submit it.  CLASS: non-technical	1
+659	technical		-2
+663	technical		-2
+666	technical		-2
+667	technical		-2
+671	technical		-2
+673	technical		-2
+675	technical	https://github.com/JuliaLang/julia	-2
+688	technical		-2
+698	technical		-2
+699	technical		-2
+709	technical	. I think it's a bit of a hack	-2
+713	technical		-2
+716	technical		-2
+717	technical	. I am not sure if I understand the point	-2
+722	technical		-2
+723	technical	It's just a wrapper around the hwirq field	-2
+728	technical	and the whole point of the firmware is to provide	-2
+732	technical	the job done: {% assign tags = site.tags	-2
+740	technical		-2
+753	technical		-2
+760	technical		-2
+766	technical	is to be able to use it on other architectures	-2
+768	technical		-2
+769	technical		-2
+770	technical		-2
+774	technical		-2
+775	technical		-2
+784	technical	a DT overlay that will map the physical slave addresses	-2
+793	technical		-2
+797	technical		-2
+804	technical		-2
+814	technical	ONE_DMA32, which is not what we want	-2
+815	technical	- EXAMPLE 4: SENTENCE: I	-2
+822	technical		-2
+823	technical		-2
+825	technical	/... for master drivers. I think we should	-2
+827	technical	list of SoCs? Or you want to support	-2
+830	technical	my English. I'm not a native speaker.	-2
+832	technical		-2
+846	technical	non-technical	1
+851	technical		-2
+853	technical		-2
+854	technical		-2
+860	technical		-2
+863	technical	technical	0
+870	technical		-2
+872	technical		-2
+876	technical	. I'll also try to get the tbench	-2
+878	technical	atomic access), then why not just use a normal	-2
+894	technical		-2
+895	technical	to be in 6.6.40.	-2
+899	technical		-2
+901	technical	scaling is a bug and should be fixed. I	-2
+914	technical		-2
+918	technical	liability are the only things that matter in the	-2
+919	technical		-2
+922	technical	technical	0
+924	technical		-2
+928	technical		-2
+943	technical		-2
+946	technical	need to make sure that we don't break existing	-2
+950	technical		-2
+951	technical	non-technical	1
+953	technical		-2
+954	technical		-2
+956	technical		-2
+959	technical		-2
+966	technical	). The DMA_DIRECT_REMAP case is a special	-2
+971	technical		-2
+975	technical	, and last is the SHA1 of the last	-2
+980	technical		-2
+984	technical		-2
+989	technical		-2
+991	technical	technical	0
+992	technical		-2
+995	technical		-2
+1012	technical		-2
+1015	technical		-2
+1016	technical		-2
+1021	technical	to use the legacy virtio_net_hdr for a	-2
+1028	technical		-2
+1045	technical	sure if it is safe to call __replace_page	-2
+1059	technical		-2
+1060	technical		-2
+1062	technical		-2
+1063	technical	technical	0
+1065	technical		-2
+1066	technical	the current behavior of setsockopt on Linux. I	-2
+1069	technical	be set? I'm not sure I understand the	-2
+1076	technical		-2
+1077	technical		-2
+1081	technical	. The v3 kernel would have to check the	-2
+1082	technical	then add them up. I think that's a	-2
+1118	technical		-2
+1120	technical		-2
+1122	technical	_time is zero". I think that it should be	-2
+1139	technical	- EXAMPLE 3: SENTENCE: I	-2
+1141	technical		-2
+1145	technical		-2
+1147	technical		-2
+1148	technical		-2
+1150	technical		-2
+1154	technical		-2
+1155	technical		-2
+1156	technical	works for Flutter (where you are building the UI	-2
+1160	technical	" message is not very helpful. I would like	-2
+1166	technical	. I'm not sure if it's possible to	-2
+1167	technical		-2
+1169	technical		-2
+1184	technical		-2
+1191	technical	with the other changes in this series and I think	-2
+1202	technical		-2
+1205	technical		-2
+1214	technical	times, but I've never been able to get	-2
+1217	technical	technical  The following two functions are not called by	0
+1218	technical		-2
+1243	technical		-2
+1248	technical		-2
+1250	technical		-2
+1252	technical		-2
+1254	technical		-2
+1256	technical	technical	0
+1267	technical		-2
+1275	technical	please help me with this issue? I'm trying	-2
+1276	technical		-2
+1282	technical	. I will fix this up. I will need	-2
+1291	technical		-2
+1296	technical		-2
+1300	technical	non-technical	1
+1306	technical		-2
+1308	technical		-2
+1311	technical		-2
+1312	technical		-2
+1314	technical	technical	0
+1318	technical	technical	0
+1324	technical	expect you to continue to accept fixes for Yarn	-2
+1333	non-technical		-2
+1346	non-technical	picking: I think it would be better to	-2
+1352	non-technical		-2
+1355	non-technical		-2
+1368	non-technical		-2
+1369	non-technical	non-technical	1
+1372	non-technical	as it is the only way to ensure that the	-2
+1378	non-technical	is not the same as "Publishing... electronic	-2
+1380	non-technical		-2
+1397	non-technical	by checking if the memory range is a sub-range	-2
+1399	non-technical	technical	0
+1401	non-technical		-2
+1403	non-technical		-2
+1405	non-technical		-2
+1412	non-technical		-2
+1413	non-technical		-2
+1419	non-technical		-2
+1428	non-technical	non-technical	1
+1437	non-technical	it for the next time.  CLASS: non-	-2
+1438	non-technical	- EXAMPLE 4: SENTENCE: I	-2
+1442	non-technical	non-technical  SENTENCE TO CLASSIFY:	1
+1444	non-technical	look at the code and I think I found the	-2
+1457	non-technical	them much easier to read. I'm not sure	-2
+1463	non-technical	to be Cc'd on the cover letter?	-2
+1482	non-technical	_64/ or Documentation/ia32/ or	-2
+1490	non-technical		-2
+1497	technical	7.6.1810 ##### REPRO	-2
+1499	technical		-2
+1500	technical		-2
+1510	technical	a single module, so it is not a problem	-2
+1516	technical		-2
+1521	technical	faster (no need to check for globals). I	-2
+1526	technical		-2
+1531	technical		-2
+1533	technical	[removed - inappropriate content]	-2
+1537	technical	technical  ---  SENTENCE TO CLASSIFIED: **	0
+1552	technical		-2
+1556	technical	ars after I save the file and run the program	-2
+1564	technical		-2
+1577	technical	information. ### Checklist: - [ ] I have	-2
+1613	technical		-2
+1628	technical		-2
+1638	technical	would occur if we released a 1.0	-2
+1646	technical		-2
+1649	technical	client side technology, we are looking for a way	-2
+1652	technical	definitions. But that's not the only way to	-2
+1661	technical		-2
+1663	technical	technical	0
+1668	technical		-2
+1684	technical		-2
+1695	technical		-2
+1696	technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+1697	technical	. I'm not saying that WCF is the	-2
+1699	technical	non-technical	1
+1708	technical		-2
+1710	technical		-2
+1736	technical		-2
+1738	technical		-2
+1739	technical	ative of the 90s is the fact that	-2
+1741	technical		-2
+1742	technical		-2
+1749	technical	default branch. A tool by github to automate the	-2
+1753	technical		-2
+1765	technical		-2
+1771	technical		-2
+1772	technical		-2
+1773	technical		-2
+1787	technical		-2
+1793	technical		-2
+1799	technical		-2
+1801	technical		-2
+1803	technical		-2
+1804	technical		-2
+1807	technical		-2
+1813	technical		-2
+1814	technical		-2
+1816	technical	technical	0
+1831	technical		-2
+1832	technical	be able to make the code available.  CLASS:	-2
+1836	technical	this driver? I am using this driver in my	-2
+1841	technical		-2
+1846	technical		-2
+1847	technical	who have been maintaining Lerna for years) to	-2
+1848	technical	platforms are working as expected is on the developer.	-2
+1850	technical	look at the current state of the art in the	-2
+1853	technical		-2
+1854	technical		-2
+1855	technical		-2
+1861	technical		-2
+1864	technical	non-technical	1
+1875	technical	it. I think it's a good idea to	-2
+1883	technical		-2
+1887	technical	imitive types? I think it's better to highlight	-2
+1890	technical		-2
+1892	technical		-2
+1901	technical		-2
+1902	technical		-2
+1921	technical		-2
+1925	technical		-2
+1927	technical		-2
+1929	technical		-2
+1960	technical		-2
+1962	technical		-2
+1970	technical		-2
+1974	technical		-2
+1978	technical		-2
+1984	technical		-2
+1987	technical		-2
+1991	technical		-2
+1992	technical		-2
+1995	technical		-2
+1996	technical		-2
+2002	technical	- EXAMPLE 3: SENTENCE: I	-2
+2006	technical	The following sentences are examples of technical sentences. Please	0
+2009	technical	HTTP, WebSockets, etc.) in.	-2
+2011	technical		-2
+2016	technical	. It's not actively maintained, and it's	-2
+2020	technical		-2
+2021	technical		-2
+2022	technical		-2
+2024	technical		-2
+2025	technical		-2
+2031	technical	technical	0
+2033	technical		-2
+2055	technical		-2
+2063	technical		-2
+2067	technical		-2
+2069	technical	technical	0
+2074	technical	2. The decision to revert the changes in	-2
+2076	technical		-2
+2085	technical	technical	0
+2088	technical		-2
+2098	technical		-2
+2099	technical		-2
+2112	technical		-2
+2123	technical		-2
+2126	technical		-2
+2127	technical		-2
+2136	technical		-2
+2137	technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+2138	technical		-2
+2143	technical		-2
+2144	technical	non-technical	1
+2149	technical	you want to discuss the code, please do it	-2
+2150	technical		-2
+2152	technical	of the issue? I'm not sure if I	-2
+2154	technical		-2
+2158	technical		-2
+2162	technical		-2
+2164	technical		-2
+2165	technical		-2
+2166	technical		-2
+2168	technical	non-technical	1
+2185	technical		-2
+2194	technical		-2
+2195	technical	non-technical	1
+2203	technical		-2
+2206	technical		-2
+2207	technical	this.	-2
+2209	technical		-2
+2215	technical	technical	0
+2216	technical	use. That is not how this works. You	-2
+2217	technical		-2
+2223	technical	technical  - EXAMPLE 4: SENTENCE:	0
+2224	technical	18.04? I have a laptop with	-2
+2228	technical		-2
+2229	technical		-2
+2230	technical		-2
+2233	technical		-2
+2238	technical	you. The only thing that matters is the quality	-2
+2243	technical	technical	0
+2247	technical		-2
+2249	technical		-2
+2250	technical		-2
+2273	technical		-2
+2284	technical		-2
+2290	technical	" proselytizes to a non-believer	-2
+2293	technical		-2
+2296	technical	non-technical	1
+2304	technical		-2
+2309	technical	, they are all very similar, and they are	-2
+2311	technical		-2
+2318	technical		-2
+2319	technical		-2
+2320	technical		-2
+2324	technical	the attribute is 1. This is a "	-2
+2326	technical		-2
+2328	technical	technical	0
+2329	technical		-2
+2333	technical		-2
+2348	technical	discussion. I'm not saying WCF is bad	-2
+2356	technical	- EXAMPLE 4: SENTENCE: I'm	-2
+2358	technical		-2
+2360	technical		-2
+2361	technical		-2
+2366	technical		-2
+2368	technical	mlinks on Windows. I'll mail that CL	-2
+2371	technical		-2
+2372	technical		-2
+2373	technical	technical	0
+2382	technical		-2
+2387	technical		-2
+2405	technical	non-technical	1
+2411	technical	after the first time it is run, and I	-2
+2423	technical		-2
+2429	technical		-2
+2430	technical		-2
+2433	technical	of distinction. I'm not saying that the term	-2
+2446	technical	non-technical	1
+2454	technical		-2
+2462	technical		-2
+2464	technical		-2
+2468	technical		-2
+2492	technical		-2
+2494	technical		-2
+2495	technical		-2
+2500	technical		-2
+2504	technical	I'm not sure if this is the right place	-2
+2511	technical		-2
+2517	technical		-2
+2530	technical		-2
+2531	technical		-2
+2536	technical		-2
+2539	technical		-2
+2544	technical	patch, you need to have the following packages installed	-2
+2553	technical	. I'm not sure what the difference is between	-2
+2554	technical	, it's a bit of a hack, but	-2
+2559	technical		-2
+2561	technical		-2
+2565	technical		-2
+2595	technical	be used. I'm not sure if this is	-2
+2601	technical		-2
+2603	technical		-2
+2611	technical		-2
+2612	technical		-2
+2617	technical		-2
+2622	technical	ENCE: I'm not sure that forcing a library	-2
+2623	technical	technical  ---  SENTENCE TO CLASSIFY: Hi	0
+2640	technical		-2
+2647	technical		-2
+2650	technical		-2
+2653	technical	non-technical	1
+2657	technical	it would be a disaster. I think it is	-2
+2658	technical	technical	0
+2659	technical		-2
+2670	technical	requirement for file-entry-cache? Or to the fact	-2
+2672	technical		-2
+2676	technical		-2
+2679	technical	it's still a product that people use. It	-2
+2692	technical	"not a big deal" and "not a	-2
+2705	technical		-2
+2706	technical		-2
+2707	technical	keywords, you won't be ranked high. I	-2
+2714	technical		-2
+2719	technical		-2
+2724	technical		-2
+2725	technical	I have the AMD GPU. I will let you	-2
+2726	technical		-2
+2728	technical		-2
+2731	technical		-2
+2733	technical	s/module2/main.tf -- logic-apps/module	-2
+2736	technical		-2
+2758	technical	a given region. I am not using modules to	-2
+2761	technical	so it's not generic. I am also working	-2
+2763	technical		-2
+2765	technical		-2
+2780	technical	** having to deal with the same issues, but	-2
+2781	technical		-2
+2784	technical	non-technical	1
+2789	technical		-2
+2793	technical	about the version number, you can use the --	-2
+2794	technical		-2
+2803	technical		-2
+2813	technical	have to do it yourself. I am not sure	-2
+2828	technical		-2
+2842	technical		-2
+2843	technical	technical	0
+2849	technical		-2
+2858	technical		-2
+2861	technical	for security is also very good. It's not	-2
+2863	technical	files to Dart code in a matter of seconds.	-2
+2869	technical		-2
+2871	technical		-2
+2876	technical	the documentation, I think it's not possible to	-2
+2877	technical		-2
+2880	technical		-2
+2881	technical		-2
+2885	technical		-2
+2892	technical	: non-technical  - EXAMPLE 4:	1
+2897	technical		-2
+2898	technical	. I'm not sure what else to say here	-2
+2899	technical		-2
+2901	technical		-2
+2902	technical		-2
+2903	technical		-2
+2906	technical		-2
+2907	technical		-2
+2912	technical		-2
+2913	technical		-2
+2915	technical		-2
+2924	technical	afford were 8086 or 8088.	-2
+2930	technical		-2
+2934	technical		-2
+2941	technical		-2
+2942	technical		-2
+2945	technical		-2
+2947	technical		-2
+2950	technical		-2
+2951	technical	for the next release of the package manager to update	-2
+2954	technical		-2
+2958	technical		-2
+2965	technical		-2
+2974	technical	non-technical	1
+2976	technical		-2
+2979	technical		-2
+2982	technical		-2
+2984	technical		-2
+2992	technical	a theme with 100 shades of colors. I	-2
+2999	technical	processes - are not in use by the process itself	-2
+3000	technical	would argue that this is a good thing. I	-2
+3006	technical		-2
+3007	technical		-2
+3017	technical	fix, can be a breaking change if it changes	-2
+3021	technical		-2
+3029	technical		-2
+3037	technical		-2
+3038	technical		-2
+3039	technical		-2
+3040	technical		-2
+3046	technical	your patience and understanding.  CLASS: non-technical	1
+3056	technical	renderer. I'm sorry that you feel like you	-2
+3059	technical		-2
+3064	technical		-2
+3066	technical		-2
+3069	technical	, I think it's a good idea for small	-2
+3072	technical		-2
+3079	technical		-2
+3080	technical	it works fine on 1.0 (with	-2
+3082	technical		-2
+3087	technical		-2
+3091	technical		-2
+3096	technical		-2
+3099	technical	done by the OS, but the principle is the	-2
+3101	technical	. I'm not going to waste my time on	-2
+3103	technical		-2
+3106	technical		-2
+3115	technical		-2
+3118	technical		-2
+3124	technical		-2
+3126	technical		-2
+3127	technical	technical	0
+3129	technical	: non-technical	1
+3133	technical	Microsoft. I'm not sure if it's a	-2
+3135	technical	be very difficult to fix, and that the translation	-2
+3143	technical		-2
+3144	technical		-2
+3150	technical		-2
+3161	technical		-2
+3167	technical		-2
+3173	technical	move on, it's not a good look.	-2
+3177	technical	going to tell userspace that it needs to adjust	-2
+3187	technical	non-technical	1
+3198	technical		-2
+3199	technical	a function would work. 4. etc.	-2
+3205	technical	side. I'll try to fix it as soon	-2
+3219	technical		-2
+3222	technical		-2
+3224	technical	are not allowed to use the refineries, then	-2
+3225	technical		-2
+3227	technical	interactive work is that they don't have to write	-2
+3228	technical		-2
+3235	technical	the fact that the people who are most likely to	-2
+3236	technical	non-technical	1
+3237	technical		-2
+3240	technical		-2
+3241	technical	to merge Yarn into core. It's a	-2
+3247	technical	it's not like you can't use React without	-2
+3254	technical		-2
+3255	technical		-2
+3260	technical		-2
+3267	technical		-2
+3272	technical		-2
+3276	technical	been used for a long time and is not something	-2
+3278	technical		-2
+3285	technical		-2
+3286	technical		-2
+3288	technical		-2
+3290	technical		-2
+3292	technical		-2
+3304	technical		-2
+3308	technical	non-technical	1
+3309	technical		-2
+3314	technical		-2
+3315	technical	Python version: 3.6.8	-2
+3320	technical	's a small percentage, but I'd like to	-2
+3324	technical		-2
+3325	technical		-2
+3338	technical		-2
+3339	technical		-2
+3343	technical		-2
+3345	technical	I'm not sure if this is the best way	-2
+3351	technical		-2
+3358	technical	is good enough. I'm not saying you do	-2
+3359	technical		-2
+3370	technical	(npm). If you want to use npm,	-2
+3373	technical	Open the log file in a text editor 2	-2
+3380	technical	non-technical	1
+3387	technical	non-technical	1
+3390	technical		-2
+3396	technical		-2
+3402	technical		-2
+3404	technical	user to map a key combination that is not a	-2
+3410	technical		-2
+3419	technical		-2
+3423	technical		-2
+3429	technical		-2
+3434	technical		-2
+3435	technical	technical	0
+3440	technical		-2
+3446	technical		-2
+3449	technical		-2
+3451	technical		-2
+3452	technical		-2
+3455	technical		-2
+3461	technical		-2
+3462	technical		-2
+3468	technical		-2
+3469	technical		-2
+3470	technical		-2
+3472	technical		-2
+3478	technical		-2
+3482	technical		-2
+3492	technical	not seen this issue in r103. I am	-2
+3493	technical		-2
+3495	technical		-2
+3498	technical		-2
+3503	technical		-2
+3510	technical	at the code. I'm not going to do	-2
+3511	technical		-2
+3513	technical	, you'll need to update your local copy of	-2
+3516	technical	few lines of code to specify the order of the	-2
+3522	technical		-2
+3524	technical		-2
+3535	technical		-2
+3536	technical	I know), which is not supported on.NET	-2
+3537	technical		-2
+3541	technical		-2
+3542	technical		-2
+3544	technical		-2
+3553	technical	effort you put into it, it will not work	-2
+3557	technical		-2
+3559	technical		-2
+3562	technical		-2
+3565	technical		-2
+3585	technical	non-technical	1
+3587	technical		-2
+3588	technical		-2
+3589	technical		-2
+3600	technical		-2
+3604	technical		-2
+3608	technical	non-technical	1
+3612	technical		-2
+3613	technical		-2
+3614	technical		-2
+3616	technical	technical	0
+3617	technical		-2
+3619	technical		-2
+3620	technical	technical	0
+3625	technical		-2
+3629	technical		-2
+3630	technical		-2
+3633	technical		-2
+3640	technical	: I'm not sure if this is the right	-2
+3642	technical	-(  CLASS: technical  - EXAMPLE 4	0
+3644	technical		-2
+3654	technical		-2
+3658	technical		-2
+3663	technical		-2
+3666	technical		-2
+3670	technical	-technical  - EXAMPLE 4: SENTENCE	0
+3674	technical		-2
+3675	technical		-2
+3678	technical	storage space). Google's interest is to have a	-2
+3680	technical	, I prefer to use a separate file for it	-2
+3682	technical		-2
+3685	technical		-2
+3690	technical	lines about the whole thing and that it was a	-2
+3698	technical		-2
+3699	technical		-2
+3701	technical		-2
+3714	technical	But that's not what? does. It's	-2
+3724	technical		-2
+3729	technical	IFY: I'm not sure if this is a	-2
+3740	technical		-2
+3745	technical	technical	0
+3747	technical		-2
+3749	technical		-2
+3750	technical	non-technical	1
+3752	technical		-2
+3762	technical	's about the ability to build a project from scratch	-2
+3764	technical		-2
+3765	technical		-2
+3768	technical	. I have no idea how to fix this,	-2
+3770	technical	. It's just a math problem. I'm	-2
+3795	technical		-2
+3804	technical	a quick note to say that I've been working	-2
+3805	technical		-2
+3811	technical	conversion from the pipeline. It was causing a lot	-2
+3812	technical		-2
+3813	technical		-2
+3840	technical		-2
+3843	technical		-2
+3845	technical		-2
+3855	technical		-2
+3863	technical		-2
+3864	technical		-2
+3869	technical		-2
+3877	technical		-2
+3881	technical		-2
+3887	technical		-2
+3891	technical	non-technical	1
+3898	technical		-2
+3903	technical		-2
+3904	technical	technical  ---  SENTENCE TO CLASSIFY: mas	0
+3911	technical		-2
+3912	technical	non-technical	1
+3914	technical	technical  ---  SENTENCE TO CLASSIFY: I	0
+3916	technical		-2
+3924	technical	in the docs as well. I'll ping @	-2
+3930	technical	I'm a new user and I'm trying to	-2
+3931	technical		-2
+3934	technical	is a free, open source code editor redefined	-2
+3937	technical		-2
+3940	technical		-2
+3943	technical		-2
+3945	technical	#15006 - Add support for the new X	-2
+3959	technical	institutions in the world) is a big fan of	-2
+3965	technical	be great to have a package manager that can support	-2
+3966	technical		-2
+3980	technical	that as an excuse to not listen to me.	-2
+3986	technical		-2
+3991	technical	e.g. by adding a new keyword) is	-2
+4008	technical		-2
+4011	technical		-2
+4015	technical		-2
+4018	technical		-2
+4019	technical	reason that we don't have a full OpenID	-2
+4022	technical		-2
+4031	technical		-2
+4044	technical		-2
+4052	technical	might be flagged as spam. I'm not sure	-2
+4058	technical		-2
+4068	technical		-2
+4081	technical		-2
+4091	technical	. If you want to discuss the matter further,	-2
+4093	technical		-2
+4111	technical		-2
+4120	technical	TDM Split mode to get 2ch audio	-2
+4130	technical		-2
+4137	technical		-2
+4142	technical	comment to be more clear. I think it's	-2
+4149	technical		-2
+4151	technical	with the new binding? I'm not sure.	-2
+4155	technical		-2
+4159	technical		-2
+4161	technical		-2
+4168	technical	attern. It's not that it's bad,	-2
+4175	technical		-2
+4182	technical	non-technical	1
+4186	technical		-2
+4189	technical		-2
+4195	technical		-2
+4197	technical	0s-era systems, but I'm not OK	-2
+4201	technical		-2
+4210	technical	. I was trying to make a plugin that would	-2
+4213	technical	technical	0
+4225	technical	technical	0
+4229	technical		-2
+4232	technical		-2
+4235	technical		-2
+4238	technical		-2
+4247	technical	CLASS: non-technical  - EXAMPLE 4	1
+4258	technical		-2
+4265	technical		-2
+4274	technical	This would be a hack and would not be a	-2
+4275	technical		-2
+4283	technical		-2
+4285	technical		-2
+4288	technical		-2
+4291	technical		-2
+4299	technical		-2
+4300	technical		-2
+4302	technical	:	-2
+4304	technical		-2
+4306	technical		-2
+4310	technical		-2
+4311	technical		-2
+4314	technical		-2
+4318	technical		-2
+4324	technical		-2
+4326	technical		-2
+4332	technical		-2
+4338	technical	technical	0
+4339	technical		-2
+4343	technical		-2
+4345	technical	Please check the PR description for more details.  CLASS	-2
+4346	technical		-2
+4353	technical		-2
+4354	technical		-2
+4356	technical		-2
+4359	technical		-2
+4367	technical		-2
+4370	technical		-2
+4374	technical		-2
+4376	technical	technical	0
+4380	technical		-2
+4386	technical		-2
+4393	technical	non-technical	1
+4395	technical	1. The TPU is a special-purpose	-2
+4402	technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+4410	technical		-2
+4411	technical	and modules. This will give you a better chance	-2
+4417	technical		-2
+4429	technical	technical	0
+4436	technical		-2
+4444	technical	Apple, Google, Facebook, Twitter, etc.	-2
+4445	technical	non-technical	1
+4450	technical		-2
+4453	technical		-2
+4457	technical	'hashicorp/virtualbox' (v	-2
+4465	technical	, and it's not even a full download,	-2
+4466	technical		-2
+4468	technical		-2
+4480	technical		-2
+4492	technical		-2
+4498	technical	easy fix, and it's not like it's	-2
+4509	technical	IFY: I'm not sure if this is the	-2
+4512	technical		-2
+4528	technical		-2
+4531	technical		-2
+4532	technical	technical  SENTENCE TO CLASSIFY: I'm	0
+4548	technical	to be exposed to the extension API, and then	-2
+4557	technical	in between. I'm not sure what you mean	-2
+4576	technical		-2
+4581	technical		-2
+4583	technical	be as good as possible. - I think scenario	-2
+4590	technical		-2
+4593	technical	way. We are still working on it. We	-2
+4594	technical	technical	0
+4597	technical	non-technical	1
+4600	technical	to work together. I would be very happy to	-2
+4601	technical		-2
+4619	technical	starting with use. I'm not sure if	-2
+4620	technical		-2
+4623	technical		-2
+4633	technical		-2
+4636	technical	.js ecosystem.  CLASS: non-technical  -	1
+4637	technical		-2
+4642	technical		-2
+4653	technical		-2
+4656	technical		-2
+4659	technical	about it, just that it's not as common	-2
+4660	technical		-2
+4661	technical	repo, but that's not the case now.	-2
+4663	technical		-2
+4664	technical		-2
+4667	technical		-2
+4682	technical		-2
+4692	technical	non-technical	1
+4698	technical	We will provide clarity on the reasons for his removal	-2
+4701	technical	not clear to me how the build number is incremented	-2
+4710	technical	ad.org, we will be able to help you	-2
+4712	technical		-2
+4715	technical	non-technical	1
+4716	technical		-2
+4719	technical	technical	0
+4723	technical		-2
+4733	technical		-2
+4734	technical		-2
+4737	technical	for publisher id. So, we can search by	-2
+4739	technical		-2
+4748	technical		-2
+4751	technical		-2
+4760	technical		-2
+4766	technical		-2
+4779	technical		-2
+4780	technical	not sure if this is the same issue, but	-2
+4781	technical		-2
+4789	technical	non-technical	1
+4795	technical		-2
+4800	technical		-2
+4804	technical		-2
+4805	technical		-2
+4810	technical		-2
+4814	technical	email protected] is on file. * If	-2
+4822	technical	The "count" value depends on resource attributes that	-2
+4826	technical	results I get for "line endings" (I	-2
+4827	technical		-2
+4830	technical		-2
+4838	technical		-2
+4841	technical		-2
+4850	technical		-2
+4855	technical		-2
+4860	technical		-2
+4867	technical		-2
+4879	technical		-2
+4886	technical		-2
+4887	technical	performance would be good enough. We are now looking	-2
+4888	technical	't just say "it's slick" and expect	-2
+4889	technical	I'm not sure if this is the right way	-2
+4891	technical	what someone else might consider offensive. I'm not	-2
+4897	technical	offs. I'm not saying you're wrong,	-2
+4903	technical		-2
+4904	technical		-2
+4905	technical		-2
+4912	technical	. I'm not sure what you mean by "	-2
+4916	technical		-2
+4917	technical		-2
+4920	technical		-2
+4922	technical		-2
+4935	technical		-2
+4944	technical		-2
+4945	technical		-2
+4947	technical		-2
+4948	technical	demand" is that you address the concerns that have	-2
+4952	technical		-2
+4953	technical		-2
+4966	technical		-2
+4967	technical	takes a Span or Ref Struct, I can't	-2
+4972	technical	well. I'm not saying that WCF is	-2
+4977	technical		-2
+4989	technical	give you a better feedback.  CLASS: non-	-2
+5002	technical		-2
+5003	technical		-2
+5011	technical		-2
+5013	technical		-2
+5014	technical	issues, they know that this is a very bad	-2
+5017	technical		-2
+5022	technical		-2
+5026	technical		-2
+5027	technical		-2
+5037	technical	Name By Handle for all cases, and then if	-2
+5043	technical		-2
+5055	technical		-2
+5059	technical		-2
+5060	technical		-2
+5061	technical		-2
+5078	technical	The following sentences are examples of technical and non-	0
+5079	technical		-2
+5092	technical		-2
+5097	technical		-2
+5099	technical		-2
+5101	technical		-2
+5113	technical		-2
+5114	technical		-2
+5116	technical		-2
+5119	technical		-2
+5127	technical		-2
+5132	technical		-2
+5133	technical		-2
+5136	technical		-2
+5137	technical		-2
+5140	technical		-2
+5141	technical		-2
+5143	technical	, they run in production mode. This is a	-2
+5144	technical		-2
+5148	technical		-2
+5152	technical		-2
+5153	technical		-2
+5158	technical		-2
+5160	technical		-2
+5161	technical		-2
+5170	technical		-2
+5183	technical		-2
+5184	technical	technical  SENTENCE TO CLASSIFY: I'm	0
+5185	technical		-2
+5189	technical		-2
+5190	technical		-2
+5192	technical		-2
+5195	technical		-2
+5197	technical		-2
+5209	technical		-2
+5219	technical		-2
+5220	technical	technical	0
+5221	technical	Java. I think it is a good idea to	-2
+5224	technical		-2
+5231	technical	technical	0
+5236	technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+5237	technical	technical	0
+5240	technical	non-technical	1
+5241	technical		-2
+5256	technical		-2
+5258	technical		-2
+5260	technical		-2
+5269	technical		-2
+5272	technical		-2
+5277	technical		-2
+5282	technical		-2
+5284	technical	technical	0
+5297	technical		-2
+5301	technical	to call pwm_enable() and then pwm_set_config	-2
+5302	technical	point of view) but I'm interested in the	-2
+5308	technical		-2
+5314	technical		-2
+5315	technical	law. Please correct it. Thank you.	-2
+5324	technical		-2
+5329	technical		-2
+5335	technical		-2
+5336	technical		-2
+5340	technical	is the class of this sentence?	-2
+5341	technical	a lot* of time into getting the build environment	-2
+5345	technical		-2
+5356	technical	non-technical	1
+5357	technical		-2
+5359	technical	so commands to be on a separate line, but	-2
+5365	technical		-2
+5369	technical		-2
+5379	technical		-2
+5382	technical		-2
+5383	technical		-2
+5390	technical		-2
+5391	technical		-2
+5393	technical		-2
+5394	technical		-2
+5395	technical	I'm not saying that the current maintainers are	-2
+5400	technical		-2
+5405	technical		-2
+5410	technical		-2
+5411	technical		-2
+5416	technical		-2
+5417	technical	I guess we could just use the same code as	-2
+5422	technical		-2
+5426	technical		-2
+5439	technical		-2
+5444	technical		-2
+5445	technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+5447	technical		-2
+5448	technical		-2
+5464	technical		-2
+5467	technical		-2
+5469	technical		-2
+5471	technical	a result we've made some changes to the way	-2
+5472	technical		-2
+5475	technical	I think it's better to have a separate method	-2
+5479	technical	non-technical	1
+5482	technical	not possible, but you can disable the auto-format	-2
+5483	technical		-2
+5488	technical		-2
+5494	technical	technical	0
+5501	technical	- Transactions** **- Duplex** **-	-2
+5502	technical	- EXAMPLE 4: SENTENCE: I'm	-2
+5506	technical	the data set? Is it possible to have a	-2
+5510	technical	for the job. WCF is the right tool	-2
+5513	technical	lacking. So they created their own solutions. And	-2
+5516	technical	's exactly what the author of the proposal is saying	-2
+5521	technical	OpenCL implementation.	-2
+5526	technical	support openCL 2.0 on Linux in	-2
+5534	technical		-2
+5539	technical		-2
+5552	technical	- EXAMPLE 4: SENTENCE: I	-2
+5558	technical		-2
+5561	technical	etc). But the ivy renderer is a big	-2
+5576	technical		-2
+5578	technical		-2
+5584	technical		-2
+5591	technical	the terminal, I remember that nightmare. I'm	-2
+5592	technical		-2
+5596	technical		-2
+5618	technical		-2
+5631	technical		-2
+5632	technical	technical	0
+5636	technical		-2
+5637	technical	learn. I'm not sure if that's true	-2
+5642	technical	technical	0
+5646	technical		-2
+5647	technical		-2
+5654	technical		-2
+5655	technical		-2
+5664	technical		-2
+5666	technical	non-technical	1
+5667	technical	that's missing from the conversation so far. (	-2
+5672	technical		-2
+5678	technical		-2
+5680	technical		-2
+5683	technical		-2
+5689	technical		-2
+5692	technical		-2
+5696	technical		-2
+5698	technical		-2
+5699	technical		-2
+5714	technical	just ignore it.	-2
+5733	technical		-2
+5739	technical		-2
+5746	technical		-2
+5749	technical	technical	0
+5750	technical	instead of WCF, sure, configure that one	-2
+5755	technical	for a way to disable it, and I found	-2
+5762	technical		-2
+5766	technical	technical	0
+5773	technical		-2
+5779	technical	, but I don't think we've come up	-2
+5780	technical		-2
+5786	technical		-2
+5790	technical	we don't have a timeline for this yet,	-2
+5791	technical	syndrome.  CLASS: technical  - EXAMPLE 4	0
+5794	technical		-2
+5803	technical	/slot. This is not acceptable. So,	-2
+5809	technical	of the device compiler. You can use the same	-2
+5814	technical		-2
+5816	technical	shift+enter key to run the cell.	-2
+5820	technical		-2
+5822	technical		-2
+5829	technical		-2
+5830	technical		-2
+5832	technical	non-technical	1
+5833	technical		-2
+5837	technical		-2
+5839	technical		-2
+5844	technical	. I think you should continue to contribute, and	-2
+5856	technical		-2
+5865	technical	technical  ---  SENTENCE TO CLASSIFY: I	0
+5870	technical		-2
+5871	technical	environment. * I can run multiple containers at once	-2
+5873	technical		-2
+5875	technical		-2
+5880	technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+5882	technical		-2
+5893	non-technical	non-technical  (I) I'm not sure	1
+5895	non-technical	by many people, but it is not able to	-2
+5902	non-technical		-2
+5905	non-technical	nonsense about "the community" and "the project	-2
+5912	non-technical		-2
+5913	non-technical		-2
+5924	non-technical		-2
+5928	non-technical	it, I'm using this. which does inject	-2
+5931	non-technical		-2
+5935	non-technical	a little more kind and loving to each other,	-2
+5936	non-technical		-2
+5939	non-technical		-2
+5941	non-technical	the same weight as the Linux kernel, they are	-2
+5944	non-technical	and what they are not. If you are not	-2
+5956	non-technical	problem than a stack trace that's littered with	-2
+5967	non-technical		-2
+5968	non-technical		-2
+5970	non-technical	solved. Thank you.	-2
+5984	non-technical		-2
+5987	non-technical		-2
+5991	non-technical		-2
+5993	non-technical	example, I don't know why you are so	-2
+5997	non-technical		-2
+5999	non-technical	how it should be. I'm not saying that	-2
+6000	non-technical	. I'm not sure if you're aware of	-2
+6002	non-technical		-2
+6007	non-technical		-2
+6015	non-technical		-2
+6016	non-technical	ix, but i am not sure if it is	-2
+6023	non-technical	this change for you. I'll do it now	-2
+6029	non-technical		-2
+6030	non-technical		-2
+6037	non-technical		-2
+6041	non-technical	background) processes), this is a huge problem.	-2
+6044	non-technical		-2
+6048	non-technical	. And this is the case here. The problem	-2
+6052	non-technical	that the enterprise project should be a separate project,	-2
+6054	non-technical		-2
+6058	non-technical		-2
+6072	non-technical	the community. I don't think that the project	-2
+6079	non-technical		-2
+6082	non-technical	non-technical	1
+6083	non-technical		-2
+6088	non-technical	some* configuration to use the package manager, which	-2
+6090	non-technical	non-technical  SENTENCE TO CLASSIFY:	1
+6091	non-technical		-2
+6093	non-technical		-2
+6100	non-technical		-2
+6101	non-technical	ENCE: I'm not sure if this is the	-2
+6105	non-technical		-2
+6115	non-technical		-2
+6135	non-technical	applicable to both. I am not sure if he	-2
+6137	non-technical		-2
+6138	non-technical	a small project, I'd expect to be able	-2
+6145	non-technical	I don't use Jekyll are the lack of	-2
+6146	non-technical		-2
+6151	non-technical	a false positive. And, the issue is not	-2
+6153	non-technical	descending and rude. I'm not sure if you	-2
+6159	non-technical		-2
+6162	non-technical		-2
+6163	non-technical	non-technical	1
+6164	non-technical	this. I'm not a bot. I'm	-2
+6165	non-technical	technical	0
+6167	non-technical		-2
+6172	non-technical	changed. So, if you want to change the	-2
+6181	non-technical		-2
+6191	non-technical		-2
+6199	non-technical		-2
+6200	non-technical	want to look elsewhere. I'm not going to	-2
+6202	non-technical		-2
+6204	non-technical		-2
+6214	non-technical	makes it impossible to use spritesheets in games that	-2
+6220	non-technical		-2
+6222	non-technical		-2
+6224	non-technical	. I'm not sure if it's possible but	-2
+6226	non-technical		-2
+6230	non-technical		-2
+6231	non-technical	non-technical	1
+6232	non-technical		-2
+6237	non-technical	should build it ourselves. We're done here and	-2
+6240	non-technical	. I'm using the same font size as before	-2
+6243	non-technical		-2
+6244	non-technical	Gael that he is not against the idea of a	-2
+6247	non-technical		-2
+6252	non-technical		-2
+6262	non-technical		-2
+6264	non-technical		-2
+6265	non-technical		-2
+6268	non-technical		-2
+6271	non-technical	your package. But I think you should consider adding	-2
+6275	non-technical	non-technical	1
+6283	non-technical	collaborators might have different opinions than us, and we	-2
+6287	non-technical	and makes it harder to understand. I would rather	-2
+6290	non-technical	you want to use wants you to do it.	-2
+6300	non-technical	the command line. This will add your keys to	-2
+6301	non-technical		-2
+6324	non-technical	non-technical	1
+6325	non-technical		-2
+6334	non-technical	ology is that you should never use retpol	-2
+6342	non-technical		-2
+6345	non-technical		-2
+6346	non-technical		-2
+6351	non-technical	- EXAMPLE 4: SENTENCE: I'm	-2
+6353	non-technical		-2
+6354	non-technical		-2
+6358	non-technical	non-technical	1
+6359	non-technical		-2
+6368	non-technical		-2
+6374	non-technical		-2
+6376	non-technical		-2
+6377	non-technical	devs) don't want to pay for such a	-2
+6382	non-technical		-2
+6390	non-technical	non-technical	1
+6397	non-technical		-2
+6399	non-technical		-2
+6403	non-technical	been moved to.Net Framework. I'd like	-2
+6409	non-technical	technical	0
+6433	non-technical	bug reports from the 1.0.0	-2
+6444	non-technical		-2
+6446	non-technical	). And that's also normal that people who against	-2
+6449	non-technical		-2
+6466	non-technical		-2
+6471	non-technical		-2
+6472	non-technical	that people have to have with this? I am	-2
+6474	non-technical		-2
+6476	non-technical		-2
+6496	non-technical	technical	0
+6502	non-technical		-2
+6503	non-technical	CLASS: non-technical  - EXAMPLE 4	1
+6504	non-technical		-2
+6510	non-technical		-2
+6511	non-technical	't want to help you?˜. I	-2
+6515	non-technical	non-technical	1
+6518	non-technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+6530	non-technical		-2
+6534	non-technical	control over the community. I don't. I	-2
+6542	non-technical		-2
+6545	non-technical		-2
+6548	non-technical	non-technical	1
+6555	non-technical		-2
+6564	non-technical		-2
+6567	non-technical	non-technical	1
+6570	non-technical		-2
+6573	non-technical	non-technical	1
+6574	non-technical		-2
+6577	non-technical	non-technical  ---  SENTENCE TO CLASSIFY	1
+6592	non-technical	how to get the build to work on Windows.	-2
+6594	non-technical		-2

@@ -1,0 +1,193 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	functional/non-functional.	1
+11	functional	functional The GCSMiddleware shall handle multiple G	1
+15	functional	functional/non-functional.	1
+22	functional	functional/non-functional.	1
+32	functional	functional/non-functional.	1
+34	functional	functional ANSWER: CLASS: functional	1
+42	functional	functional ANSWER: functional	1
+43	functional	functional/non-functional.	1
+46	functional	functional ANSWER: CLASS: functional	1
+50	functional	functional/non-functional.	1
+52	functional	functional ANSWER: functional	1
+53	functional	functional/non-functional.	1
+57	functional	functional/non-functional.	1
+64	functional	functional/non-functional.	1
+68	functional	functional ANSWER: functional	1
+74	non-functional	functional/non-functional.	1
+77	functional	functional ANSWER: non-functional	1
+87	functional	functional/non-functional.	1
+92	functional	functional/non-functional.	1
+94	functional	functional ANSWER: functional	1
+95	functional	functional ANSWER: functional	1
+96	functional	functional ANSWER: non-functional	1
+98	functional	functional/non-functional.	1
+99	functional	functional/non-functional.	1
+106	functional	functional.	1
+107	functional	functional EXPLANATION: The requirement includes some	1
+110	functional	functional/non-functional.	1
+115	functional	functional ANSWER: functional	1
+116	functional	functional/non-functional.	1
+125	functional	functional/non-functional.	1
+128	functional	functional EXPLANATION: The requirement includes some	1
+130	non-functional	functional/non-functional.	1
+132	functional	functional/non-functional.	1
+135	functional	functional ANSWER: functional	1
+141	functional	functional.	1
+143	functional	functional/non-functional.	1
+158	non-functional	functional EXPLANATION: The requirement includes some	1
+159	non-functional	functional/non-functional.	1
+172	non-functional	functional ANSWER: non-functional	1
+181	non-functional	functional/non-functional.	1
+188	non-functional	functional/non-functional.	1
+189	non-functional	functional/non-functional.	1
+194	non-functional	functional/non-functional.	1
+196	non-functional	functional EXPLANATION: The requirement includes some	1
+202	functional	functional/non-functional.	1
+204	functional	functional/non-functional.	1
+206	functional	functional ANSWER: non-functional	1
+210	non-functional	functional/non-functional.	1
+211	non-functional	functional  The requirement does not include any functional aspects	1
+215	non-functional	functional.	1
+220	functional	functional/non-functional.	1
+223	functional	functional/non-functional.	1
+237	functional	functional/non-functional.	1
+248	functional	functional/non-functional.	1
+249	functional	functional/non-functional.	1
+250	non-functional	functional/non-functional.	1
+255	functional	functional CONSTR: non-functional ANSWER	1
+260	non-functional	functional/non-functional.	1
+268	non-functional	functional/non-functional.	1
+269	non-functional	functional The system shall be able to authenticate users	1
+272	non-functional	functional.	1
+282	non-functional	functional/non-functional.	1
+288	functional	functional/non-functional  The answer is: functional/non	1
+289	functional	functional/non-functional  The answer is: functional/non	1
+296	non-functional	functional/non-functional.	1
+299	functional	functional SUBCLASS: non-functional SUBSUB	1
+306	non-functional	A clinical lab section shall include the clinical site	-2
+309	functional	functional/non-functional.	1
+320	functional	functional.	1
+323	functional	functional/non-functional.	1
+325	functional	functional ANSWER: functional	1
+328	functional	functional/non-functional.	1
+330	non-functional	functional/non-functional.	1
+346	non-functional	functional/non-functional.	1
+360	non-functional	functional/non-functional.	1
+364	non-functional	functional/non-functional.	1
+371	functional	functional/non-functional.	1
+376	functional	functional/non-functional.	1
+381	functional	functional/non-functional.	1
+399	non-functional	functional/non-functional.	1
+403	non-functional	functional/non-functional.	1
+412	functional	functional/non-functional.	1
+413	functional	functional/non-functional.	1
+415	non-functional	functional/non-functional.	1
+416	non-functional	functional/non-functional.	1
+421	non-functional	functional/non-functional.	1
+426	non-functional	functional ANSWER: non-functional	1
+427	functional	functional/non-functional.	1
+433	functional	functional EXPLANATION: The requirement includes some	1
+437	functional	functional/non-functional.	1
+438	functional	functional/non-functional.	1
+441	functional	functional/non-functional.	1
+454	functional	functional/non-functional.	1
+461	non-functional	functional/non-functional.	1
+472	functional	functional/non-functional.	1
+477	non-functional	functional/non-functional.	1
+478	non-functional	functional/non-functional.	1
+479	non-functional	functional/non-functional.	1
+480	non-functional	functional/non-functional.	1
+481	non-functional	functional/non-functional.	1
+491	non-functional	functional/non-functional.	1
+495	non-functional	functional/non-functional.	1
+514	functional	functional/non-functional.	1
+517	functional	functional/non-functional.	1
+526	functional	functional/non-functional.	1
+533	non-functional	functional/non-functional.	1
+537	non-functional	functional/non-functional.	1
+542	functional	functional/non-functional.	1
+544	functional	functional EXPLANATION: The requirement includes a	1
+549	functional	functional/non-functional.	1
+557	functional	functional/non-functional.	1
+558	functional	functional/non-functional.	1
+561	functional	functional/non-functional.	1
+562	functional	functional.	1
+563	functional	functional/non-functional.	1
+575	functional	functional/non-functional.	1
+581	non-functional	functional/non-functional.	1
+588	non-functional	functional/non-functional.	1
+590	non-functional	functional/non-functional.	1
+598	non-functional	functional/non-functional.	1
+599	non-functional	functional/non-functional.	1
+604	functional	functional EXPLANATION: The help section will	1
+607	non-functional	functional/non-functional.	1
+609	non-functional	functional/non-functional.	1
+613	non-functional	functional/non-functional.	1
+614	non-functional	functional EXPLANATION: The requirement includes a	1
+621	non-functional	functional/non-functional.	1
+622	non-functional	functional/non-functional.	1
+625	non-functional	functional/non-functional.	1
+629	functional	functional/non-functional.	1
+632	functional	functional/non-functional.	1
+645	functional	functional/non-functional.	1
+647	non-functional	functional/non-functional.	1
+663	functional	functional/non-functional.	1
+667	functional	functional.	1
+669	functional	functional/non-functional.	1
+677	functional	functional/non-functional.	1
+684	functional	functional/non-functional.	1
+686	non-functional	functional/non-functional.	1
+689	functional	functional/non-functional.	1
+690	functional	functional/non-functional.	1
+703	functional	functional/non-functional.	1
+710	functional	functional/non-functional.	1
+711	functional	functional/non-functional.	1
+720	functional	functional/non-functional.	1
+726	non-functional	functional.	1
+733	functional	functional/non-functional.	1
+737	non-functional	non-functional.	0
+738	functional	functional/non-functional.	1
+747	functional	functional/non-functional.	1
+748	non-functional	functional/non-functional.	1
+750	non-functional	functional/non-functional.	1
+751	non-functional	functional/non-functional.	1
+755	non-functional	functional/non-functional.	1
+757	non-functional	functional/non-functional.	1
+761	non-functional	functional ANSWER: functional	1
+771	non-functional	functional/non-functional.	1
+773	non-functional	functional ANSWER: functional	1
+774	functional	functional EXPLANATION: The requirement includes some	1
+775	functional	functional/non-functional.	1
+786	functional	functional/non-functional.	1
+791	non-functional	functional EXPLANATION: The requirement includes a	1
+792	non-functional	functional/non-functional.	1
+796	non-functional	functional/non-functional.	1
+797	non-functional	functional ANSWER: functional	1
+806	non-functional	functional/non-functional.	1
+807	non-functional	functional/non-functional.	1
+814	functional	functional/non-functional.	1
+819	functional	functional ANSWER: functional	1
+835	functional	functional ANSWER: non-functional	1
+836	functional	functional ANSWER: functional	1
+837	functional	functional ANSWER: non-functional	1
+849	functional	functional/non-functional.	1
+856	non-functional	functional ANSWER: non-functional	1
+859	functional	functional/non-functional.	1
+860	functional	functional ANSWER: non-functional	1
+875	functional	functional/non-functional.	1
+891	non-functional	non-functional.	0
+896	functional	functional/non-functional.	1
+899	non-functional	functional/non-functional.	1
+906	functional	functional/non-functional.	1
+912	functional	functional/non-functional.	1
+925	functional	functional/non-functional.	1
+927	functional	functional/non-functional.	1
+933	functional	functional/non-functional.	1
+935	functional	functional/non-functional.	1
+939	functional	functional/non-functional.	1
+944	non-functional	non-functional.	0
+945	functional	functional/non-functional.	1
+946	functional	functional/non-functional.	1
+950	functional	functional/non-functional.	1
+955	non-functional	functional/non-functional.	1

@@ -1,0 +1,1321 @@
+index	ground_truth	raw_prediction	parsed_prediction
+3	technical	I have a few ideas for how to	-2
+4	technical	The sentence does not demonstrate any mood or	-2
+5	technical	This is the class of sentences that are	-2
+9	technical	clk_rcg2_shared_enable	-2
+16	technical	technical: The sentence does not demonstrate any	0
+34	technical	imprecise  imprecise	-2
+54	technical	The class is a list of UART	-2
+55	technical	The class is the name of the class	-2
+64	technical	Technical: The sentence does not demonstrate any	0
+66	technical	The sentence does not demonstrate any mood or	-2
+77	technical	Technical: The sentence does not demonstrate any	0
+94	technical	boutside protection?  SENT	-2
+98	technical	technical: The sentence does not demonstrate any	0
+114	technical	The class is as follows: technical:	0
+116	technical	technical: The sentence does not demonstrate any	0
+117	technical	Technical: The sentence does not demonstrate any	0
+119	technical	The sentence is a technical one.	0
+125	technical	mmap_sem is a class that	-2
+126	technical	technical: The sentence does not demonstrate any	0
+127	technical	The class is a list of words,	-2
+130	technical	usb: gadget: f_fs:	-2
+133	technical	Technical: The sentence does not demonstrate any	0
+137	technical	technical: The sentence does not demonstrate any	0
+143	technical	Digital:  1. Digital part	-2
+146	technical	The class is a string that describes the	-2
+154	technical	The sentence is a technical one.	0
+160	technical	The class is a list of words that	-2
+161	technical	The next sentence is a technical one. Answer	0
+164	technical	Technical: The sentence demonstrates a technical style	0
+189	technical	technical: The sentence does not demonstrate any	0
+190	technical	I don't know the state in 3	-2
+197	technical	static const bool ...  static const	-2
+200	technical	technical: The sentence does not demonstrate any	0
+201	technical	I address space is always mapped, and	-2
+202	technical	Driver model:  The sentence does	-2
+206	technical	is it useful to print this each time	-2
+223	technical	module_finalize() is a function	-2
+224	technical	I'm trying to parse this but I	-2
+225	technical	The class is a string that is used	-2
+232	technical	technical: The sentence does not demonstrate any	0
+235	technical	I'm still not sure I understand the	-2
+241	technical	The class is as follows:	-2
+242	technical	Technical: The sentence demonstrates a technical approach	0
+249	technical	technical: The sentence does not demonstrate any	0
+253	technical	Technical: The sentence demonstrates a technical style	0
+255	technical	The class is the name of the class	-2
+260	technical	technical: The sentence does not demonstrate any	0
+262	technical	write a python script to do a semantic	-2
+280	technical	clock-frequency: The sentence does not	-2
+285	technical	The class is as follows:	-2
+301	technical	technical: The sentence demonstrates a technical style	0
+302	technical	Technical: The sentence does not demonstrate any	0
+320	technical	Technical: The sentence does not demonstrate any	0
+327	technical	technical: The sentence does not demonstrate any	0
+335	technical	I'm not sure how the input is	-2
+337	technical	Technical: The sentence does not demonstrate any	0
+341	technical	The class is the name of the class	-2
+345	technical	The class is a list of words that	-2
+357	technical	The class is the name of the class	-2
+362	technical	technical: The sentence does not demonstrate any	0
+364	technical	technical: The sentence does not demonstrate any	0
+375	technical	technical: The sentence does not demonstrate any	0
+379	technical	technical: The sentence does not demonstrate any	0
+384	technical	technical: The sentence does not demonstrate any	0
+385	technical	hpage_nr_pages()	-2
+388	technical	technical: The sentence does not demonstrate any	0
+391	technical	it is not the right answer. I think it	-2
+395	technical	I do not see anything like that.	-2
+404	technical	technical: The sentence does not demonstrate any	0
+412	technical	__builtin_expect returns always	-2
+417	technical	The class is a string of characters that	-2
+419	technical	Technical: The sentence does not demonstrate any	0
+455	technical	technical: The sentence does not demonstrate any	0
+466	technical	technical: The sentence demonstrates a technical concept	0
+467	technical	devicetree  devic	-2
+470	technical	The class is the name of the kernel	-2
+474	technical	Technical: The sentence does not demonstrate any	0
+477	technical	Technical: The sentence does not demonstrate any	0
+488	technical	I am not sure I am following.	-2
+492	technical	Kernel loading:  Kernel	-2
+499	technical	The class is the name of the class	-2
+502	technical	Technical: The sentence does not demonstrate any	0
+504	technical	Technical: The sentence does not demonstrate any	0
+510	technical	The sentence does not demonstrate any mood or	-2
+512	technical	Erofs:  Erof	-2
+513	technical	technical: The sentence does not demonstrate any	0
+523	technical	1. LED string 1  2	-2
+524	technical	The sentence does not demonstrate any mood or	-2
+525	technical	The sentence does not demonstrate any mood or	-2
+536	technical	The class is as follows:	-2
+537	technical	technical: The sentence does not demonstrate any	0
+539	technical	The class is the name of the class	-2
+559	technical	technical: The sentence demonstrates a mood or	0
+562	technical	Technical: The sentence does not demonstrate any	0
+563	technical	technical: The sentence does not demonstrate any	0
+569	technical	The class is a list of strings.	-2
+574	technical	Technical: The sentence does not demonstrate any	0
+580	technical	The class is the name of the class	-2
+595	technical	crypto_skcipher_sync	-2
+600	technical	Technical: The sentence does not demonstrate any	0
+603	technical	OK, so we have a class that	-2
+606	technical	The class is the name of the class	-2
+608	technical	skcipher_request_set_	-2
+616	technical	Technical: The sentence does not demonstrate any	0
+623	technical	The class is a set of words that	-2
+635	technical	vcpus:  The default	-2
+638	technical	technical: The sentence does not demonstrate any	0
+645	technical	technical: The sentence does not demonstrate any	0
+646	technical	I wonder if there is a way to	-2
+659	technical	The class is the name of the state	-2
+663	technical	The class is the name of the class	-2
+666	technical	devm_clk_get:	-2
+667	technical	Technical: The sentence does not demonstrate any	0
+671	technical	The sentence is a technical one.	0
+673	technical	The class is the name of the class	-2
+675	technical	The class is a comma-separated	-2
+688	technical	core: The sentence does not demonstrate any	-2
+698	technical	The class is as follows:	-2
+699	technical	BusIFx - Bus interface to the	-2
+709	technical	The class is the name of the class	-2
+713	technical	Technical: The sentence does not demonstrate any	0
+716	technical	technical: The sentence does not demonstrate any	0
+717	technical	cults that come with it. I am not	-2
+722	technical	technical: The sentence does not demonstrate any	0
+723	technical	I'm not sure if this is a good idea	-2
+728	technical	The class is a list of interrupt handlers	-2
+732	technical	technical: The sentence does not demonstrate any	0
+740	technical	I don't think it is ... or	-2
+753	technical	I'm not sure shutdown handlers for drivers	-2
+760	technical	Technical: The sentence does not demonstrate any	0
+766	technical	The class is a list of strings,	-2
+768	technical	The sentence does not demonstrate any mood or	-2
+769	technical	struct scatterlist {  int i	-2
+770	technical	Technical: The sentence does not demonstrate any	0
+774	technical	Technical: The sentence does not demonstrate any	0
+775	technical	i2c-mux:	-2
+784	technical	a base board" rule, but it's not	-2
+793	technical	This is the class of the sentence.	-2
+797	technical	usb_dr_mode  usb	-2
+804	technical	The class is the name of the class	-2
+814	technical	AFAICS this is a class of	-2
+815	technical	The class is the name of the class	-2
+822	technical	core.h: The core of the	-2
+823	technical	The class name is the name of the	-2
+825	technical	i3c-master-designware	-2
+827	technical	I3C_USB_Gad	-2
+830	technical	I3C: I3C is	-2
+832	technical	technical: The sentence does not demonstrate any	0
+846	technical	Technical: The sentence does not demonstrate any	0
+851	technical	1. Technical  2. Non	0
+853	technical	Technical: The sentence does not demonstrate any	0
+854	technical	technical: The sentence does not demonstrate any	0
+860	technical	Technical: The sentence does not demonstrate any	0
+863	technical	technical: The sentence does not demonstrate any	0
+870	technical	technical: The sentence does not demonstrate any	0
+872	technical	technical: The sentence does not demonstrate any	0
+876	technical	...[snip]...I'm	-2
+878	technical	I like that you're getting rid of	-2
+894	technical	Technical: The sentence does not demonstrate any	0
+895	technical	Technical: The sentence does not demonstrate any	0
+899	technical	TF-A is the class of the	-2
+901	technical	I don't think there is anything implementing	-2
+914	technical	PR_SPEC_DISABLE_NO	-2
+918	technical	Technical: The sentence does not demonstrate any	0
+919	technical	Technical: The sentence does not demonstrate any	0
+922	technical	Technical: The sentence does not demonstrate any	0
+924	technical	This is the class of the sentence.	-2
+928	technical	technical: The sentence does not demonstrate any	0
+943	technical	Technical: The sentence does not demonstrate any	0
+946	technical	The class is a string that describes the	-2
+950	technical	linux: The sentence does not demonstrate any	-2
+951	technical	Technical: The sentence does not demonstrate any	0
+953	technical	[ resending to Rob... ]I	-2
+954	technical	technical: The sentence does not demonstrate any	0
+956	technical	IOMMU_DMA_MAP	-2
+959	technical	__KERNEL__:	-2
+966	technical	The class is the name of the class	-2
+971	technical	The bug fix is to handle non-	-2
+975	technical	The class is the name of the class	-2
+980	technical	technical: The sentence does not demonstrate any	0
+984	technical	technical: The sentence does not demonstrate any	0
+989	technical	Technical: The sentence does not demonstrate any	0
+991	technical	The class is the name of the class	-2
+992	technical	The class is the name of the class	-2
+995	technical	The sentence does not demonstrate any mood or	-2
+1012	technical	The class is the name of the module	-2
+1015	technical	Technical: The sentence does not demonstrate any	0
+1016	technical	IIO:  IIO:	-2
+1021	technical	The class is the name of the class	-2
+1028	technical	This is a class of sentences that are	-2
+1045	technical	Technical: The sentence does not demonstrate any	0
+1059	technical	technical: The sentence does not demonstrate any	0
+1060	technical	technical: The sentence does not demonstrate any	0
+1062	technical	I agree with the other reviewer that since	-2
+1063	technical	Technical: The sentence does not demonstrate any	0
+1065	technical	class-name: phy-cell	-2
+1066	technical	The class is the name of the class	-2
+1069	technical	The class is the name of the class	-2
+1076	technical	The class of the sentence is as follows	-2
+1077	technical	The class is a list of fields that	-2
+1081	technical	The class is a list of words that	-2
+1082	technical	are not available in the kernel, and I think	-2
+1118	technical	I'm wondering a bit about this:	-2
+1120	technical	technical: The sentence does not demonstrate any	0
+1122	technical	__entry->total_time is zero	-2
+1139	technical	Technical: The sentence does not demonstrate any	0
+1141	technical	I'm not sure what the correct answer	-2
+1145	technical	C45:  C45 is	-2
+1147	technical	Technical: The sentence does not demonstrate any	0
+1148	technical	The class is a string that describes the	-2
+1150	technical	Technical: The sentence does not demonstrate any	0
+1154	technical	C45:  C22:	-2
+1155	technical	Technical: The sentence does not demonstrate any	0
+1156	technical	Technical: The sentence does not demonstrate any	0
+1160	technical	The class is the name of the class	-2
+1166	technical	I'd prefer to have the console be	-2
+1167	technical	Technical: The sentence does not demonstrate any	0
+1169	technical	Technical: The sentence does not demonstrate any	0
+1184	technical	Technical: The sentence does not demonstrate any	0
+1191	technical	The class is the one that is the	-2
+1202	technical	technical: The sentence does not demonstrate any	0
+1205	technical	Technical: The sentence does not demonstrate any	0
+1214	technical	The class is the name of the class	-2
+1217	technical	The class is the name of the class	-2
+1218	technical	Turns out we only look for sibling	-2
+1243	technical	Technical: The sentence demonstrates a technical style	0
+1248	technical	class C {  int *p	-2
+1250	technical	Technical: The sentence does not demonstrate any	0
+1252	technical	The sentence does not demonstrate any mood or	-2
+1254	technical	ANNOTATE_UACCESS_	-2
+1256	technical	technical: The sentence does not demonstrate any	0
+1267	technical	Technical: The sentence does not demonstrate any	0
+1275	technical	Technical: The sentence does not demonstrate any	0
+1276	technical	technical: The sentence does not demonstrate any	0
+1282	technical	technical: The sentence does not demonstrate any	0
+1291	technical	Technical: The sentence does not demonstrate any	0
+1296	technical	technical: The sentence does not demonstrate any	0
+1300	technical	Technical: The sentence does not demonstrate any	0
+1306	technical	hostfs now mostly works. Almost all	-2
+1308	technical	technical: The sentence does not demonstrate any	0
+1311	technical	The sentence does not demonstrate any mood or	-2
+1312	technical	Technical: The sentence does not demonstrate any	0
+1314	technical	Technical: The sentence does not demonstrate any	0
+1318	technical	technical: The sentence does not demonstrate any	0
+1324	technical	technical: The sentence does not demonstrate any	0
+1333	non-technical	[...]  [...]	-2
+1346	non-technical	I'm not sure if you're using the reg	-2
+1352	non-technical	Technical: The sentence does not demonstrate any	0
+1355	non-technical	The class is as follows:	-2
+1368	non-technical	Technical: The sentence does not demonstrate any	0
+1369	non-technical	technical: The sentence does not demonstrate any	0
+1372	non-technical	the head. This is a change that is not	-2
+1378	non-technical	am trying to communicate is a bit of a challenge	-2
+1380	non-technical	scp: The sentence does not demonstrate	-2
+1397	non-technical	The class is a list of words that	-2
+1399	non-technical	The sentence does not demonstrate any mood or	-2
+1401	non-technical	Technical: The sentence does not demonstrate any	0
+1403	non-technical	crypto:  crypto_	-2
+1405	non-technical	The class is the one that is used	-2
+1412	non-technical	Technical: The sentence does not demonstrate any	0
+1413	non-technical	The class is the name of the class of	-2
+1419	non-technical	A: Because it is a bad thing	-2
+1428	non-technical	Technical: The sentence does not demonstrate any	0
+1437	non-technical	I'm not sure what the class is	-2
+1438	non-technical	Technical: The sentence does exist.	0
+1442	non-technical	The class is a list of words that	-2
+1444	non-technical	I took a closer look at this and	-2
+1457	non-technical	technical: The sentence does not demonstrate any	0
+1463	non-technical	technical: The sentence does not demonstrate any	0
+1482	non-technical	it is even higher. The limitation is not hard	-2
+1490	non-technical	Technical: The sentence does not demonstrate any	0
+1497	technical	- Class: 'core'	-2
+1499	technical	-1 on renaming the branch	-2
+1500	technical	-1 on this.  -	-2
+1510	technical	... I think that the class is a	-2
+1516	technical	.NET Core 3.1	-2
+1521	technical	(I guess) scoping rules cannot	-2
+1526	technical	(or anyone else that comes along),	-2
+1531	technical	[PROPOSAL] This PR	-2
+1533	technical	[removed - inappropriate content]	-2
+1537	technical	**Technical:** The sentence does not	0
+1552	technical	/dev/sdb is a V	-2
+1556	technical	# Azure Cloud Shell  # Azure	-2
+1564	technical	## Required Information. Entering this information	-2
+1577	technical	### What does this PR do? Impro	-2
+1613	technical	1. Named pipes 2. System.	-2
+1628	technical	The class is the name of the class	-2
+1638	technical	The class is the name of the class	-2
+1646	technical	The class is the name of the class	-2
+1649	technical	The class is the name of the class.	-2
+1652	technical	The class is the name of the class	-2
+1661	technical	The sentence does not demonstrate any mood or	-2
+1663	technical	Technical: The sentence does not demonstrate any	0
+1668	technical	Add the following properties to the Http	-2
+1684	technical	Technical: The sentence does not demonstrate any	0
+1695	technical	Technical:  Technical:	0
+1696	technical	Technical: The sentence does not demonstrate any	0
+1697	technical	Technical: The sentence does not demonstrate any	0
+1699	technical	technical: The sentence does not demonstrate any	0
+1708	technical	Technical: The sentence does not demonstrate any	0
+1710	technical	technical: The sentence does not demonstrate any	0
+1736	technical	The sentence does not demonstrate any mood or	-2
+1738	technical	The sentence is a technical document.	0
+1739	technical	The sentence is about the process of creating	-2
+1741	technical	Technical: The sentence does not demonstrate any	0
+1742	technical	The sentence is a technical one.	0
+1749	technical	The class is the class of the sentence	-2
+1753	technical	The class name is the name of the	-2
+1765	technical	Technical: The sentence does not demonstrate any	0
+1771	technical	The sentence is a technical one.	0
+1772	technical	The sentence is a technical one.	0
+1773	technical	The class is a list of words that	-2
+1787	technical	The sentence does not demonstrate any mood or style	-2
+1793	technical	The sentence is a technical one.	0
+1799	technical	The class is the name of the class	-2
+1801	technical	technical: The sentence does not demonstrate any	0
+1803	technical	technical: The sentence does not demonstrate any	0
+1804	technical	Technical: The sentence does not demonstrate any	0
+1807	technical	Technical: The sentence does not demonstrate any	0
+1813	technical	The class is a list of variables that	-2
+1814	technical	technical: The sentence does not demonstrate any	0
+1816	technical	technical: The sentence does not demonstrate any	0
+1831	technical	Technical: The sentence does not demonstrate any	0
+1832	technical	Technical: The sentence does not demonstrate any	0
+1836	technical	technical: The sentence does not demonstrate any	0
+1841	technical	technical: The sentence does not demonstrate any	0
+1846	technical	AoT compilation. AOT combined	-2
+1847	technical	technical: The sentence does not demonstrate any	0
+1848	technical	The next sentence is a bit more interesting	-2
+1850	technical	The sentence does not demonstrate any mood or	-2
+1853	technical	The class is a list of words that	-2
+1854	technical	Technical: The sentence does not demonstrate any	0
+1855	technical	Technical: The sentence does not demonstrate any	0
+1861	technical	Technical: The sentence does not demonstrate any	0
+1864	technical	Technical: The sentence does not demonstrate any	0
+1875	technical	As a user, I would like to see	-2
+1883	technical	The class is the name of the class	-2
+1887	technical	The class is the class name of the	-2
+1890	technical	Technical: The sentence does not demonstrate any	0
+1892	technical	technical: The sentence does not demonstrate any	0
+1901	technical	technical: The sentence does not demonstrate any	0
+1902	technical	The class is the name of the class	-2
+1921	technical	The class is the name of the class	-2
+1925	technical	The class name is the name of the	-2
+1927	technical	Technical: The sentence demonstrates a technical topic	0
+1929	technical	Technical: The sentence does not demonstrate any	0
+1960	technical	Technical: The sentence does not demonstrate any	0
+1962	technical	Technical: The sentence does not demonstrate any	0
+1970	technical	bensander Anything else I need from	-2
+1974	technical	Technical:  1. The sentence	0
+1978	technical	bhack It would be nice to see	-2
+1984	technical	blocks are currently 'static' groupings	-2
+1987	technical	The sentence is a technical one.	0
+1991	technical	Bravo, that's absolutely it	-2
+1992	technical	Technical: The sentence does not demonstrate any	0
+1995	technical	technical: The sentence does not demonstrate any	0
+1996	technical	technical: The sentence does not demonstrate any	0
+2002	technical	Technical: The sentence does not demonstrate any	0
+2006	technical	technical: The sentence does not demonstrate any	0
+2009	technical	The sentence does not demonstrate any mood or style	-2
+2011	technical	technical: The sentence does not demonstrate any	0
+2016	technical	technical: The sentence does not demonstrate any	0
+2020	technical	Technical: The sentence does not demonstrate any	0
+2021	technical	technical: The sentence does not demonstrate any	0
+2022	technical	bytes.Buffer is an io.Reader	-2
+2024	technical	C++/Swift has both top	-2
+2025	technical	Civility: The sentence does not	-2
+2031	technical	PR:  PR:	-2
+2033	technical	Technical: The sentence does not demonstrate any	0
+2055	technical	technical: The sentence does not demonstrate any	0
+2063	technical	technical: The sentence does not demonstrate any	0
+2067	technical	technical: The sentence does not demonstrate any	0
+2069	technical	BLAS: basic linear algebra subprogram	-2
+2074	technical	technical: The sentence does not demonstrate any	0
+2076	technical	cederlof I was working on	-2
+2085	technical	check pull request  SENTENCE	-2
+2088	technical	Technical: The sentence does not demonstrate any	0
+2098	technical	Technical: The sentence demonstrates technical knowledge or	0
+2099	technical	Technical: The sentence does not demonstrate any	0
+2112	technical	1. CUDA on NV GPUs (	-2
+2123	technical	technical: The sentence does not demonstrate any	0
+2126	technical	technical: The sentence does not demonstrate any	0
+2127	technical	The sentence is a class.	-2
+2136	technical	technical: The sentence does not demonstrate any	0
+2137	technical	technical: The sentence does not demonstrate any	0
+2138	technical	Technical: The sentence does not demonstrate any	0
+2143	technical	The class is the most important part of the	-2
+2144	technical	The sentence does not demonstrate any mood or style	-2
+2149	technical	technical: The sentence does not demonstrate any	0
+2150	technical	Technical: The sentence does not demonstrate any mood	0
+2152	technical	Technical: The sentence does not demonstrate any	0
+2154	technical	ERROR:  ERROR:	-2
+2158	technical	Technical: The sentence demonstrates a technical approach	0
+2162	technical	The class is a list of words that	-2
+2164	technical	The default setting is 'technical'.	0
+2165	technical	technical: The sentence does not demonstrate any	0
+2166	technical	technical: The sentence does not demonstrate any	0
+2168	technical	davidmiller Sounds like "I	-2
+2185	technical	Technical: The sentence demonstrates a technical approach	0
+2194	technical	technical: The sentence does not demonstrate any	0
+2195	technical	jekyll-originated plugins:	-2
+2203	technical	Technical: The sentence does not demonstrate any	0
+2206	technical	The class is the name of the class	-2
+2207	technical	technical: The sentence does not demonstrate any	0
+2209	technical	Technical: The sentence does not demonstrate any	0
+2215	technical	Technical: The sentence does not demonstrate any	0
+2216	technical	The class is the name of the class you	-2
+2217	technical	technical: The sentence does not demonstrate any	0
+2223	technical	The class is the part of the program	-2
+2224	technical	Technical: The sentence does not demonstrate any	0
+2228	technical	Technical: The sentence does not demonstrate any	0
+2229	technical	technical: yes  non-technical	0
+2230	technical	Technical: The sentence does not demonstrate any	0
+2233	technical	doesnt exist in that context. you	-2
+2238	technical	Technical: The sentence does not demonstrate any	0
+2243	technical	dotnet run file.cs could mean	-2
+2247	technical	Technical:  The sentence does not	0
+2249	technical	technical: The sentence demonstrates a technical style	0
+2250	technical	technical: The sentence does not demonstrate any	0
+2273	technical	Technical: The sentence does not demonstrate any	0
+2284	technical	technical: The sentence does not demonstrate any	0
+2290	technical	The sentence does not demonstrate any mood or	-2
+2293	technical	Node:  Node is a full	-2
+2296	technical	technical: The sentence does not demonstrate any	0
+2304	technical	Technical: The sentence does not demonstrate any	0
+2309	technical	and the Security, we had to use 3rd	-2
+2311	technical	Technical  Non-technical	0
+2318	technical	The class is the name of the component	-2
+2319	technical	Technical: The sentence demonstrates a technical approach	0
+2320	technical	The class is a string that describes the	-2
+2324	technical	technical: The sentence does not demonstrate any	0
+2326	technical	technical: The sentence does not demonstrate any	0
+2328	technical	The class is a class that is used	-2
+2329	technical	Fixing a performance bug, which would	-2
+2333	technical	Flutter team itself said that they considered the	-2
+2348	technical	The class is the name of the class	-2
+2356	technical	The class is the name of the class	-2
+2358	technical	[ 'technical' ]  [	0
+2360	technical	The sentence is about a technical topic.	0
+2361	technical	The class is the name of the class	-2
+2366	technical	Technical: The sentence does not demonstrate any	0
+2368	technical	Technical:  The sentence does not	0
+2371	technical	Technical: The sentence does not demonstrate any	0
+2372	technical	Technical: The sentence does not demonstrate any	0
+2373	technical	Technical: The sentence does not demonstrate any	0
+2382	technical	technical: The sentence does not demonstrate any	0
+2387	technical	technical: The sentence does not demonstrate any	0
+2405	technical	Technical: The sentence does not demonstrate any	0
+2411	technical	technical: The sentence does not demonstrate any	0
+2423	technical	Technical: The sentence does not demonstrate any	0
+2429	technical	Go is a very simple language. It	-2
+2430	technical	technical: The sentence does not demonstrate any	0
+2433	technical	Technical: The sentence does not demonstrate any	0
+2446	technical	Technical: The sentence does not demonstrate any	0
+2454	technical	The sentence is a technical one.	0
+2462	technical	technical: The sentence does not demonstrate any	0
+2464	technical	technical: The sentence does not demonstrate any	0
+2468	technical	Technical: The sentence does not demonstrate any	0
+2492	technical	Technical: The sentence does not demonstrate any	0
+2494	technical	technical: The sentence does not demonstrate any	0
+2495	technical	master: The sentence is a master sentence	-2
+2500	technical	The class is the name of the shader	-2
+2504	technical	technical: The sentence does not demonstrate any	0
+2511	technical	technical: The sentence does not demonstrate any	0
+2517	technical	Technical: The sentence does not demonstrate any	0
+2530	technical	Technical: The sentence does not demonstrate any	0
+2531	technical	The class is a class that is not	-2
+2536	technical	The class is:  Technical	0
+2539	technical	technical: The sentence does not demonstrate any	0
+2544	technical	Technical: The sentence does not demonstrate any	0
+2553	technical	technical: The sentence does not demonstrate any	0
+2554	technical	technical: The sentence does not demonstrate any	0
+2559	technical	* ipfs * aria2	-2
+2561	technical	technical: The sentence does not demonstrate any	0
+2565	technical	technical: The sentence does not demonstrate any	0
+2595	technical	angular-lerna-package-	-2
+2601	technical	Technical: The sentence does not demonstrate any	0
+2603	technical	technical: The sentence does not demonstrate any	0
+2611	technical	technical: The sentence does not demonstrate any	0
+2612	technical	SOA:  WebAPI:	-2
+2617	technical	Technical: The sentence does not demonstrate any	0
+2622	technical	technical: The sentence does not demonstrate any	0
+2623	technical	Technical: The sentence does not demonstrate any	0
+2640	technical	I'm not sure what the class is	-2
+2647	technical	The class name is the name of the	-2
+2650	technical	Technical: The sentence does not demonstrate any	0
+2653	technical	The sentence is about a topic that is	-2
+2657	technical	community can comment on the status of the initiative.	-2
+2658	technical	The class is the name of the file	-2
+2659	technical	technical: the sentence does not demonstrate any	0
+2670	technical	The class is the name of the package	-2
+2672	technical	The sentence is a technical one.	0
+2676	technical	technical: The sentence does not demonstrate any	0
+2679	technical	Stories), we need to be able to see the	-2
+2692	technical	can only estimate the impact of the actions of the	-2
+2705	technical	I agree, but that's identical to	-2
+2706	technical	I agree, I'm going to add	-2
+2707	technical	Technical: The sentence does not demonstrate any	0
+2714	technical	I also disagree to prefer typescript	-2
+2719	technical	I also want to voice my support for	-2
+2724	technical	technical: The sentence does not demonstrate any	0
+2725	technical	Technical: The sentence does not demonstrate any	0
+2726	technical	technical: The sentence does not demonstrate any	0
+2728	technical	technical: The sentence does not demonstrate any	0
+2731	technical	I am doing some diffing, so	-2
+2733	technical	main.tf  shared/main	-2
+2736	technical	technical: The sentence does not demonstrate any	0
+2758	technical	I am using modules to reduce the amount	-2
+2761	technical	I am working on it this weekend but	-2
+2763	technical	Technical: The sentence demonstrates a technical approach	0
+2765	technical	I assume my reproducer playbook will work	-2
+2780	technical	close to the edge of the indent. So,	-2
+2781	technical	Technical: The sentence does not demonstrate any	0
+2784	technical	technical: The sentence does not demonstrate any	0
+2789	technical	technical: The sentence does not demonstrate any	0
+2793	technical	technical: The sentence does not demonstrate any	0
+2794	technical	technical: The sentence does not demonstrate any	0
+2803	technical	mobile app with subscription model:	-2
+2813	technical	I did not see our way in there	-2
+2828	technical	I discovered that the CSS for the Boot	-2
+2842	technical	i don't even like christmas,	-2
+2843	technical	technical: The sentence does not demonstrate any	0
+2849	technical	Technical: The sentence does not demonstrate any	0
+2858	technical	technical: The sentence does not demonstrate any	0
+2861	technical	need more sophisticated authentication. With more sophisticated use cases	-2
+2863	technical	the only framework that supports both JSX and V	-2
+2869	technical	The class is the name of the class	-2
+2871	technical	I don't think treating this as a	-2
+2876	technical	"keybindings" : [ {	-2
+2877	technical	technical: The sentence does not demonstrate any	0
+2880	technical	errors-idiom: handlers: error	-2
+2881	technical	technical: The sentence does not demonstrate any	0
+2885	technical	technical: The sentence does not demonstrate any	0
+2892	technical	technical: The sentence does not demonstrate any	0
+2897	technical	I'm not sure what the class is	-2
+2898	technical	technical: The sentence does not demonstrate any	0
+2899	technical	technical: The sentence does not demonstrate any	0
+2901	technical	technical: The sentence does not demonstrate any	0
+2902	technical	technical: The sentence does not demonstrate any	0
+2903	technical	i got the same problem... any solutions	-2
+2906	technical	technical: The sentence does not demonstrate any	0
+2907	technical	technical: The sentence does not demonstrate any	0
+2912	technical	technical: The sentence does not demonstrate any	0
+2913	technical	technical: The sentence does not demonstrate any	0
+2915	technical	i had the same problem  i	-2
+2924	technical	Technical: The sentence does not demonstrate any	0
+2930	technical	technical: The sentence does not demonstrate any	0
+2934	technical	I have been using Caffe OpenCL	-2
+2941	technical	technical: The sentence does not demonstrate any	0
+2942	technical	technical: The sentence does not demonstrate any	0
+2945	technical	technical: The sentence does not demonstrate any	0
+2947	technical	technical: The sentence does not demonstrate any	0
+2950	technical	technical: The sentence does not demonstrate any	0
+2951	technical	technical: The sentence does not demonstrate any	0
+2954	technical	I have the same issue for the latest	-2
+2958	technical	Technical: The sentence does not demonstrate any mood	0
+2965	technical	technical: The sentence does not demonstrate any	0
+2974	technical	technical: The sentence does not demonstrate any	0
+2976	technical	technical: The sentence demonstrates a technical approach	0
+2979	technical	technical: The sentence does not demonstrate any	0
+2982	technical	Functional Programming  Functional programming	-2
+2984	technical	technical: The sentence does not demonstrate any	0
+2992	technical	#navbar {  background:	-2
+2999	technical	I know you're dealing with a lot more	-2
+3000	technical	The class is: Technical: The sentence	0
+3006	technical	technical: The sentence does not demonstrate any	0
+3007	technical	technical: The sentence does not demonstrate any	0
+3017	technical	The class is the part of the sentence	-2
+3021	technical	powershell3  powershell3	-2
+3029	technical	technical: The sentence does not demonstrate any	0
+3037	technical	I'm not sure if this is the right	-2
+3038	technical	check/handle: The sentence does not	-2
+3039	technical	I prefer builder syntax than passing parameters through	-2
+3040	technical	The class is the name of the module	-2
+3046	technical	I'm a web developer, and I	-2
+3056	technical	Technical: The sentence does not demonstrate any	0
+3059	technical	Technical: The sentence does not demonstrate any	0
+3064	technical	I respect your efforts to maintain order in	-2
+3066	technical	I saw it, yes! :) I	-2
+3069	technical	The class is a string that contains the	-2
+3072	technical	technical: The sentence does not demonstrate any	0
+3079	technical	technical: The sentence does not demonstrate any	0
+3080	technical	The class is the name of the class	-2
+3082	technical	debug: The sentence demonstrates a mood or	-2
+3087	technical	technical: The sentence does not demonstrate any	0
+3091	technical	technical: The sentence does not demonstrate any	0
+3096	technical	I stumbled on this thread while searching for	-2
+3099	technical	I support your reasoning, but a simple	-2
+3101	technical	I switched to vscode because of	-2
+3103	technical	technical: The sentence demonstrates a technical style	0
+3106	technical	Technical: The sentence does not demonstrate any	0
+3115	technical	technical: The sentence does not demonstrate any	0
+3118	technical	I think I managed to create a valid	-2
+3124	technical	I think it would be more appropriate to	-2
+3126	technical	I think it'd be really useful to	-2
+3127	technical	technical: The sentence does not demonstrate any	0
+3129	technical	technical: The sentence does not demonstrate any	0
+3133	technical	technical: The sentence does not demonstrate any	0
+3135	technical	I think that a disclaimer would also be	-2
+3143	technical	technical: The sentence does not demonstrate any	0
+3144	technical	Technical: The sentence does not demonstrate any	0
+3150	technical	logging: The sentence demonstrates a mood	-2
+3161	technical	I think you can close the task,	-2
+3167	technical	technical: The sentence does not demonstrate any	0
+3173	technical	technical: The sentence does not demonstrate any	0
+3177	technical	task: loop.yml	-2
+3187	technical	Performance:  Performance is a big	-2
+3198	technical	technical: The sentence does not demonstrate any	0
+3199	technical	into the REPL. I'm not sure if this	-2
+3205	technical	technical: The sentence does not demonstrate any	0
+3219	technical	technical: The sentence does not demonstrate any	0
+3222	technical	technical: The sentence does not demonstrate any	0
+3224	technical	technical: The sentence does not demonstrate any	0
+3225	technical	Solution.Project.Utils.Ut	-2
+3227	technical	I wonder if we could adapt our approaches	-2
+3228	technical	technical: The sentence does not demonstrate any	0
+3235	technical	the open and the changes were made to address the	-2
+3236	technical	I would agree with this issue - I	-2
+3237	technical	The class is the base class of the	-2
+3240	technical	i would do both, allow until/	-2
+3241	technical	technical: The sentence does not demonstrate any	0
+3247	technical	I would like to know if people who	-2
+3254	technical	technical: The sentence does not demonstrate any	0
+3255	technical	Technical: The sentence does not demonstrate any	0
+3260	technical	technical: The sentence does not demonstrate any	0
+3267	technical	Technical: The sentence does not demonstrate any	0
+3272	technical	technical: The sentence does not demonstrate any	0
+3276	technical	make it work. I don't think that's	-2
+3278	technical	Technical: The sentence does not demonstrate any	0
+3285	technical	technical: The sentence does not demonstrate any	0
+3286	technical	The class is the name of the class	-2
+3288	technical	Technical: The sentence does not demonstrate any	0
+3290	technical	technical: The sentence does not demonstrate any	0
+3292	technical	Technical: The sentence demonstrates a technical style	0
+3304	technical	I'm agree with you . But in	-2
+3308	technical	technical: The sentence does not demonstrate any	0
+3309	technical	technical: The sentence does not demonstrate any	0
+3314	technical	technical: The sentence does not demonstrate any	0
+3315	technical	technical: The sentence does not demonstrate any	0
+3320	technical	technical: The sentence does not demonstrate any	0
+3324	technical	I'm doubtful it found GPU device in	-2
+3325	technical	technical: The sentence does not demonstrate any	0
+3338	technical	technical: The sentence does not demonstrate any	0
+3339	technical	I'm not sure what the class is	-2
+3343	technical	technical: The sentence does not demonstrate any	0
+3345	technical	I'm in the same boat, I	-2
+3351	technical	technical: The sentence does not demonstrate any	0
+3358	technical	of code that does support it. I'm not	-2
+3359	technical	technical: The sentence does not demonstrate any	0
+3370	technical	The class name is the name of the	-2
+3373	technical	I'm pinging all of you since	-2
+3380	technical	technical: The sentence does not demonstrate any	0
+3387	technical	technical: The sentence does not demonstrate any	0
+3390	technical	technical: The sentence does not demonstrate any	0
+3396	technical	Technical: The sentence does not demonstrate any	0
+3402	technical	I'm unsure if I can rely on	-2
+3404	technical	technical: The sentence does not demonstrate any	0
+3410	technical	The class is the name of the class	-2
+3419	technical	This is a class that is not used	-2
+3423	technical	technical: The sentence does not demonstrate any	0
+3429	technical	technical: The sentence does not demonstrate any	0
+3434	technical	technical: The sentence does not demonstrate any	0
+3435	technical	technical: The sentence does not demonstrate any	0
+3440	technical	technical: The sentence does not demonstrate any	0
+3446	technical	technical: The sentence does not demonstrate any	0
+3449	technical	The class is the name of the class	-2
+3451	technical	Technical: The sentence does not demonstrate any	0
+3452	technical	The class is the name of the class	-2
+3455	technical	The class is the class which is used	-2
+3461	technical	The class is the name of the class	-2
+3462	technical	The sentence is a classification problem.	-2
+3468	technical	The class is the name of the file	-2
+3469	technical	Technical: The sentence demonstrates a technical approach	0
+3470	technical	The class is the first word of the	-2
+3472	technical	Technical: The sentence does not demonstrate any	0
+3478	technical	The class is the name of the class	-2
+3482	technical	The class is the name of the class	-2
+3492	technical	it.  I'm not sure what the	-2
+3493	technical	The class is the name of the class	-2
+3495	technical	Technical: The sentence does not demonstrate any	0
+3498	technical	Technical: The sentence does not demonstrate any	0
+3503	technical	technical: The sentence does not demonstrate any	0
+3510	technical	Technical: The sentence does not demonstrate any	0
+3511	technical	The class is the name of the class	-2
+3513	technical	The class is the name of the class	-2
+3516	technical	The class is the name of the class	-2
+3522	technical	Technical: The sentence does not demonstrate any	0
+3524	technical	Technical: The sentence does not demonstrate any	0
+3535	technical	technical: The sentence demonstrates a technical approach	0
+3536	technical	Technical: The sentence does not demonstrate any	0
+3537	technical	The class is the name of the class	-2
+3541	technical	technical: The sentence does not demonstrate any	0
+3542	technical	Technical: The sentence demonstrates technical skills.	0
+3544	technical	The class is the name of the class	-2
+3553	technical	Technical: The sentence does not demonstrate any	0
+3557	technical	Technical: The sentence does not demonstrate any	0
+3559	technical	Technical: The sentence does not demonstrate any	0
+3562	technical	The sentence does not demonstrate any mood or	-2
+3565	technical	In this regard, in GDScript bool	-2
+3585	technical	technical: The sentence does not demonstrate any	0
+3587	technical	Technical: The sentence does not demonstrate any	0
+3588	technical	Technical: The sentence does not demonstrate any	0
+3589	technical	The class of the sentence is as follows	-2
+3600	technical	is right, the disk is dynamic and	-2
+3604	technical	The eigen-opencl tensor	-2
+3608	technical	Technical: The sentence does not demonstrate any	0
+3612	technical	The sentence is about a specific project.	-2
+3613	technical	I'm not sure if I should classify	-2
+3614	technical	The sentence is a test case for the	-2
+3616	technical	Technical: The sentence does not demonstrate any	0
+3617	technical	Is there an official roadmap from MS on	-2
+3619	technical	technical: The sentence does not demonstrate any	0
+3620	technical	Technical: The sentence does not demonstrate any	0
+3625	technical	Technical: The sentence does not demonstrate any	0
+3629	technical	technical: The sentence does not demonstrate any	0
+3630	technical	Technical: The sentence does not demonstrate any	0
+3633	technical	Technical: The sentence does not demonstrate any	0
+3640	technical	The class is the class name.	-2
+3642	technical	This is the class name.	-2
+3644	technical	technical: The sentence does not demonstrate any	0
+3654	technical	technical: The sentence does not demonstrate any	0
+3658	technical	Technical: The sentence does not demonstrate any	0
+3663	technical	The class is the name of the class	-2
+3666	technical	Technical: The sentence does not demonstrate any	0
+3670	technical	Technical: The sentence does not demonstrate any	0
+3674	technical	The class is the name of the class	-2
+3675	technical	The class is as follows:	-2
+3678	technical	Technical: The sentence does not demonstrate any	0
+3680	technical	The class is the most important part of	-2
+3682	technical	The class is a string that describes the	-2
+3685	technical	Technical: The sentence does not demonstrate any	0
+3690	technical	The next sentence is a bit more interesting.	-2
+3698	technical	The sentence is a technical one.	0
+3699	technical	Technical: The sentence does not demonstrate any	0
+3701	technical	technical: The sentence does not demonstrate any	0
+3714	technical	The class is a list of names of functions	-2
+3724	technical	Technical: The sentence does not demonstrate any	0
+3729	technical	The class name is the name of the	-2
+3740	technical	Technical: The sentence demonstrates a technical approach	0
+3745	technical	technical: The sentence does not demonstrate any	0
+3747	technical	Technical: The sentence does not demonstrate any	0
+3749	technical	Technical: The sentence demonstrates a technical skill	0
+3750	technical	technical: The sentence does not demonstrate any	0
+3752	technical	technical: The sentence does not demonstrate any	0
+3762	technical	The class is a set of words that	-2
+3764	technical	Technical: The sentence demonstrates a technical approach	0
+3765	technical	The class name is the first part of	-2
+3768	technical	The class is the name of the task	-2
+3770	technical	The class is the name of the class that	-2
+3795	technical	technical: The sentence does not demonstrate any	0
+3804	technical	I'm not sure what the class is supposed	-2
+3805	technical	The class is the name of the class	-2
+3811	technical	The class is the name of the class	-2
+3812	technical	technical: The sentence does not demonstrate any	0
+3813	technical	Technical: The sentence does not demonstrate any	0
+3840	technical	technical: The sentence does not demonstrate any	0
+3843	technical	Kotlin is nice, I am	-2
+3845	technical	I'm using Angular 2.0.	-2
+3855	technical	The class is the name of the project	-2
+3863	technical	Linux: The Linux file system is a	-2
+3864	technical	technical: The sentence does not demonstrate any	0
+3869	technical	Technical: The sentence does not demonstrate any	0
+3877	technical	technical: The sentence does not demonstrate any	0
+3881	technical	The class is the name of the class	-2
+3887	technical	Technical: The sentence does not demonstrate any	0
+3891	technical	technical: The sentence does not demonstrate any	0
+3898	technical	The class is a list of modules that	-2
+3903	technical	masahi - make sure you have ro	-2
+3904	technical	masahi - if you install the ro	-2
+3911	technical	The sentence does not demonstrate any mood or	-2
+3912	technical	Technical: The sentence does not demonstrate any	0
+3914	technical	Core: The sentence does not demonstrate any	-2
+3916	technical	The sentence does not demonstrate any mood or	-2
+3924	technical	technical: The sentence does not demonstrate any	0
+3930	technical	Merry Christmas and Happy New Year! …	-2
+3931	technical	technical: The sentence does not demonstrate any	0
+3934	technical	technical: The sentence does not demonstrate any	0
+3937	technical	Technical: The sentence does not demonstrate any	0
+3940	technical	technical: The sentence does not demonstrate any	0
+3943	technical	Terminal  NAME: Terminal  SYN	-2
+3945	technical	The class is the most important part of	-2
+3959	technical	technical: The sentence does not demonstrate any	0
+3965	technical	technical: The sentence does not demonstrate any	0
+3966	technical	technical: The sentence does not demonstrate any	0
+3980	technical	technical: The sentence does not demonstrate any	0
+3986	technical	technical: The sentence does not demonstrate any	0
+3991	technical	Technical: The sentence does not demonstrate any	0
+4008	technical	Technical: The sentence does not demonstrate any	0
+4011	technical	The class is the name of the class	-2
+4015	technical	Technical: The sentence does not demonstrate any	0
+4018	technical	Technical: The sentence does not demonstrate any	0
+4019	technical	technical: The sentence does not demonstrate any	0
+4022	technical	I'm not sure what you mean by	-2
+4031	technical	Technical: The sentence does not demonstrate any	0
+4044	technical	nodejs/community-committee or node	-2
+4052	technical	The class is a list of strings.	-2
+4058	technical	technical: The sentence does not demonstrate any	0
+4068	technical	class MyComponent extends React.Component {	-2
+4081	technical	Technical: The sentence does not demonstrate any	0
+4091	technical	Technical: The sentence does not demonstrate any	0
+4093	technical	Technical: The sentence does not demonstrate any	0
+4111	technical	Ok  I'm sorry, but I	-2
+4120	technical	OK, as per speaking with them it	-2
+4130	technical	Technical: The sentence does not demonstrate any	0
+4137	technical	technical: The sentence does not demonstrate any	0
+4142	technical	technical: The sentence does not demonstrate any	0
+4149	technical	technical: The sentence does not demonstrate any	0
+4151	technical	The class is the name of the class	-2
+4155	technical	The class of the sentence is as follows	-2
+4159	technical	Technical: The sentence does not demonstrate any	0
+4161	technical	The class is the name of the package	-2
+4168	technical	The class is the name of the widget	-2
+4175	technical	technical: The sentence does not demonstrate any	0
+4182	technical	Technical: The sentence does not demonstrate any	0
+4186	technical	Technical: The sentence does not demonstrate any	0
+4189	technical	or simply use my repo  S	-2
+4195	technical	Technical:  The sentence does not	0
+4197	technical	The class is a list of words that	-2
+4201	technical	class is a class that is defined in	-2
+4210	technical	than it should.  I am not sure	-2
+4213	technical	Technical: The sentence does not demonstrate any	0
+4225	technical	##vso[task.setvariable	-2
+4229	technical	Technical: The sentence does not demonstrate any	0
+4232	technical	Technical: The sentence does not demonstrate any	0
+4235	technical	technical: The sentence does not demonstrate any	0
+4238	technical	Technical: The sentence does not demonstrate any	0
+4247	technical	NetBSD (or FreeBSD if pbg	-2
+4258	technical	Technical: The sentence does not demonstrate any	0
+4265	technical	Technical: The sentence does not demonstrate any	0
+4274	technical	don't recommend it.  The meaning of	-2
+4275	technical	Technical: The sentence does not demonstrate any	0
+4283	technical	Technical: The sentence does not demonstrate any	0
+4285	technical	Technical: The sentence does not demonstrate any	0
+4288	technical	Technical: The sentence does not demonstrate any	0
+4291	technical	technical: The sentence does not demonstrate any	0
+4299	technical	Technical: PullRequest is not mergeable	0
+4300	technical	Technical: PullRequest is not mergeable	0
+4302	technical	Technical: PullRequest is not mergeable	0
+4304	technical	Technical: PullRequest is not mergeable	0
+4306	technical	Technical: PullRequest is not mergeable	0
+4310	technical	Technical: PullRequest is not mergeable	0
+4311	technical	Technical: PullRequest is not mergeable	0
+4314	technical	Technical: PullRequest is not mergeable	0
+4318	technical	Technical: PullRequest is not mergeable	0
+4324	technical	Technical: PullRequest is not mergeable	0
+4326	technical	Technical: PullRequest is not mergeable	0
+4332	technical	Technical: PullRequest is not mergeable	0
+4338	technical	Technical: PullRequest is not mergeable	0
+4339	technical	Technical: PullRequest is not mergeable	0
+4343	technical	Technical: PullRequest is not mergeable	0
+4345	technical	Technical: PullRequest is not mergeable	0
+4346	technical	Technical: PullRequest is not mergeable	0
+4353	technical	Technical: PullRequest is not mergeable	0
+4354	technical	Technical: PullRequest is not mergeable	0
+4356	technical	Technical: PullRequest is not mergeable	0
+4359	technical	Technical: PullRequest is not mergeable	0
+4367	technical	Technical: PullRequest is not mergeable	0
+4370	technical	Technical: PullRequest is not mergeable	0
+4374	technical	Technical: PullRequest is not mergeable	0
+4376	technical	Technical: PullRequest is not mergeable	0
+4380	technical	Technical: PullRequest is not mergeable	0
+4386	technical	Technical: PullRequest is not mergeable	0
+4393	technical	Technical: The sentence does not demonstrate any	0
+4395	technical	The class is the name of the project.	-2
+4402	technical	Technical: The sentence does not demonstrate any	0
+4410	technical	Reduce DLL size/Remove dependencies	-2
+4411	technical	technical: The sentence does not demonstrate any	0
+4417	technical	Technical: The sentence does not demonstrate any	0
+4429	technical	Technical: The sentence does not demonstrate any	0
+4436	technical	The class is the name of the class	-2
+4444	technical	Technical: The sentence does not demonstrate any	0
+4445	technical	technical: The sentence does not demonstrate any	0
+4450	technical	Technical: The sentence does not demonstrate any	0
+4453	technical	technical: The sentence does not demonstrate any	0
+4457	technical	The meaning of each class is as follows	-2
+4465	technical	technical: The sentence does not demonstrate any	0
+4466	technical	technical: The sentence does not demonstrate any	0
+4468	technical	technical: The sentence does not demonstrate any	0
+4480	technical	says that in our daily work with	-2
+4492	technical	The class is the reason why SDL was	-2
+4498	technical	The class is the name of the module	-2
+4509	technical	The class is the name of the class	-2
+4512	technical	Technical: The sentence does not demonstrate any	0
+4528	technical	technical: The sentence does not demonstrate any	0
+4531	technical	StreamExecutor is a project that implements	-2
+4532	technical	technical: The sentence does not demonstrate any	0
+4548	technical	in VS Code, and I'm not sure how	-2
+4557	technical	technical: The sentence does not demonstrate any	0
+4576	technical	SoftGlobalScope.jl is a package	-2
+4581	technical	The class is a string that contains the following	-2
+4583	technical	The class should be named after the scenario.	-2
+4590	technical	technical: The sentence does not demonstrate any	0
+4593	technical	technical: The sentence does not demonstrate any	0
+4594	technical	Technical: The sentence demonstrates a technical approach	0
+4597	technical	Technical:  The sentence does not	0
+4600	technical	Technical: The sentence does not demonstrate any	0
+4601	technical	I think the class is a good idea	-2
+4619	technical	The class is the name of the class	-2
+4620	technical	technical: The sentence demonstrates a technical style	0
+4623	technical	documentation thing: The sentence does not	-2
+4633	technical	Sprintln is done  Sprintln	-2
+4636	technical	The class is the name of the class	-2
+4637	technical	The sentence does not demonstrate any mood or	-2
+4642	technical	The class is the name of the module	-2
+4653	technical	Technical: The sentence does not demonstrate any	0
+4656	technical	Technical: The sentence does not demonstrate any	0
+4659	technical	Technical: The sentence demonstrates a technical approach	0
+4660	technical	Technical: The sentence does not demonstrate any	0
+4661	technical	I'm not sure what you mean by	-2
+4663	technical	technical: The sentence does not demonstrate any	0
+4664	technical	The class is the name of the class	-2
+4667	technical	Technical  SVG Support in Blazor	0
+4682	technical	Technical: The sentence does not demonstrate any	0
+4692	technical	Technical: The sentence does not demonstrate any	0
+4698	technical	information.  The response from Coraline:	-2
+4701	technical	The class is the name of the class	-2
+4710	technical	technical: The sentence does not demonstrate any	0
+4712	technical	technical: The sentence does not demonstrate any	0
+4715	technical	I am going to use the following code	-2
+4716	technical	Technical: The sentence does not demonstrate any	0
+4719	technical	Technical: The sentence demonstrates a technical style	0
+4723	technical	technical: The sentence does not demonstrate any	0
+4733	technical	Technical:  Technical:	0
+4734	technical	I think that responsive font sizing is a	-2
+4737	technical	searches for Vue. **Tip**	-2
+4739	technical	Technical  Non-Technical	0
+4748	technical	Technical  Non-Technical	0
+4751	technical	Technical  Non-Technical	0
+4760	technical	technical: The sentence does not demonstrate any	0
+4766	technical	technical: The sentence does not demonstrate any	0
+4779	technical	Technical: The sentence does not demonstrate any	0
+4780	technical	. I'm not sure if this is a bug	-2
+4781	technical	Technical:  The sentence does not	0
+4789	technical	Technical: The sentence does not demonstrate any	0
+4795	technical	technical: The sentence does not demonstrate any	0
+4800	technical	The class is the name of the app	-2
+4804	technical	technical: The sentence does not demonstrate any	0
+4805	technical	technical: The sentence does not demonstrate any	0
+4810	technical	technical: The sentence does not demonstrate any	0
+4814	technical	Technical:  The sentence does not	0
+4822	technical	The class is the name of the module	-2
+4826	technical	I'm not sure what the class is,	-2
+4827	technical	technical: The sentence does not demonstrate any	0
+4830	technical	technical: The sentence does not demonstrate any	0
+4838	technical	Technical: The sentence does not demonstrate any	0
+4841	technical	Technical: The sentence demonstrates a technical approach	0
+4850	technical	Technical: The sentence does not demonstrate any	0
+4855	technical	technical: The sentence does not demonstrate any	0
+4860	technical	Technical: The sentence does not demonstrate any	0
+4867	technical	Technical: The sentence does not demonstrate any	0
+4879	technical	technical: The sentence does not demonstrate any	0
+4886	technical	technical: The sentence does not demonstrate any	0
+4887	technical	Technical: The sentence does not demonstrate any	0
+4888	technical	technical: The sentence does not demonstrate any	0
+4889	technical	Technical: The sentence does not demonstrate any	0
+4891	technical	Technical: The sentence does not demonstrate any	0
+4897	technical	can use the latest version of npm and expect the	-2
+4903	technical	technical: The sentence does not demonstrate any	0
+4904	technical	technical: The sentence does not demonstrate any	0
+4905	technical	"3.x" is the same	-2
+4912	technical	The Assembly.Location problem is headed into	-2
+4916	technical	Technical: The sentence does not demonstrate any	0
+4917	technical	Technical: The sentence is a technical description	0
+4920	technical	The sentence is about the business. The	-2
+4922	technical	Technical: The sentence does not demonstrate any	0
+4935	technical	The class should be a noun or a	-2
+4944	technical	The class is the class of the sentence	-2
+4945	technical	1. annoys people: This is	-2
+4947	technical	Technical: The sentence does not demonstrate any	0
+4948	technical	've ever mentioned FLUI in this context is in	-2
+4952	technical	Technical:  The sentence does not	0
+4953	technical	The following works in ipython/j	-2
+4966	technical	The class is the name of the class	-2
+4967	technical	The class is the name of the class	-2
+4972	technical	The next sentence is a bit more difficult.	-2
+4977	technical	Technical: The sentence does not demonstrate any	0
+4989	technical	The class name is the name of the	-2
+5002	technical	The sentence is about a problem that is	-2
+5003	technical	technical: The sentence does not demonstrate any	0
+5011	technical	The class of the sentence is as follows	-2
+5013	technical	The class is the most important part of	-2
+5014	technical	The class is the most important part of	-2
+5017	technical	The class name is the name of the	-2
+5022	technical	The shallow renderer uses the following modules	-2
+5026	technical	The class you chose is not relevant to	-2
+5027	technical	the state only gets updated when the apply	-2
+5037	technical	The class is the name of the class	-2
+5043	technical	The class is the most important part of	-2
+5055	technical	The class is a list of words that	-2
+5059	technical	technical: The sentence does not demonstrate any	0
+5060	technical	The class is the name of the class	-2
+5061	technical	Technical: The sentence does not demonstrate any	0
+5078	technical	clFFT:  clBL	-2
+5079	technical	technical: The sentence does not demonstrate any	0
+5092	technical	The sentence demonstrates a mood or style of	-2
+5097	technical	Technical: The sentence does not demonstrate any	0
+5099	technical	Technical: The sentence does not demonstrate any	0
+5101	technical	Technical: The sentence demonstrates a technical style	0
+5113	technical	The class is the name of the class	-2
+5114	technical	technical: The sentence does not demonstrate any	0
+5116	technical	This is the class of the sentence.	-2
+5119	technical	This is the class of the sentence.	-2
+5127	technical	The sentence is in the form of a	-2
+5132	technical	This is the class of the sentence.	-2
+5133	technical	This class is used to indicate the type	-2
+5136	technical	Technical: The sentence does not demonstrate any	0
+5137	technical	This is the class of the sentence.	-2
+5140	technical	This is the class name.	-2
+5141	technical	Technical: The sentence does not demonstrate any	0
+5143	technical	This is a classifier for the sentence	-2
+5144	technical	The class is the name of the class	-2
+5148	technical	This is a class that is used to	-2
+5152	technical	This is a class that is used to	-2
+5153	technical	The class is the name of the class	-2
+5158	technical	This is the sentence that demonstrates the mood	-2
+5160	technical	This is the class name of the sentence	-2
+5161	technical	This is a class that is not used	-2
+5170	technical	Technical: The sentence does not demonstrate any	0
+5183	technical	This is a class of sentences that are	-2
+5184	technical	This is a class that is not in	-2
+5185	technical	Technical: The sentence does not demonstrate any	0
+5189	technical	This is the class of the sentence.	-2
+5190	technical	This is the class that will be used	-2
+5192	technical	The class is the name of the class	-2
+5195	technical	This is under Python section It looks like	-2
+5197	technical	This is a sentence that demonstrates a mood	-2
+5209	technical	Technical: The sentence does not demonstrate any	0
+5219	technical	Technical: The sentence does not demonstrate any	0
+5220	technical	The sentence does not demonstrate any mood or	-2
+5221	technical	This is the class that you have to learn	-2
+5224	technical	technical: The sentence does not demonstrate any	0
+5231	technical	technical: The sentence does not demonstrate any	0
+5236	technical	The class should be a comma-separ	-2
+5237	technical	This is the class of sentences that are	-2
+5240	technical	The class is the name of the class	-2
+5241	technical	Technical: The sentence does not demonstrate any	0
+5256	technical	This is the class of the sentence.	-2
+5258	technical	The class is the name of the class	-2
+5260	technical	This is the class name of the package	-2
+5269	technical	technical: The sentence does not demonstrate any	0
+5272	technical	technical: The sentence does not demonstrate any	0
+5277	technical	technical: The sentence does not demonstrate any	0
+5282	technical	technical: The sentence does not demonstrate any	0
+5284	technical	Technical: The sentence does not demonstrate any	0
+5297	technical	technical: The sentence does not demonstrate any	0
+5301	technical	I am not saying that WCF is	-2
+5302	technical	technical: The sentence does not demonstrate any	0
+5308	technical	technical: The sentence does not demonstrate any	0
+5314	technical	The sentence is about the application's identity	-2
+5315	technical	Translated: ### Your language version violates Chinese	-2
+5324	technical	technical: The sentence does not demonstrate any	0
+5329	technical	technical: The sentence does not demonstrate any	0
+5335	technical	Technical: The sentence does not demonstrate any	0
+5336	technical	technical: The sentence does not demonstrate any	0
+5340	technical	The class is the class name of the	-2
+5341	technical	I am a member of the project.	-2
+5345	technical	The sentence is a technical one.	0
+5356	technical	Technical: The sentence does not demonstrate any	0
+5357	technical	technical: The sentence does not demonstrate any	0
+5359	technical	Updated the wording in my comment above for clarity	-2
+5365	technical	technical: The sentence demonstrates a technical style	0
+5369	technical	Technical: The sentence demonstrates a technical style	0
+5379	technical	technical: The sentence does not demonstrate any	0
+5382	technical	The class is the part of the sentence	-2
+5383	technical	technical: The sentence does not demonstrate any	0
+5390	technical	technical: The sentence demonstrates a technical style	0
+5391	technical	Technical: The sentence does not demonstrate any	0
+5393	technical	technical: The sentence does not demonstrate any	0
+5394	technical	technical: The sentence does not demonstrate any	0
+5395	technical	Operations Behaviors:	-2
+5400	technical	WCF on .NET core will be critical	-2
+5405	technical	technical: The sentence does not demonstrate any	0
+5410	technical	technical: The sentence does not demonstrate any	0
+5411	technical	Technical: The sentence demonstrates a technical approach	0
+5416	technical	technical: The sentence does not demonstrate any	0
+5417	technical	technical: The sentence does not demonstrate any	0
+5422	technical	Technical: The sentence does not demonstrate any	0
+5426	technical	technical: The sentence does not demonstrate any	0
+5439	technical	Technical: The sentence does not demonstrate any	0
+5444	technical	technical: The sentence does not demonstrate any	0
+5445	technical	technical: The sentence does not demonstrate any	0
+5447	technical	We have a customer that require a portable	-2
+5448	technical	We have a large SOA based healthcare	-2
+5464	technical	The cloud function is a cloud service.	-2
+5467	technical	The following is a list of the top	-2
+5469	technical	technical: The sentence does not demonstrate any	0
+5471	technical	Technical: The sentence does not demonstrate any	0
+5472	technical	The class is the name of the class	-2
+5475	technical	AppBar  AppBar.sw	-2
+5479	technical	technical: The sentence does not demonstrate any	0
+5482	technical	The class is a list of words that	-2
+5483	technical	technical: The sentence does not demonstrate any	0
+5488	technical	We're in the process of updating our	-2
+5494	technical	Web API is for http services. This	-2
+5501	technical	The class is a list of features that are	-2
+5502	technical	Technical: The sentence does not demonstrate any	0
+5506	technical	The class is the name of the class	-2
+5510	technical	WCF. The fact that it is a .	-2
+5513	technical	The class is the most important part of	-2
+5516	technical	The class is the name of the class that	-2
+5521	technical	if it's not open source.  The	-2
+5526	technical	flow be used for the next generation of GPUs?	-2
+5534	technical	technical: The sentence does not demonstrate any	0
+5539	technical	Technical  Non-technical	0
+5552	technical	The next sentence is a question. Answer	-2
+5558	technical	Technical: The sentence does not demonstrate any	0
+5561	technical	open source: The sentence does not demonstrate	-2
+5576	technical	I can see this being an issue for	-2
+5578	technical	Technical: The sentence does not demonstrate any	0
+5584	technical	Technical: The sentence does not demonstrate any	0
+5591	technical	The sentence is a technical one.	0
+5592	technical	Technical: The sentence does not demonstrate any	0
+5596	technical	Technical: The sentence does not demonstrate any	0
+5618	technical	The class is about TCP connectivity.	-2
+5631	technical	technical: The sentence does not demonstrate any	0
+5632	technical	technical: The sentence does not demonstrate any	0
+5636	technical	technical: The sentence does not demonstrate any	0
+5637	technical	The class is the most important part of	-2
+5642	technical	Technical: The sentence does not demonstrate any	0
+5646	technical	(disabled by default)  (	-2
+5647	technical	Technical: The sentence does not demonstrate any	0
+5654	technical	I want to deliver similar experience for both	-2
+5655	technical	technical: The sentence does not demonstrate any	0
+5664	technical	technical: The sentence does not demonstrate any	0
+5666	technical	Technical: The sentence demonstrates a technical skill	0
+5667	technical	arn v2 is meant to be installed locally on	-2
+5672	technical	Technical: The sentence does not demonstrate any	0
+5678	technical	technical: The sentence does not demonstrate any	0
+5680	technical	The sentence does not demonstrate any mood or	-2
+5683	technical	Technical: The sentence does not demonstrate any	0
+5689	technical	The sentence does not demonstrate any mood or	-2
+5692	technical	The sentence does not demonstrate any mood or	-2
+5696	technical	technical: The sentence does not demonstrate any	0
+5698	technical	technical: The sentence does not demonstrate any	0
+5699	technical	Technical: The sentence does not demonstrate any	0
+5714	technical	Technical: The sentence does not demonstrate any	0
+5733	technical	Technical: The sentence does not demonstrate any	0
+5739	technical	I think the sentence is a bit too	-2
+5746	technical	technical: The sentence does not demonstrate any	0
+5749	technical	technical: The sentence does not demonstrate any	0
+5750	technical	The class is the base line of communication between	-2
+5755	technical	technical: The sentence does not demonstrate any	0
+5762	technical	technical: gio is available and installed	0
+5766	technical	technical: The sentence does not demonstrate any	0
+5773	technical	Technical: The sentence does not demonstrate any	0
+5779	technical	The class is the name of the variable	-2
+5780	technical	Technical: The sentence does not demonstrate any	0
+5786	technical	Technical: The sentence does not demonstrate any	0
+5790	technical	Technical: The sentence does not demonstrate any	0
+5791	technical	Technical: The sentence does not demonstrate any	0
+5794	technical	technical: The sentence does not demonstrate any	0
+5803	technical	's a huge difference. I'm not saying that	-2
+5809	technical	The class is the most important part of	-2
+5814	technical	The class is the name of the class	-2
+5816	technical	python  python  python	-2
+5820	technical	Technical: The sentence does not demonstrate any	0
+5822	technical	The class is the name of the environment	-2
+5829	technical	The class name is the name of the	-2
+5830	technical	The class is the name of the class	-2
+5832	technical	Technical: The sentence does not demonstrate any	0
+5833	technical	Technical: The sentence does not demonstrate any	0
+5837	technical	The class name is the name of the	-2
+5839	technical	cl.hpp  cl.	-2
+5844	technical	The class is the most important part of	-2
+5856	technical	The class is the name of the class.	-2
+5865	technical	technical: You use the terminal for coding	0
+5870	technical	Technical: The sentence does not demonstrate any	0
+5871	technical	Technical: The sentence demonstrates a technical approach	0
+5873	technical	The class is the name of the class	-2
+5875	technical	technical: The sentence does not demonstrate any	0
+5880	technical	The class is the most important part of	-2
+5882	technical	The class name is incorrect. The class	-2
+5893	non-technical	(II) I'm not sure if	-2
+5895	non-technical	**technical**: The sentence does not	0
+5902	non-technical	+1 This would really help modularizing	-2
+5905	non-technical	Technical: The sentence does not demonstrate any	0
+5912	non-technical	Technical: The sentence does not demonstrate any	0
+5913	non-technical	technical: The sentence does not demonstrate any	0
+5924	non-technical	Technical: The sentence does not demonstrate any mood	0
+5928	non-technical	technical: The sentence does not demonstrate any	0
+5931	non-technical	technical: The sentence does not demonstrate any	0
+5935	non-technical	Technical: The sentence does not demonstrate any	0
+5936	non-technical	Technical: The sentence does not demonstrate any	0
+5939	non-technical	Technical: The sentence demonstrates a technical approach	0
+5941	non-technical	As someone who has worked in the open source	-2
+5944	non-technical	Technical: The sentence does not demonstrate any	0
+5956	non-technical	technical: The sentence does not demonstrate any	0
+5967	non-technical	Technical: The sentence does not demonstrate any	0
+5968	non-technical	technical: The sentence does not demonstrate any	0
+5970	non-technical	Technical: The sentence does not demonstrate any	0
+5984	non-technical	Technical: The sentence does not demonstrate any	0
+5987	non-technical	The class is a string of characters that	-2
+5991	non-technical	technical: The sentence does not demonstrate any	0
+5993	non-technical	like the following:  <Widget> <	-2
+5997	non-technical	Technical: The sentence does not demonstrate any	0
+5999	non-technical	I'm not sure what this is supposed to	-2
+6000	non-technical	I'm not sure what the class is,	-2
+6002	non-technical	Technical:  The sentence does not	0
+6007	non-technical	Technical: The sentence demonstrates a technical style	0
+6015	non-technical	technical: The sentence does not demonstrate any	0
+6016	non-technical	even a good idea to use it. It is	-2
+6023	non-technical	Technical: The sentence does not demonstrate any	0
+6029	non-technical	Technical: The sentence does not demonstrate any	0
+6030	non-technical	technical: The sentence does not demonstrate any	0
+6037	non-technical	The class is as follows:	-2
+6041	non-technical	use the "Report to Microsoft" option. Instead	-2
+6044	non-technical	technical: The sentence does not demonstrate any	0
+6048	non-technical	frame_coord  The frame_	-2
+6052	non-technical	that are not interested in the Enterprise solution. I	-2
+6054	non-technical	technical: The sentence does not demonstrate any	0
+6058	non-technical	technical: The sentence does not demonstrate any	0
+6072	non-technical	IFICATION: I agree with the classifications	-2
+6079	non-technical	technical: The sentence demonstrates a technical attitude	0
+6082	non-technical	technical: The sentence does not demonstrate any	0
+6083	non-technical	technical: The sentence does not demonstrate any	0
+6088	non-technical	The class is a list of words,	-2
+6090	non-technical	I don't want to have to view	-2
+6091	non-technical	I don't. I too write code	-2
+6093	non-technical	I feel like there's much less confusion	-2
+6100	non-technical	master: The master is the master of	-2
+6101	non-technical	Technical: The sentence demonstrates a technical approach	0
+6105	non-technical	technical: The sentence does not demonstrate any	0
+6115	non-technical	technical: The sentence does not demonstrate any	0
+6135	non-technical	technical: The sentence does not demonstrate any	0
+6137	non-technical	technical: The sentence does not demonstrate any	0
+6138	non-technical	Technical: The sentence does not demonstrate any mood	0
+6145	non-technical	SASS:  SASS is	-2
+6146	non-technical	technical: The sentence does not demonstrate any	0
+6151	non-technical	know if you have any other suggestions.	-2
+6153	non-technical	I'd say that's much worse than	-2
+6159	non-technical	technical: The sentence does not demonstrate any	0
+6162	non-technical	Technical:  The sentence does not	0
+6163	non-technical	Technical:  I'm happy to	0
+6164	non-technical	Technical: The sentence does not demonstrate any	0
+6165	non-technical	Technical: The sentence demonstrates a technical style	0
+6167	non-technical	Technical: The sentence does not demonstrate any	0
+6172	non-technical	technical: The sentence does not demonstrate any	0
+6181	non-technical	technical: The sentence does not demonstrate any	0
+6191	non-technical	technical: The sentence does not demonstrate any	0
+6199	non-technical	Technical: The sentence does not demonstrate any	0
+6200	non-technical	The sentence is about a person or a	-2
+6202	non-technical	technical: The sentence does not demonstrate any	0
+6204	non-technical	Technical: The sentence does not demonstrate any	0
+6214	non-technical	The sentence does not demonstrate any mood or style	-2
+6220	non-technical	Technical: The sentence does not demonstrate any	0
+6222	non-technical	technical: The sentence does not demonstrate any	0
+6224	non-technical	The class is the class name.	-2
+6226	non-technical	The sentence does not demonstrate any mood or	-2
+6230	non-technical	The class is the interface that the proxy	-2
+6231	non-technical	technical: The sentence demonstrates a technical skill	0
+6232	non-technical	Technical: The sentence does not demonstrate any	0
+6237	non-technical	technical: The sentence demonstrates a technical style	0
+6240	non-technical	The class is the name of the class	-2
+6243	non-technical	Technical: The sentence does not demonstrate any	0
+6244	non-technical	Technical: The sentence does not demonstrate any	0
+6247	non-technical	Technical: The sentence does not demonstrate any	0
+6252	non-technical	Technical: The sentence does not demonstrate any mood	0
+6262	non-technical	Technical: The sentence does not demonstrate any	0
+6264	non-technical	technical: The sentence does not demonstrate any	0
+6265	non-technical	Technical: The sentence does not demonstrate any	0
+6268	non-technical	I am a student of Computer Science and	-2
+6271	non-technical	Technical: The sentence does not demonstrate any	0
+6275	non-technical	technical: The sentence does not demonstrate any	0
+6283	non-technical	technical: The sentence does not demonstrate any	0
+6287	non-technical	Technical: The sentence does not demonstrate any	0
+6290	non-technical	Technical: The sentence does not demonstrate any	0
+6300	non-technical	Ok, so I figured it out for my	-2
+6301	non-technical	technical: The sentence does not demonstrate any	0
+6324	non-technical	Technical: The sentence demonstrates technical knowledge,	0
+6325	non-technical	Technical: The sentence does not demonstrate any	0
+6334	non-technical	Relax and take your medication. The	-2
+6342	non-technical	seems like that's problem in USA	-2
+6345	non-technical	technical: The sentence demonstrates a mood or	0
+6346	non-technical	The sentence is a technical or non-	0
+6351	non-technical	Technical: The sentence does not demonstrate any	0
+6353	non-technical	technical: The sentence does not demonstrate any	0
+6354	non-technical	technical: The sentence does not demonstrate any	0
+6358	non-technical	Technical: The sentence does not demonstrate any mood	0
+6359	non-technical	technical: The sentence does not demonstrate any	0
+6368	non-technical	The class is the name of the class	-2
+6374	non-technical	technical: The sentence does not demonstrate any	0
+6376	non-technical	Technical: The sentence does not demonstrate any	0
+6377	non-technical	technical: The sentence does not demonstrate any	0
+6382	non-technical	Technical: The sentence does not demonstrate any	0
+6390	non-technical	technical: The sentence does not demonstrate any	0
+6397	non-technical	componentDidMount  componentDidUpdate	-2
+6399	non-technical	The class is the name of the function	-2
+6403	non-technical	put into this issue, and how much of it	-2
+6409	non-technical	Technical: The sentence demonstrates a technical skill	0
+6433	non-technical	I'm not sure what you mean by '	-2
+6444	non-technical	Technical: The sentence does not demonstrate any	0
+6446	non-technical	be marked as off topic.  I think	-2
+6449	non-technical	technical: The sentence does not demonstrate any	0
+6466	non-technical	technical: The sentence does not demonstrate any	0
+6471	non-technical	This is a class for the sentence.	-2
+6472	non-technical	Technical: The sentence does not demonstrate any	0
+6474	non-technical	The sentence is a technical sentence.	0
+6476	non-technical	technical: The sentence does not demonstrate any	0
+6496	non-technical	Technical: The sentence demonstrates a technical skill	0
+6502	non-technical	Technical: The sentence does not demonstrate any	0
+6503	non-technical	The class is a keyword that is used	-2
+6504	non-technical	technical: The sentence does not demonstrate any	0
+6510	non-technical	Technical: The sentence does not demonstrate any	0
+6511	non-technical	Technical: The sentence does not demonstrate any mood	0
+6515	non-technical	Technical: The sentence does not demonstrate any	0
+6518	non-technical	Technical: The sentence does not demonstrate any	0
+6530	non-technical	Technical: The sentence does not demonstrate any	0
+6534	non-technical	The class is the most important part of	-2
+6542	non-technical	technical: The sentence does not demonstrate any	0
+6545	non-technical	Technical: The sentence does not demonstrate any	0
+6548	non-technical	The sentence does not demonstrate any mood or style	-2
+6555	non-technical	Technical: The sentence does not demonstrate any	0
+6564	non-technical	Technical: The sentence does not demonstrate any	0
+6567	non-technical	technical: The sentence does not demonstrate any	0
+6570	non-technical	technical: The sentence does not demonstrate any	0
+6573	non-technical	technical: The sentence does not demonstrate any	0
+6574	non-technical	Technical: The sentence does not demonstrate any	0
+6577	non-technical	technical: The sentence does not demonstrate any	0
+6592	non-technical	your attitude here makes my day measur	-2
+6594	non-technical	The class is the most important part of	-2

@@ -1,0 +1,4 @@
+In the context of agile methodologies for software development, estimate the story points for the next task with an integer value between 1 and 100. Answer only with the story points in integer format.
+
+TASK:
+{text}

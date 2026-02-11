@@ -1,8 +1,7 @@
 """ETL pre-processing pipelines per dataset.
 
-This module specifies the pipelines to be applied to the different datasets
-and their respective entities. The pipelines need to be defined using the
-Scikit-Learn Pipeline interface.
+This module specifies the pipelines to be applied to the different datasets and their respective
+entities. The pipelines need to be defined using the Scikit-Learn Pipeline interface.
 """
 
 import sys
@@ -27,8 +26,8 @@ from utils.metrics.smape.smape import symmetric_mean_absolute_percentage_error
 
 
 def compute_metrics_sklearn(y_true, y_pred, handle_unkws=False):
-    """Calculate different classification scores for binary and multi-class
-    classification using vanilla Scikit-Learn"""
+    """Calculate different classification scores for binary and multi-class classification using
+    vanilla Scikit-Learn"""
 
     n_labels = y_true.nunique()
 
@@ -51,8 +50,7 @@ def compute_metrics_sklearn(y_true, y_pred, handle_unkws=False):
 
 
 def compute_metrics_multilabel_sklearn(y_true, y_pred):
-    """Calculate different classification scores for multilabel classification
-    using Scikit-Learn"""
+    """Calculate different classification scores for multilabel classification using Scikit-Learn"""
 
     results = {}
     results["accuracy"] = accuracy_score(y_true, y_pred)  # Strict match across all labels
@@ -85,8 +83,8 @@ def compute_metrics_regression_sklearn(y_true, y_pred):
 
 
 def compute_metrics_hf(eval_pred):
-    """Calculate different classification scores for binary and multi-class
-    classification using Hugging Face's evaluate library"""
+    """Calculate different classification scores for binary and multi-class classification using
+    Hugging Face's evaluate library"""
 
     logits, labels = eval_pred
 
@@ -101,9 +99,10 @@ def compute_metrics_hf(eval_pred):
         ["../utils/metrics/f1", "../utils/metrics/precision", "../utils/metrics/recall"]
     )
 
-    results = {}
-    results["accuracy"] = accuracy.compute(predictions=predictions, references=labels)
-    results["confusion_matrix"] = conf_matrix.compute(predictions=predictions, references=labels)
+    results = {
+        **accuracy.compute(predictions=predictions, references=labels),  # type: ignore
+        **conf_matrix.compute(predictions=predictions, references=labels)  # type: ignore
+    }
 
     for average in ["micro", "macro", None]:
         res = metrics.compute(predictions=predictions, references=labels, average=average)
@@ -114,8 +113,8 @@ def compute_metrics_hf(eval_pred):
 
 
 def compute_metrics_multilabel_hf(eval_pred):
-    """Calculate different classification scores for multilabel classification
-    using Hugging Face's evaluate library"""
+    """Calculate different classification scores for multilabel classification using Hugging Face's
+    evaluate library"""
 
     logits, labels = eval_pred
 
@@ -129,19 +128,16 @@ def compute_metrics_multilabel_hf(eval_pred):
     labels = labels.astype(int)
 
     accuracy = evaluate.load("../utils/metrics/accuracy", "multilabel")
-    # conf_matrix = evaluate.load("../utils/metrics/confusion_matrix")
     f1 = evaluate.load("../utils/metrics/f1", "multilabel")
     precision = evaluate.load("../utils/metrics/precision", "multilabel")
     recall = evaluate.load("../utils/metrics/recall", "multilabel")
 
+    results = {
+        **accuracy.compute(predictions=predictions, references=labels),  # type: ignore
+    }
+
     results = {}
     results["accuracy"] = accuracy.compute(predictions=predictions, references=labels)
-    # results["confusion_matrices"] = [
-    #     conf_matrix.compute(
-    #         predictions=predictions[:, col2],
-    #         labels=labels[:, col1]
-    #     ).tolist() for col1, col2 in zip(range(labels.shape[1]), range(predictions.shape[1]))  # type: ignore
-    # ]
 
     for average in ["micro", "macro", None]:
         f1_res = f1.compute(predictions=predictions, references=labels, average=average)
@@ -161,8 +157,7 @@ def compute_metrics_multilabel_hf(eval_pred):
 
 
 def compute_metrics_regression_hf(eval_pred):
-    """Calculate different regression scores using Hugiing Face's evaluate
-    library"""
+    """Calculate different regression scores using Hugiing Face's evaluate library"""
 
     predictions, labels = eval_pred
 

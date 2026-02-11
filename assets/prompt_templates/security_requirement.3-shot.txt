@@ -1,0 +1,35 @@
+In the context of requirements analysis in software engineering, classify the next requirement as 'sec' or 'nonsec'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+sec: The requirement includes some security aspect (security goal or security constraint).
+nonsec: The requirement does not include any security aspects (security goal or security constraint).
+
+---
+
+Below are some examples to guide you in the classification task:
+
+- EXAMPLE 1:
+REQUIREMENT:
+{shot_1}
+
+CLASS:
+{label_1}
+
+- EXAMPLE 2:
+REQUIREMENT:
+{shot_2}
+
+CLASS:
+{label_2}
+
+- EXAMPLE 3:
+REQUIREMENT:
+{shot_3}
+
+CLASS:
+{label_3}
+
+---
+
+REQUIREMENT TO CLASSIFY:
+{text}

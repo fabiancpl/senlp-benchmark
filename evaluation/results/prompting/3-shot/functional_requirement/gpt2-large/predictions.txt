@@ -1,0 +1,193 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	non-functional  ---	0
+11	functional	non-functional  ---	0
+15	functional	non-functional  ---	0
+22	functional	functional  ---  REQUIRE	1
+32	functional	functional  ---  REQUIRE	1
+34	functional	functional  ---  REQUIRE	1
+42	functional	non-functional  ---	0
+43	functional	non-functional  ---	0
+46	functional	functional  ---  REQUIRE	1
+50	functional	non-functional  ---	0
+52	functional	functional  ---  REQUIRE	1
+53	functional	functional  ---  REQUIRE	1
+57	functional	non-functional  ---	0
+64	functional	non-functional  ---	0
+68	functional	functional  ---  REQUIRE	1
+74	non-functional	functional  ---  REQUIRE	1
+77	functional	functional  ---  REQUIRE	1
+87	functional	non-functional  ---	0
+92	functional	functional  ---  REQUIRE	1
+94	functional	functional  ---  REQUIRE	1
+95	functional	functional  ---  REQUIRE	1
+96	functional	non-functional  ---	0
+98	functional	functional  ---  REQUIRE	1
+99	functional	functional  - EXAMPLE 4	1
+106	functional	non-functional  ---	0
+107	functional	functional  ---  REQUIRE	1
+110	functional	functional  ---  REQUIRE	1
+115	functional	functional  ---  REQUIRE	1
+116	functional	functional  ---  REQUIRE	1
+125	functional	functional  ---  REQUIRE	1
+128	functional	functional  ---  REQUIRE	1
+130	non-functional	functional  ---  REQUIRE	1
+132	functional	non-functional  ---	0
+135	functional	non-functional  ---	0
+141	functional	functional  ---  REQUIRE	1
+143	functional	functional  ---  REQUIRE	1
+158	non-functional	functional  ---  REQUIRE	1
+159	non-functional	functional  ---  REQUIRE	1
+172	non-functional	non-functional  ---  RE	0
+181	non-functional	functional  ---  REQUIRE	1
+188	non-functional	non-functional  ---	0
+189	non-functional	non-functional  ---	0
+194	non-functional	functional  ---  REQUIRE	1
+196	non-functional	non-functional  ---	0
+202	functional	non-functional  ---	0
+204	functional	functional  - EXAMPLE 4	1
+206	functional	non-functional  ---	0
+210	non-functional	functional  ---  REQUIRE	1
+211	non-functional	functional  ---  REQUIRE	1
+215	non-functional	non-functional  ---	0
+220	functional	non-functional  ---	0
+223	functional	functional  ---  REQUIRE	1
+237	functional	functional  - EXAMPLE 4	1
+248	functional	functional  ---  REQUIRE	1
+249	functional	functional  ---  REQUIRE	1
+250	non-functional	non-functional  ---	0
+255	functional	functional  ---  REQUIREMENT	1
+260	non-functional	non-functional  ---	0
+268	non-functional	functional  ---  REQUIRE	1
+269	non-functional	non-functional  ---	0
+272	non-functional	functional  ---  REQUIREMENT	1
+282	non-functional	functional  ---  REQUIRE	1
+288	functional	functional  - EXAMPLE 4	1
+289	functional	functional  - EXAMPLE 4	1
+296	non-functional	functional  ---  REQUIRE	1
+299	functional	functional  ---  REQUIRE	1
+306	non-functional	functional  - EXAMPLE 4	1
+309	functional	functional  ---  REQUIRE	1
+320	functional	non-functional  ---	0
+323	functional	functional  ---  REQUIRE	1
+325	functional	functional  ---  REQUIRE	1
+328	functional	functional  ---  REQUIRE	1
+330	non-functional	non-functional  ---	0
+346	non-functional	functional  ---  REQUIRE	1
+360	non-functional	functional  ---  REQUIRE	1
+364	non-functional	functional  ---  REQUIREMENT	1
+371	functional	functional  ---  REQUIRE	1
+376	functional	non-functional  ---	0
+381	functional	non-functional  ---	0
+399	non-functional	non-functional  ---	0
+403	non-functional	functional  ---  REQUIREMENT	1
+412	functional	functional  ---  REQUIREMENT	1
+413	functional	functional  ---  REQUIRE	1
+415	non-functional	non-functional  ---	0
+416	non-functional	functional  ---  REQUIRE	1
+421	non-functional	non-functional  ---	0
+426	non-functional	non-functional  ---	0
+427	functional	functional  ---  REQUIRE	1
+433	functional	functional  ---  REQUIRE	1
+437	functional	non-functional  ---	0
+438	functional	functional  ---  REQUIRE	1
+441	functional	functional  ---  REQUIRE	1
+454	functional	functional  ---  REQUIRE	1
+461	non-functional	non-functional  ---	0
+472	functional	functional  ---  REQUIREMENT	1
+477	non-functional	non-functional  ---	0
+478	non-functional	functional  ---  REQUIREMENT	1
+479	non-functional	functional  ---  REQUIRE	1
+480	non-functional	non-functional  ---	0
+481	non-functional	non-functional  ---	0
+491	non-functional	functional  ---  REQUIRE	1
+495	non-functional	functional  ---  REQUIRE	1
+514	functional	non-functional  ---	0
+517	functional	functional  ---  REQUIREMENT	1
+526	functional	non-functional  ---	0
+533	non-functional	non-functional  ---	0
+537	non-functional	functional  - EXAMPLE 4	1
+542	functional	functional  ---  REQUIRE	1
+544	functional	non-functional  ---	0
+549	functional	non-functional  ---	0
+557	functional	functional  ---  REQUIREMENT	1
+558	functional	non-functional  ---	0
+561	functional	non-functional  ---	0
+562	functional	non-functional  ---	0
+563	functional	non-functional  ---	0
+575	functional	functional  ---  REQUIREMENT	1
+581	non-functional	non-functional  ---	0
+588	non-functional	functional  ---  REQUIRE	1
+590	non-functional	functional  ---  REQUIRE	1
+598	non-functional	non-functional  ---	0
+599	non-functional	non-functional  ---  RE	0
+604	functional	functional  ---  REQUIRE	1
+607	non-functional	functional  - EXAMPLE 4	1
+609	non-functional	functional  ---  REQUIRE	1
+613	non-functional	functional  ---  REQUIRE	1
+614	non-functional	functional  ---  REQUIRE	1
+621	non-functional	non-functional  ---	0
+622	non-functional	functional  ---  REQUIRE	1
+625	non-functional	functional  ---  REQUIREMENT	1
+629	functional	non-functional  ---	0
+632	functional	functional  ---  REQUIRE	1
+645	functional	functional  ---  REQUIRE	1
+647	non-functional	functional  ---  REQUIRE	1
+663	functional	non-functional  ---	0
+667	functional	functional  ---  REQUIRE	1
+669	functional	non-functional  ---	0
+677	functional	functional  - EXAMPLE 4	1
+684	functional	functional  ---  REQUIRE	1
+686	non-functional	non-functional  ---	0
+689	functional	non-functional  ---	0
+690	functional	non-functional  ---	0
+703	functional	non-functional  ---	0
+710	functional	functional  ---  REQUIRE	1
+711	functional	functional  ---  REQUIRE	1
+720	functional	functional  ---  REQUIRE	1
+726	non-functional	non-functional  ---	0
+733	functional	non-functional  ---	0
+737	non-functional	non-functional  ---	0
+738	functional	non-functional  ---	0
+747	functional	non-functional  ---	0
+748	non-functional	non-functional  ---	0
+750	non-functional	functional  - EXAMPLE 4	1
+751	non-functional	non-functional  ---	0
+755	non-functional	functional  ---  REQUIRE	1
+757	non-functional	functional  ---  REQUIRE	1
+761	non-functional	non-functional  ---	0
+771	non-functional	functional  ---  REQUIRE	1
+773	non-functional	non-functional  ---	0
+774	functional	functional  ---  REQUIRE	1
+775	functional	non-functional  ---	0
+786	functional	functional  - EXAMPLE 4	1
+791	non-functional	functional  ---  REQUIREMENT	1
+792	non-functional	functional  - EXAMPLE 4	1
+796	non-functional	non-functional  ---	0
+797	non-functional	non-functional  ---	0
+806	non-functional	non-functional  ---	0
+807	non-functional	non-functional  ---	0
+814	functional	functional  ---  REQUIRE	1
+819	functional	functional  ---  REQUIRE	1
+835	functional	non-functional  ---	0
+836	functional	non-functional  ---	0
+837	functional	non-functional  ---	0
+849	functional	functional  ---  REQUIRE	1
+856	non-functional	non-functional  ---	0
+859	functional	functional  ---  REQUIRE	1
+860	functional	non-functional  ---	0
+875	functional	non-functional  ---	0
+891	non-functional	non-functional  ---	0
+896	functional	functional  ---  REQUIRE	1
+899	non-functional	functional  ---  REQUIRE	1
+906	functional	non-functional  ---	0
+912	functional	functional  ---  REQUIRE	1
+925	functional	non-functional  ---	0
+927	functional	functional  ---  REQUIRE	1
+933	functional	non-functional  ---	0
+935	functional	functional  - EXAMPLE 4	1
+939	functional	non-functional  ---	0
+944	non-functional	functional  ---  REQUIRE	1
+945	functional	functional  ---  REQUIRE	1
+946	functional	non-functional  ---	0
+950	functional	functional  ---  REQUIRE	1
+955	non-functional	non-functional  ---	0

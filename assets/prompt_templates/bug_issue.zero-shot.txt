@@ -1,0 +1,8 @@
+In the context of software development repositories, classify the next issue as 'bug' or 'not a bug'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+bug: The issue reports a bug.
+not a bug: The issue does not report a bug.
+
+ISSUE:
+{text}

@@ -1,18 +1,23 @@
-Task type,Task ID,Activity
-Binary classification,bug_issue,Quality assurance
-Binary classification,incivility,Management
-Binary classification,requirement_type,Requirements
-Binary classification,tone_bearing,Management
-Multi-class classification,closed_question,Management
-Multi-class classification,commit_intent,Maintenance
-Multi-class classification,issue_type,Maintenance
-Multi-class classification,question_quality,Management
-Multi-class classification,sentiment,Management
-Multi-label classification,comment_type_java,Development
-Multi-label classification,comment_type_pharo,Development
-Multi-label classification,comment_type_python,Development
-Multi-label classification,review_aspect,Quality assurance
-Multi-label classification,smell_doc,Quality assurance
-Regression,story_points,Management
-NER,se_entities,Development
-MLM,requirement_completion,Requirements
+Task type,Task ID,Activity,Family,Source
+Binary classification,bug_issue,Quality assurance,Code-adjacent metadata,Issue tracking systems
+Binary classification,functional_requirement,Requirements analysis,Core non-code,Requirements specifications
+Binary classification,incivility,Software management,Developer communication,Issue tracking systems + Mailing lists
+Binary classification,quality_requirement,Requirements analysis,Core non-code,Requirements specifications
+Binary classification,safety_issue,Quality assurance,Code-adjacent metadata,Issue tracking systems
+Binary classification,security_requirement,Requirements analysis,Core non-code,Requirements specifications
+Binary classification,tone_bearing,Software management,Developer communication,Issue tracking systems + Mailing lists
+Multi-class classification,closed_question,Software management,Developer communication,Developer forums
+Multi-class classification,commit_intent,Software maintenance,Code-adjacent metadata,Code repositories
+Multi-class classification,issue_intention,Software maintenance,Code-adjacent metadata,Issue tracking systems
+Multi-class classification,issue_type,Software maintenance,Code-adjacent metadata,Issue tracking systems
+Multi-class classification,question_quality,Software management,Developer communication,Developer forums
+Multi-class classification,review_type,Software maintenance,Core non-code,App stores
+Multi-class classification,sentiment,Software management,Developer communication,Code repositories + Developer forums
+Multi-label classification,comment_type_java,Software development,Code-adjacent metadata,Code repositories
+Multi-label classification,comment_type_pharo,Software development,Code-adjacent metadata,Code repositories
+Multi-label classification,comment_type_python,Software development,Code-adjacent metadata,Code repositories
+Multi-label classification,review_aspect,Quality assurance,Core non-code,Developer forums
+Multi-label classification,smell_doc,Quality assurance,Code-adjacent metadata,API documentations
+Regression,story_points,Software management,Core non-code,Issue tracking systems
+NER,se_entities,Software development,Core non-code,Developer forums
+MLM,requirement_completion,Requirements analysis,Core non-code,Requirements specifications

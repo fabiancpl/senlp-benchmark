@@ -1,16 +1,23 @@
-## :microscope: Evaluation
+# Evaluation
 
-In this folder, we include all the scripts to fine-tune/prompt and evaluate the LLMs on the different binary, multi-class, multi-label classification, regression, Named Entity Recognition (NER), and Masked Language Modeling (MLM) tasks.
+This folder includes all the scripts to fine-tune/prompt and evaluate the models on the different SELU tasks.
 
-### :carpentry_saw: Data splitting
+## Split the data
 
-The `split_data.sh` script is intended to split each dataset while controlling experimentation elements such as percentage of instances reserved for testing and number of folds for cross-validation. The resulting file is a CSV with the same number rows of the source dataset but with columns corresponding to the subset the instance is assigned to in each fold: training (1), validation (0), and testing (2).
+The script `split_data.sh` is intended to split a dataset while controlling experimentation elements such as the percentage of instances reserved for testing and the number of folds for cross-validation. The resulting file is a CSV with the same number rows of the source dataset but with columns corresponding to a fold. The values represent whether the instance is assigned to training (1), validation (0) or evaluation (2).
 
-**NOTE:** Although the implementation supports cross-validation, we only report results at hold-out level due to compute budget.
+NOTE: Although the implementation partially supports cross-validation, results are only reported on the evaluation subset because of our compute budget.
 
-### :robot: Models
+Be aware of these paths where the pre-processed datasets are read and the split files are stored:
 
-This is a list of the open-source and proprietary LLMs selected for evaluation. The scripts `finetune_llm.sh`, `finetune_llm_ner.sh`, `finetune_llm_mlm.sh`, and `prompt_llm.py` run the fine-tuning and prompting processes according to the parameters configured.
+```python
+DATASETS_BASE_PATH = "../preprocessing/datasets"
+SPLITS_BASE_PATH = "./splits"
+```
+
+## Models to evaluate
+
+This is a list of the open-source and proprietary LLMs selected for evaluation. The scripts `run_ft_{task_id}.sh` and `prompt_lm.py` run the fine-tuning and prompting exeriments according to the parameters configured for each task.
 
 |     **Model**     | **Size** | **Architecture** | **Domain adaptation** | **License** |
 |:-----------------:|:--------:|:----------------:|:---------------------:|:-----------:|
@@ -39,22 +46,12 @@ This is a list of the open-source and proprietary LLMs selected for evaluation. 
 |       GPT-4o      |     -    |   decoder-only   |       Generalist      | Proprietary |
 | Claude 3.5 Sonnet |     -    |   decoder-only   |                       |             |
 
-Finally, the script `train_baseline.py` runs the training and model selection processes according to the parameters configured.
+Finally, the script `train_baseline.py` runs the training and model selection processes for building the baselines according to the parameters configured.
 
-### :bar_chart: Results
+## Results
 
-In the subfolder `results`, we include the performace scores calculated for the models on each task, in this way:
+The subfolder results includes performace scores calculated for all models on each task as follows:
 
-- finetuning: Scores for the fine-tuned open-source LLMs.
-- text_generation: Scores for the proprietary LLMs.
-- sklearn: Scores for the TFIDF+XGBoost baselines.
-- fasttext: Scores for the FastText baselines.
-
-For both baselines, the subfolder for each task also includes the best hyper-parameters choosen during model selection.
-
-Be aware of these paths where the data is read and stored:
-
-```python
-DATASETS_BASE_PATH = "../preprocessing/datasets"
-SPLITS_BASE_PATH = "./splits"
-```
+- finetuning: Scores for fine-tuning open-source LLMs.
+- prompting: Scores for prompting proprietary LLMs.
+- baselines: Scores for the FastText and TF-IDF+XGBoost baselines.

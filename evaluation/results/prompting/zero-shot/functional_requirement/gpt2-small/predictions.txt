@@ -1,0 +1,195 @@
+index	ground_truth	raw_prediction	parsed_prediction
+4	functional	The GCS shall report the UAV	-2
+11	functional	The GCSMiddleware shall handle the following G	-2
+15	functional	The RealTimeFlightUI shall be a	-2
+22	functional	The route shall be a route.
+
+RE	-2
+32	functional	The route assignment UI shall include a description	-2
+34	functional	The class shall be defined in the following way:	-2
+42	functional	The CGS shall be a CGS	-2
+43	functional	The class shall be defined in the following	-2
+46	functional	The class of the UAV is defined	-2
+50	functional	The class is the class of the U	-2
+52	functional	The VehicleCore shall support virtual UAV	-2
+53	functional	The VehicleCore shall support UAVs	-2
+57	functional	The UAV must be assigned to a	-2
+64	functional	The flight path of the UAV.	-2
+68	functional	The class is the same as the class	-2
+74	non-functional	The UAVActivationManager shall only	-2
+77	functional	The UAV is a UAV.	-2
+87	functional	The class is the same as the requirements	-2
+92	functional	The UAVActivationManager shall ensure	-2
+94	functional	The VehicleCore shall assign a unique ID	-2
+95	functional	The client shall provide a list of all events that	-2
+96	functional	The VehicleCore shall be classified as a	-2
+98	functional	The system must provide a workflow that is	-2
+99	functional	The system must support a single or multiple metadata record	-2
+106	functional	The system must be able to support a	-2
+107	functional	The system must be able to extract metadata	-2
+110	functional	The system should support a set of metadata	-2
+115	functional	The system must support versioning of datasets	-2
+116	functional	The system should display the file size, format and	-2
+125	functional	The system should enable depositor and repository	-2
+128	functional	The system must be able to provide a	-2
+130	non-functional	The system must support access to data sets	-2
+132	functional	The system must remove data from public view	-2
+135	functional	The system must provide a set of search and discovery	-2
+141	functional	The system should support preservation function by generating	-2
+143	functional	The system must report on the number of	-2
+158	non-functional	The user interface shall be designed to be easy to	-2
+159	non-functional	The class shall be defined in the following	-2
+172	non-functional	The system should provide a method of ensuring that the	-2
+181	non-functional	The system must meet the requirements of the	-2
+188	non-functional	The product shall be designed to meet the	-2
+189	non-functional	The product shall be able to perform the	-2
+194	non-functional	The display shall have a class of 'class'	-2
+196	non-functional	Sequential: The requirement includes a set	-2
+202	functional	The system shall allow modification of the display	-2
+204	functional	The system shall filter data by: Ven	-2
+206	functional	The system shall display the local and exercise	-2
+210	non-functional	The system shall be designed to meet the	-2
+211	non-functional	The user interface shall have a standard menu button for	-2
+215	non-functional	The system shall be a system of logical	-2
+220	functional	The product shall be a CMA report	-2
+223	functional	The product shall be a product of the	-2
+237	functional	The system shall be a system of computers	-2
+248	functional	The system shall notify the realtor when	-2
+249	functional	The product shall allow the user to save the property	-2
+250	non-functional	The system shall be easy to use by	-2
+255	functional	The class is a group of classes that	-2
+260	non-functional	The system shall be available for use between	-2
+268	non-functional	The system shall be a system for the	-2
+269	non-functional	The system shall be able to communicate with the central	-2
+272	non-functional	The class must be able to be used	-2
+282	non-functional	The system shall be able to detect and	-2
+288	functional	The class shall be offered in the following	-2
+289	functional	The class shall be offered in the following	-2
+296	non-functional	A clinical class shall be defined as a	-2
+299	functional	Program of Study (PSA)	-2
+306	non-functional	A clinical lab section shall include the clinical	-2
+309	functional	The system shall allow a Program Administrator/	-2
+320	functional	The system will notify affected parties for routine	-2
+323	functional	The system will notify affected parties when changes	-2
+325	functional	The class is a sequence of classes that	-2
+328	functional	The class is a part of the Clinical	-2
+330	non-functional	The Disputes application shall comply with the	-2
+346	non-functional	The Disputes application shall include a list	-2
+360	non-functional	The Disputes System must be accessible by	-2
+364	non-functional	The Disputes System shall provide view access	-2
+371	functional	The Disputes System must provide a confirmation	-2
+376	functional	The Disputes System must provide the ability	-2
+381	functional	The Disputes System shall record the name	-2
+399	non-functional	The class is the same as the class	-2
+403	non-functional	The product shall meet the requirements of the	-2
+412	functional	The class is the same as the requirement	-2
+413	functional	The class is the same as the class	-2
+415	non-functional	The class shall be defined in the following	-2
+416	non-functional	The following are the required classes:	-2
+421	non-functional	The product shall comply with the following requirements	-2
+426	non-functional	The class shall be a class of the	-2
+427	functional	The system shall identify the preferred repair facility	-2
+433	functional	The class shall be defined as follows:	-2
+437	functional	The class shall be defined in the following	-2
+438	functional	The class shall be defined as follows:	-2
+441	functional	The class shall be a class of the	-2
+454	functional	The class shall be a 'functional'	1
+461	non-functional	The product must be able to support the	-2
+472	functional	The product shall allow for the use of	-2
+477	non-functional	The product shall be capable of handling up	-2
+478	non-functional	The product shall be able to process 10	-2
+479	non-functional	The product shall be expected to be a	-2
+480	non-functional	The product shall be used in a non	-2
+481	non-functional	The product must be able to interface with	-2
+491	non-functional	The following are the most common requirements for	-2
+495	non-functional	The product shall be able to be installed	-2
+514	functional	The product will be a new product.	-2
+517	functional	The conference room schedule shall be updated to	-2
+526	functional	The product shall be a functional product.	1
+533	non-functional	The System shall allow for a minimum of	-2
+537	non-functional	The System shall be able to assign access	-2
+542	functional	The class shall be defined as follows:	-2
+544	functional	Product formulas shall be defined in terms of	-2
+549	functional	The following are the categories of the following	-2
+557	functional	System shall allow customers to register on the	-2
+558	functional	System shall allow customers to register on the	-2
+561	functional	System shall let administrator de-activate a	-2
+562	functional	System shall allow administrator to add/remove	-2
+563	functional	System shall let the administrator add/remove	-2
+575	functional	The product shall be easy for customers with	-2
+581	non-functional	The class is the class of the requirements	-2
+588	non-functional	The class is the same as the class	-2
+590	non-functional	The server will support a minimum of 1 000 simultaneous	-2
+598	non-functional	The following requirements apply to the following classes	-2
+599	non-functional	The following are the classifications for the	-2
+604	functional	The website will provide a list of the	-2
+607	non-functional	The class is the same as the requirement	-2
+609	non-functional	The database is a database of customer records	-2
+613	non-functional	The website shall be designed to meet the	-2
+614	non-functional	The class is the most important part of	-2
+621	non-functional	The website should cater to all tribes in	-2
+622	non-functional	The website shall not be offensive to religious	-2
+625	non-functional	IzognMovies shall meet the	-2
+629	functional	The class is the same as the class	-2
+632	functional	The following categories are required for the website	-2
+645	functional	The following are the required classes:	-2
+647	non-functional	The class shall be defined in the following	-2
+663	functional	The class is the most important part of	-2
+667	functional	The class is the most important part of the design	-2
+669	functional	The following is a list of the most	-2
+677	functional	The class is the same as the requirement	-2
+684	functional	The product shall be available to players who	-2
+686	non-functional	The class shall be defined in the following	-2
+689	functional	The game shall be played in a class	-2
+690	functional	The product shall allow a user to remove	-2
+703	functional	The player who is offensive status shall be	-2
+710	functional	The class of the shot shall be the	-2
+711	functional	The ship shall be classified as a class	-2
+720	functional	The game shall be played in a class	-2
+726	non-functional	The system shall be easy to learn by	-2
+733	functional	The product shall be designed to meet the	-2
+737	non-functional	The interface shall be appealing to callers	-2
+738	functional	The product shall provide GUI based Monitoring Services	-2
+747	functional	The product shall provide Dynamic Change Support and	-2
+748	non-functional	The product shall be available 99% of	-2
+750	non-functional	The product shall be a product of the	-2
+751	non-functional	The product shall be able to process all	-2
+755	non-functional	The product shall be a product of the	-2
+757	non-functional	The product shall be a product of the	-2
+761	non-functional	The system shall be displayed on any work	-2
+771	non-functional	The WCS system shall have the ability to	-2
+773	non-functional	The WCS system shall be run in a	-2
+774	functional	The class must be able to export files	-2
+775	functional	The class must be a class of the	-2
+786	functional	The NFL is a professional football league.	-2
+791	non-functional	The primary database will be used to store data for	-2
+792	non-functional	A secondary database will be used to store	-2
+796	non-functional	The following requirements apply to the following classes	-2
+797	non-functional	98% of the user workstations	-2
+806	non-functional	The product interface should be fast. The	-2
+807	non-functional	The application shall be able to run on	-2
+814	functional	The class shall be defined in the following	-2
+819	functional	The class shall be defined in the following	-2
+835	functional	Class name shall be a class name.	-2
+836	functional	The class shall be defined in the following	-2
+837	functional	The requirements are as follows:	-2
+849	functional	The class shall be defined in terms of	-2
+856	non-functional	The class shall be defined in the following way:	-2
+859	functional	The class shall be defined in the following	-2
+860	functional	The class is the same as the current	-2
+875	functional	The class is the same as the class	-2
+891	non-functional	The class shall be a class of the	-2
+896	functional	The WASP platform should provide services that may be	-2
+899	non-functional	The user must be a user of the specified class	-2
+906	functional	The WASP platform shall allow end-	-2
+912	functional	The WASP application shall be able to	-2
+925	functional	The WASP platform must be able to show the	-2
+927	functional	The WASP platform shall be able to	-2
+933	functional	The WASP platform should have access to	-2
+935	functional	The WASP platform should be able to	-2
+939	functional	The class must be a class that is not a	-2
+944	non-functional	The class must be a class of the	-2
+945	functional	The WASP platform must maintain authentication credentials per user	-2
+946	functional	The user's ID should be a valid ID.	-2
+950	functional	The platform must be able to store the service profiles	-2
+955	non-functional	The WASP platform shall handle all requests	-2

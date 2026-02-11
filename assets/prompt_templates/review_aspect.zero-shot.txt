@@ -1,0 +1,17 @@
+In the context of software development community forums, classify the next post as 'usability', 'onlysentiment', 'bug', 'performance', 'community', 'documentation', 'compatibility', 'legal', 'portability', 'security', or 'others'. It is possible to assign more than one class to a post. Answer only with the selected classes separated by semicolon (,) without quotation marks.
+
+The meaning of each class is as follows:
+usability: The post references whether the software is easy to use or how well it is designed to meet specific development requirements.
+onlysentiment: The post expresses opnions about the software without specifying any particular aspect or feature.
+bug: The post reports a bug related to the software.
+performance: The post describes how the software behaves in terms of speed or other performance metrics.
+community: The post describes how supportive/active the community is related to the software. 
+documentation: The post mentions aspects related to the software documentation.
+compatibility: The post details whether the software requires other software or its underlying environment to operate.
+legal: The post describes legal considerations to use the software.
+portability: The post details considerations about the usage of the software across different platforms.
+security: The post mentions whether the software poses any security threats.
+others: The post describes aspects not covered in any of the previous classes.
+
+POST:
+{text}

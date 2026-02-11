@@ -1,0 +1,508 @@
+index	ground_truth	raw_prediction	parsed_prediction
+1	other		-2
+2	corrective		-2
+3	perfective		-2
+6	perfective		-2
+7	perfective	perfective	1
+8	corrective		-2
+9	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+11	other	perfective	1
+12	perfective		-2
+15	perfective	perfective	1
+16	perfective	perfective	1
+20	perfective	other  COMMIT MESSAGE TO CLASSIFY: M	0
+24	perfective		-2
+32	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+40	other	perfective	1
+41	corrective	other  COMMIT MESSAGE TO CLASSIFY: LP	0
+43	corrective		-2
+44	other		-2
+51	perfective	other	0
+53	corrective	corrective  fix the plexus requirement CLASS	2
+54	perfective		-2
+58	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+61	other		-2
+64	corrective		-2
+65	other		-2
+74	perfective	perfective	1
+82	corrective	perfective	1
+83	corrective		-2
+87	other	perfective	1
+88	perfective		-2
+91	corrective		-2
+98	other		-2
+99	corrective	perfective	1
+102	other		-2
+103	other		-2
+104	perfective		-2
+113	other		-2
+121	perfective		-2
+126	other	perfective	1
+131	perfective		-2
+133	perfective		-2
+134	corrective		-2
+137	other		-2
+141	perfective		-2
+148	other		-2
+153	perfective		-2
+156	other		-2
+158	other	perfective	1
+161	corrective		-2
+167	perfective		-2
+175	perfective	perfective	1
+181	other		-2
+189	perfective		-2
+195	perfective		-2
+200	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+217	perfective		-2
+218	other		-2
+226	perfective		-2
+238	other		-2
+241	other		-2
+249	perfective		-2
+251	perfective		-2
+253	perfective	perfective	1
+256	perfective		-2
+263	perfective		-2
+267	perfective		-2
+271	other		-2
+275	perfective		-2
+282	other		-2
+286	corrective		-2
+293	perfective	perfective  Fix a bug in the code that	1
+297	perfective		-2
+298	perfective		-2
+302	other		-2
+303	other		-2
+307	other		-2
+311	perfective		-2
+312	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+315	corrective		-2
+326	other		-2
+335	other		-2
+353	perfective		-2
+357	perfective	other	0
+359	perfective		-2
+384	other		-2
+387	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+393	perfective		-2
+400	other		-2
+416	perfective		-2
+419	other		-2
+420	perfective		-2
+424	perfective		-2
+433	perfective		-2
+435	perfective		-2
+438	perfective		-2
+441	other		-2
+443	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+446	perfective		-2
+449	perfective		-2
+455	perfective		-2
+456	other		-2
+462	perfective	perfective	1
+474	perfective		-2
+478	perfective	perfective	1
+483	perfective		-2
+486	perfective		-2
+488	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+508	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+509	perfective		-2
+512	corrective		-2
+513	perfective		-2
+518	perfective		-2
+526	perfective		-2
+540	perfective		-2
+544	perfective		-2
+545	other		-2
+559	perfective		-2
+562	perfective	perfective	1
+566	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+567	perfective		-2
+568	perfective		-2
+570	perfective		-2
+573	other	perfective	1
+576	perfective		-2
+579	other		-2
+580	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+592	perfective		-2
+596	corrective		-2
+604	perfective		-2
+606	other		-2
+611	perfective	perfective	1
+620	other		-2
+633	perfective		-2
+635	perfective		-2
+639	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+651	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+659	corrective		-2
+667	perfective		-2
+674	perfective	perfective	1
+677	perfective		-2
+694	perfective	perfective	1
+696	corrective		-2
+697	perfective	perfective	1
+702	perfective		-2
+706	other		-2
+708	other		-2
+718	other		-2
+731	corrective		-2
+736	perfective		-2
+741	corrective		-2
+749	corrective		-2
+752	other		-2
+753	other		-2
+762	corrective		-2
+764	other		-2
+767	other	other  COMMIT MESSAGE TO CLASSIFY: F	0
+770	corrective		-2
+771	perfective		-2
+776	corrective		-2
+777	perfective		-2
+785	perfective		-2
+795	other		-2
+796	perfective		-2
+801	other		-2
+804	other		-2
+805	corrective		-2
+819	perfective		-2
+824	corrective		-2
+825	corrective		-2
+833	other		-2
+834	corrective		-2
+841	corrective		-2
+851	corrective		-2
+853	other		-2
+854	other		-2
+856	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+857	corrective		-2
+859	other		-2
+864	corrective		-2
+871	other	perfective	1
+874	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+897	perfective		-2
+900	perfective		-2
+904	perfective		-2
+914	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+926	corrective		-2
+927	other		-2
+933	corrective		-2
+935	other		-2
+936	corrective		-2
+941	perfective		-2
+943	other		-2
+948	corrective		-2
+957	other		-2
+981	perfective	perfective	1
+982	perfective		-2
+986	perfective		-2
+989	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+992	corrective		-2
+996	other		-2
+999	perfective		-2
+1005	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1008	perfective		-2
+1009	corrective		-2
+1011	perfective	perfective	1
+1020	perfective		-2
+1021	perfective	perfective  EXPAND_PRETTY was not pretty	1
+1023	perfective		-2
+1030	other		-2
+1032	perfective		-2
+1034	perfective		-2
+1038	corrective		-2
+1040	perfective		-2
+1051	corrective		-2
+1053	perfective		-2
+1058	perfective	perfective	1
+1061	perfective	perfective	1
+1063	perfective		-2
+1072	other		-2
+1073	perfective	perfective	1
+1083	perfective	perfective	1
+1093	other		-2
+1098	corrective		-2
+1099	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1105	perfective		-2
+1108	perfective		-2
+1114	corrective		-2
+1116	perfective		-2
+1123	perfective		-2
+1136	corrective	corrective	2
+1143	other		-2
+1150	corrective		-2
+1160	perfective		-2
+1162	perfective	perfective	1
+1164	other		-2
+1166	other		-2
+1168	corrective	perfective	1
+1178	other	perfective	1
+1184	other	perfective	1
+1185	perfective		-2
+1187	perfective		-2
+1188	corrective		-2
+1189	perfective		-2
+1203	perfective		-2
+1213	corrective		-2
+1221	corrective		-2
+1231	perfective		-2
+1234	perfective		-2
+1237	corrective		-2
+1240	corrective	corrective  COMMIT MESSAGE TO CLASSIFY: Added	2
+1242	other		-2
+1243	perfective		-2
+1249	corrective		-2
+1260	other		-2
+1262	corrective		-2
+1270	other	perfective	1
+1271	other		-2
+1275	perfective		-2
+1279	perfective		-2
+1283	corrective		-2
+1289	corrective		-2
+1292	other		-2
+1294	other		-2
+1297	other	perfective	1
+1302	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1303	corrective		-2
+1306	other		-2
+1307	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1313	perfective	perfective	1
+1320	other		-2
+1323	corrective		-2
+1324	perfective		-2
+1326	perfective		-2
+1333	other		-2
+1334	corrective		-2
+1339	perfective		-2
+1340	corrective	corrective  COMMIT MESSAGE TO CLASSIFY: PH	2
+1342	corrective		-2
+1348	other	perfective	1
+1351	perfective	perfective	1
+1361	corrective		-2
+1362	other		-2
+1366	corrective		-2
+1368	corrective		-2
+1374	other		-2
+1375	perfective		-2
+1384	corrective	corrective	2
+1386	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1390	perfective		-2
+1393	corrective	corrective  fix CLASS: corrective  fix	2
+1394	other	perfective	1
+1401	corrective	perfective	1
+1405	corrective		-2
+1406	corrective		-2
+1410	corrective		-2
+1413	corrective		-2
+1414	corrective		-2
+1417	other	perfective	1
+1421	perfective		-2
+1422	corrective		-2
+1429	corrective		-2
+1447	corrective		-2
+1448	perfective		-2
+1469	perfective		-2
+1473	perfective		-2
+1477	other		-2
+1480	other		-2
+1484	other	perfective	1
+1488	other		-2
+1489	other		-2
+1490	corrective		-2
+1491	other		-2
+1495	corrective		-2
+1497	perfective		-2
+1499	corrective		-2
+1501	other		-2
+1504	corrective		-2
+1511	other		-2
+1514	other		-2
+1516	corrective		-2
+1517	other		-2
+1518	other		-2
+1542	other		-2
+1544	perfective	perfective	1
+1547	corrective	perfective	1
+1553	corrective		-2
+1555	other		-2
+1559	other		-2
+1561	other		-2
+1569	other		-2
+1574	corrective		-2
+1575	perfective		-2
+1576	perfective		-2
+1578	other		-2
+1581	corrective		-2
+1587	corrective	perfective	1
+1589	other		-2
+1593	other		-2
+1595	other		-2
+1596	perfective		-2
+1611	other		-2
+1612	corrective		-2
+1616	perfective	perfective	1
+1620	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1625	perfective		-2
+1630	perfective		-2
+1632	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1634	corrective		-2
+1646	perfective		-2
+1648	perfective		-2
+1650	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1661	perfective		-2
+1666	perfective		-2
+1669	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1672	corrective		-2
+1674	corrective		-2
+1677	other		-2
+1679	corrective	perfective  ---  COMMIT MESSAGE TO CLASSIFY	1
+1695	perfective		-2
+1702	other	other	0
+1715	corrective	perfective	1
+1727	perfective		-2
+1731	corrective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1752	perfective	perfective	1
+1756	perfective		-2
+1762	perfective	perfective	1
+1769	corrective		-2
+1774	perfective		-2
+1776	other		-2
+1777	perfective		-2
+1778	corrective		-2
+1779	perfective		-2
+1785	corrective		-2
+1791	corrective	perfective	1
+1793	corrective		-2
+1795	perfective		-2
+1796	other		-2
+1798	perfective	perfective	1
+1801	other	perfective	1
+1824	corrective		-2
+1826	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+1833	corrective	perfective	1
+1835	perfective	perfective	1
+1839	perfective		-2
+1843	perfective		-2
+1852	other		-2
+1855	other		-2
+1856	other		-2
+1857	other		-2
+1858	corrective		-2
+1861	perfective		-2
+1865	perfective		-2
+1868	other		-2
+1870	other		-2
+1872	other		-2
+1887	other	perfective	1
+1891	corrective		-2
+1892	other	other	0
+1901	other		-2
+1908	perfective		-2
+1909	corrective		-2
+1920	corrective		-2
+1924	perfective	perfective	1
+1929	corrective		-2
+1934	corrective		-2
+1941	other		-2
+1942	corrective	perfective	1
+1944	corrective		-2
+1957	corrective		-2
+1959	corrective		-2
+1960	corrective		-2
+1965	other		-2
+1968	corrective		-2
+1973	corrective		-2
+1979	corrective		-2
+1989	corrective		-2
+1991	corrective		-2
+2021	perfective		-2
+2023	other		-2
+2025	other		-2
+2028	corrective		-2
+2034	perfective		-2
+2035	corrective		-2
+2036	corrective	perfective	1
+2038	other		-2
+2045	corrective		-2
+2046	perfective		-2
+2062	corrective		-2
+2078	perfective		-2
+2093	other		-2
+2096	perfective	perfective	1
+2098	other		-2
+2099	other		-2
+2103	other		-2
+2113	perfective		-2
+2117	corrective		-2
+2125	corrective		-2
+2127	other		-2
+2140	other		-2
+2143	perfective		-2
+2147	other		-2
+2151	perfective	perfective	1
+2170	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+2182	perfective		-2
+2184	perfective		-2
+2188	other		-2
+2189	corrective	perfective	1
+2193	other		-2
+2195	perfective		-2
+2198	other	perfective	1
+2223	corrective		-2
+2226	corrective		-2
+2228	other		-2
+2229	other		-2
+2232	other		-2
+2235	other		-2
+2245	corrective		-2
+2249	perfective		-2
+2251	corrective		-2
+2252	other		-2
+2253	perfective	perfective	1
+2260	other	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+2268	corrective		-2
+2289	perfective	perfective	1
+2290	corrective		-2
+2293	other	perfective	1
+2295	perfective		-2
+2309	other		-2
+2310	other		-2
+2311	other		-2
+2312	other		-2
+2313	corrective		-2
+2321	other		-2
+2330	perfective		-2
+2331	other		-2
+2332	perfective	perfective  ---  COMMIT MESSAGE TO CLASSIFY	1
+2336	other		-2
+2340	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+2342	corrective		-2
+2344	corrective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+2348	corrective		-2
+2355	other		-2
+2356	corrective		-2
+2357	other		-2
+2361	perfective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+2370	corrective		-2
+2402	corrective	perfective  COMMIT MESSAGE TO CLASSIFY:	1
+2409	other		-2
+2410	perfective		-2
+2415	other	perfective	1
+2418	other		-2
+2425	other		-2
+2434	other		-2
+2435	perfective	perfective	1
+2438	perfective		-2
+2444	other		-2
+2474	perfective		-2
+2476	corrective		-2
+2482	perfective		-2
+2483	perfective	perfective	1
+2487	corrective		-2
+2488	other		-2
+2492	corrective		-2
+2499	other		-2
+2519	other	EPPELIN-917 and squashes the following	-2
+2520	other	other	0
+2527	other	perfective	1

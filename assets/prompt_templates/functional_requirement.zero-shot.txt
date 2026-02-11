@@ -1,0 +1,8 @@
+In the context of requirements analysis in software engineering, classify the next requirement as 'functional' or 'non-functional'. Answer only with the selected class without quotation marks.
+
+The meaning of each class is as follows:
+functional: The requirement includes some functional aspect (functional goal or functional constraint).
+non-functional: The requirement does not include any functional aspects (quality goal or quality constraint).
+
+REQUIREMENT:
+{text}

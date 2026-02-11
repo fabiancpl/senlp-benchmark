@@ -1,7 +1,7 @@
 """Text pre-processing steps.
 
-This module implements all the required steps for text pre-processing
-following the Scikit-Learn Pipeline interface.
+This module implements all the required steps for text pre-processing following the Scikit-Learn
+Pipeline interface.
 """
 
 import re
@@ -75,7 +75,7 @@ class HTMLExtractor(BaseEstimator, TransformerMixin):
         return self
 
     def transform(self, X, y=None):
-        return X.swifter.apply(self._extract)
+        return X.swifter.progress_bar(desc="Cleaning HTML tags").apply(self._extract)
 
 
 class Jira2MarkdownConverter(BaseEstimator, TransformerMixin):
@@ -110,7 +110,7 @@ class Jira2MarkdownConverter(BaseEstimator, TransformerMixin):
         return self
 
     def transform(self, X, y=None):
-        return X.swifter.apply(self._convert)
+        return X.swifter.progress_bar(desc="Cleaning JIRA tags").apply(self._convert)
 
 
 class RegexMasker(BaseEstimator, TransformerMixin):
@@ -142,4 +142,4 @@ class RegexMasker(BaseEstimator, TransformerMixin):
         return self
 
     def transform(self, X, y=None):
-        return X.swifter.apply(self._mask)
+        return X.swifter.progress_bar(desc=f"Masking {self.mask}").apply(self._mask)

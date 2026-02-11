@@ -1,0 +1,1321 @@
+index	ground_truth	raw_prediction	parsed_prediction
+3	technical	technical	0
+4	technical	technical	0
+5	technical	technical	0
+9	technical	technical	0
+16	technical	technical	0
+34	technical	non-technical	1
+54	technical	technical	0
+55	technical	non-technical   Note: The classification of	1
+64	technical	technical non-technical technical non	0
+66	technical	non-technical	1
+77	technical	non-technical	1
+94	technical	technical EXPLANATION: The sentence is technical	0
+98	technical	technical non-technical technical non	0
+114	technical	technical	0
+116	technical	technical non-technical technical non	0
+117	technical	technical non-technical technical non	0
+119	technical	technical	0
+125	technical	technical	0
+126	technical	technical non-technical technical non	0
+127	technical	technical	0
+130	technical	technical	0
+133	technical	technical non-technical technical non	0
+137	technical	technical	0
+143	technical	technical	0
+146	technical	technical	0
+154	technical	technical	0
+160	technical	technical	0
+161	technical	technical   Please note that the text is from	0
+164	technical	technical non-technical technical non	0
+189	technical	technical non-technical technical non	0
+190	technical	non-technical CLASS: technical CLASS:	1
+197	technical	non-technical	1
+200	technical	technical non-technical technical non	0
+201	technical	technical	0
+202	technical	technical non-technical technical non	0
+206	technical	technical	0
+223	technical	technical	0
+224	technical	non-technical	1
+225	technical	technical	0
+232	technical	non-technical	1
+235	technical	technical	0
+241	technical	technical	0
+242	technical	technical reviewed-by: Gilad Ben	0
+249	technical	technical	0
+253	technical	technical	0
+255	technical	non-technical CLASS: technical CLASS:	1
+260	technical	technical non-technical technical non	0
+262	technical	non-technical	1
+280	technical	technical non-technical technical non	0
+285	technical	technical	0
+301	technical	non-technical	1
+302	technical	non-technical	1
+320	technical	technical EXPLANATION: The sentence is technical	0
+327	technical	technical non-technical technical non	0
+335	technical	technical	0
+337	technical	non-technical	1
+341	technical	non-technical   Please note that the text	1
+345	technical	technical   Please note that the response is based	0
+357	technical	technical	0
+362	technical	technical EXPLANATION: The sentence is	0
+364	technical	technical EXPLANATION: The sentence is technical	0
+375	technical	non-technical	1
+379	technical	technical	0
+384	technical	non-technical	1
+385	technical	technical	0
+388	technical	non-technical	1
+391	technical	. Buddy pool is a mechanism to manage huge page	-2
+395	technical	technical	0
+404	technical	technical	0
+412	technical	technical	0
+417	technical	technical	0
+419	technical	technical EXPLANATION: The sentence is technical	0
+455	technical	non-technical	1
+466	technical	non-technical	1
+467	technical	non-technical	1
+470	technical	technical	0
+474	technical	technical	0
+477	technical	technical non-technical technical non	0
+488	technical	technical	0
+492	technical	non-technical No, I made a mistake	1
+499	technical	non-technical	1
+502	technical	technical non-technical technical non	0
+504	technical	non-technical	1
+510	technical	non-technical	1
+512	technical	technical	0
+513	technical	non-technical	1
+523	technical	technical EXPLANATION: The sentence is technical	0
+524	technical	technical EXPLANATION: The sentence is technical	0
+525	technical	technical non-technical technical non	0
+536	technical	non-technical CLASS: technical CLASS:	1
+537	technical	technical non-technical technical non	0
+539	technical	non-technical	1
+559	technical	technical	0
+562	technical	non-technical	1
+563	technical	non-technical	1
+569	technical	technical	0
+574	technical	technical non-technical technical non	0
+580	technical	technical non-technical technical non	0
+595	technical	technical	0
+600	technical	non-technical	1
+603	technical	non-technical   Note: The sentence is	1
+606	technical	technical	0
+608	technical	technical	0
+616	technical	technical	0
+623	technical	technical	0
+635	technical	technical The sentence is classified as 'technical'	0
+638	technical	technical non-technical technical non	0
+645	technical	technical non-technical technical non	0
+646	technical	technical	0
+659	technical	non-technical	1
+663	technical	technical	0
+666	technical	technical	0
+667	technical	non-technical	1
+671	technical	technical non-technical technical non	0
+673	technical	technical	0
+675	technical	technical	0
+688	technical	technical The sentence is classified as 'technical'	0
+698	technical	technical	0
+699	technical	technical	0
+709	technical	non-technical	1
+713	technical	technical non-technical technical non	0
+716	technical	technical non-technical technical non	0
+717	technical	before, I've been playing with bin hoping as	-2
+722	technical	technical non-technical technical non	0
+723	technical	technical	0
+728	technical	non-technical	1
+732	technical	non-technical	1
+740	technical	technical non-technical technical non	0
+753	technical	technical	0
+760	technical	technical EXPLANATION: The sentence is technical	0
+766	technical	technical	0
+768	technical	technical	0
+769	technical	technical	0
+770	technical	technical	0
+774	technical	non-technical	1
+775	technical	technical	0
+784	technical	storage" principle, but I'm sure it's	-2
+793	technical	non-technical	1
+797	technical	technical	0
+804	technical	technical	0
+814	technical	non-technical	1
+815	technical	non-technical	1
+822	technical	non-technical	1
+823	technical	non-technical   Corrected answer: technical	1
+825	technical	technical	0
+827	technical	technical	0
+830	technical	non-technical	1
+832	technical	non-technical	1
+846	technical	technical non-technical technical non	0
+851	technical	technical non-technical technical non	0
+853	technical	technical	0
+854	technical	technical non-technical technical non	0
+860	technical	non-technical	1
+863	technical	technical non-technical technical non	0
+870	technical	technical non-technical technical non	0
+872	technical	non-technical	1
+876	technical	non-technical	1
+878	technical	technical	0
+894	technical	non-technical	1
+895	technical	non-technical   Note: The sentence is	1
+899	technical	technical	0
+901	technical	technical non-technical technical non	0
+914	technical	technical non-technical technical non	0
+918	technical	non-technical	1
+919	technical	technical non-technical technical non	0
+922	technical	non-technical	1
+924	technical	non-technical	1
+928	technical	technical non-technical technical non	0
+943	technical	technical Please provide the message you would like	0
+946	technical	non-technical	1
+950	technical	non-technical CLASS: technical CLASS:	1
+951	technical	non-technical EXPLANATION: The	1
+953	technical	non-technical	1
+954	technical	technical non-technical technical non	0
+956	technical	technical non-technical technical technical	0
+959	technical	non-technical	1
+966	technical	non-technical	1
+971	technical	technical	0
+975	technical	technical	0
+980	technical	technical non-technical technical non	0
+984	technical	non-technical	1
+989	technical	technical non-technical technical non	0
+991	technical	technical	0
+992	technical	technical	0
+995	technical	technical non-technical technical non	0
+1012	technical	non-technical EXPLANATION: The sentence	1
+1015	technical	technical non-technical technical non	0
+1016	technical	technical The patches are ready for review. Please	0
+1021	technical	non-technical	1
+1028	technical	technical	0
+1045	technical	technical	0
+1059	technical	non-technical EXPLANATION: The	1
+1060	technical	technical EXPLANATION: The sentence is	0
+1062	technical	technical non-technical technical non	0
+1063	technical	technical non-technical technical non	0
+1065	technical	technical	0
+1066	technical	technical	0
+1069	technical	technical	0
+1076	technical	technical	0
+1077	technical	technical	0
+1081	technical	technical	0
+1082	technical	, we need to support applications running on older kernels	-2
+1118	technical	non-technical	1
+1120	technical	technical non-technical technical non	0
+1122	technical	non-technical	1
+1139	technical	technical non-technical technical non	0
+1141	technical	technical	0
+1145	technical	technical EXPLANATION: The question is asking	0
+1147	technical	technical EXPLANATION: The sentence is technical	0
+1148	technical	technical	0
+1150	technical	technical non-technical technical non	0
+1154	technical	technical EXPLANATION: The sentence is technical	0
+1155	technical	non-technical CLASS: technical CLASS:	1
+1156	technical	technical EXPLANATION: The sentence is technical	0
+1160	technical	technical	0
+1166	technical	technical EXPLANATION: The sentence is technical	0
+1167	technical	non-technical REASON: The sentence contains	1
+1169	technical	technical non-technical technical non	0
+1184	technical	non-technical	1
+1191	technical	non-technical	1
+1202	technical	technical EXPLANATION: The sentence is technical	0
+1205	technical	technical	0
+1214	technical	non-technical CLASS: technical CLASS:	1
+1217	technical	technical	0
+1218	technical	technical non-technical technical non	0
+1243	technical	technical	0
+1248	technical	non-technical	1
+1250	technical	technical non-technical technical non	0
+1252	technical	technical	0
+1254	technical	non-technical	1
+1256	technical	non-technical	1
+1267	technical	non-technical CLASS: technical CLASS:	1
+1275	technical	technical non-technical technical non	0
+1276	technical	technical non-technical technical non	0
+1282	technical	non-technical	1
+1291	technical	non-technical CLASS: technical CLASS:	1
+1296	technical	non-technical	1
+1300	technical	technical non-technical technical non	0
+1306	technical	non-technical	1
+1308	technical	non-technical	1
+1311	technical	non-technical	1
+1312	technical	technical	0
+1314	technical	technical non-technical technical non	0
+1318	technical	technical	0
+1324	technical	non-technical	1
+1333	non-technical	non-technical	1
+1346	non-technical	that. We can use the code as a starting	-2
+1352	non-technical	technical non-technical technical non	0
+1355	non-technical	technical non-technical technical non	0
+1368	non-technical	technical non-technical technical non	0
+1369	non-technical	non-technical	1
+1372	non-technical	space before they can be executed. This is a	-2
+1378	non-technical	that there is a disconnect between what I am trying	-2
+1380	non-technical	technical non-technical technical non	0
+1397	non-technical	non-technical	1
+1399	non-technical	non-technical	1
+1401	non-technical	non-technical	1
+1403	non-technical	non-technical	1
+1405	non-technical	technical	0
+1412	non-technical	technical non-technical technical non	0
+1413	non-technical	technical EXPLANATION:  The sentence is	0
+1419	non-technical	technical   Note: The conversation is a snippet	0
+1428	non-technical	non-technical CLASS: technical CLASS:	1
+1437	non-technical	non-technical	1
+1438	non-technical	technical	0
+1442	non-technical	non-technical	1
+1444	non-technical	technical	0
+1457	non-technical	non-technical	1
+1463	non-technical	technical	0
+1482	non-technical	oting the 2G limit is not a good	-2
+1490	non-technical	technical	0
+1497	technical	technical	0
+1499	technical	technical	0
+1500	technical	technical -1 on this.  CLASS:	0
+1510	technical	non-technical	1
+1516	technical	technical	0
+1521	technical	technical	0
+1526	technical	technical non-technical technical non	0
+1531	technical	technical	0
+1533	technical	technical non-technical technical non	0
+1537	technical	technical	0
+1552	technical	technical The root filesystem is the part of	0
+1556	technical	technical	0
+1564	technical	technical	0
+1577	technical	non-technical	1
+1613	technical	technical non-technical technical non	0
+1628	technical	technical	0
+1638	technical	non-technical	1
+1646	technical	technical	0
+1649	technical	technical	0
+1652	technical	technical	0
+1661	technical	technical non-technical technical non	0
+1663	technical	non-technical	1
+1668	technical	technical	0
+1684	technical	technical EXPLANATION: The sentence is technical	0
+1695	technical	technical EXPLANATION: The sentence demonstrates m	0
+1696	technical	technical EXPLANATION: The sentence is technical	0
+1697	technical	technical non-technical technical non	0
+1699	technical	non-technical EXPLANATION: The	1
+1708	technical	technical non-technical technical non	0
+1710	technical	non-technical	1
+1736	technical	technical	0
+1738	technical	technical non-technical technical non	0
+1739	technical	technical EXPLANATION: The sentence is technical	0
+1741	technical	technical non-technical technical non	0
+1742	technical	technical non-technical technical non	0
+1749	technical	technical non-technical technical non	0
+1753	technical	Technical  Note: The sentence is written in	0
+1765	technical	non-technical	1
+1771	technical	technical EXPLANATION: The sentence is technical	0
+1772	technical	technical EXPLANATION: The sentence is technical	0
+1773	technical	technical non-technical technical non	0
+1787	technical	technical	0
+1793	technical	technical non-technical technical non	0
+1799	technical	technical	0
+1801	technical	technical non-technical technical non	0
+1803	technical	technical non-technical technical non	0
+1804	technical	technical non-technical technical non	0
+1807	technical	non-technical	1
+1813	technical	non-technical	1
+1814	technical	technical non-technical technical non	0
+1816	technical	technical non-technical technical non	0
+1831	technical	non-technical EXPLANATION: The	1
+1832	technical	non-technical	1
+1836	technical	technical non-technical technical non	0
+1841	technical	technical   Please provide the next sentence for classification	0
+1846	technical	technical	0
+1847	technical	technical non-technical technical non	0
+1848	technical	technical	0
+1850	technical	technical	0
+1853	technical	technical	0
+1854	technical	technical EXPLANATION: The sentence is technical	0
+1855	technical	technical	0
+1861	technical	non-technical	1
+1864	technical	non-technical	1
+1875	technical	technical	0
+1883	technical	technical	0
+1887	technical	non-technical  technical non-technical	1
+1890	technical	technical non-technical technical non	0
+1892	technical	technical	0
+1901	technical	non-technical	1
+1902	technical	non-technical	1
+1921	technical	technical	0
+1925	technical	technical	0
+1927	technical	non-technical	1
+1929	technical	technical	0
+1960	technical	technical non-technical technical non	0
+1962	technical	technical The quality drop is obvious. CLASS:	0
+1970	technical	technical EXPLANATION: The sentence is technical	0
+1974	technical	non-technical	1
+1978	technical	technical	0
+1984	technical	technical	0
+1987	technical	technical	0
+1991	technical	non-technical	1
+1992	technical	technical EXPLANATION: The sentence is classified	0
+1995	technical	non-technical	1
+1996	technical	technical EXPLANATION: The sentence is technical	0
+2002	technical	technical	0
+2006	technical	technical EXPLANATION: The sentence is technical	0
+2009	technical	non-technical	1
+2011	technical	technical non-technical technical non	0
+2016	technical	technical  non-technical  technical  non	0
+2020	technical	non-technical	1
+2021	technical	technical	0
+2022	technical	non-technical	1
+2024	technical	technical	0
+2025	technical	technical EXPLANATION: The sentence is technical	0
+2031	technical	technical non-technical technical non	0
+2033	technical	technical non-technical technical non	0
+2055	technical	technical REASON: The sentence is written in	0
+2063	technical	technical EXPLANATION: The sentence is	0
+2067	technical	non-technical EXPLANATION: The	1
+2069	technical	technical	0
+2074	technical	technical non-technical technical non	0
+2076	technical	technical non-technical technical non	0
+2085	technical	technical non-technical technical non	0
+2088	technical	technical non-technical technical non	0
+2098	technical	technical non-technical technical non	0
+2099	technical	technical	0
+2112	technical	technical	0
+2123	technical	non-technical	1
+2126	technical	technical	0
+2127	technical	technical EXPLANATION: The sentence is technical	0
+2136	technical	technical	0
+2137	technical	non-technical	1
+2138	technical	technical non-technical technical non	0
+2143	technical	technical	0
+2144	technical	technical	0
+2149	technical	technical EXPLANATION: The sentence is technical	0
+2150	technical	technical non-technical technical non	0
+2152	technical	technical	0
+2154	technical	technical	0
+2158	technical	non-technical	1
+2162	technical	technical	0
+2164	technical	technical non-technical technical non	0
+2165	technical	technical non-technical technical non	0
+2166	technical	technical	0
+2168	technical	technical non-technical technical non	0
+2185	technical	technical	0
+2194	technical	technical	0
+2195	technical	non-technical	1
+2203	technical	technical	0
+2206	technical	technical non-technical technical non	0
+2207	technical	non-technical	1
+2209	technical	technical non-technical technical non	0
+2215	technical	technical non-technical technical non	0
+2216	technical	technical non-technical technical non	0
+2217	technical	technical EXPLANATION: The sentence is technical	0
+2223	technical	technical non-technical technical non	0
+2224	technical	technical	0
+2228	technical	non-technical	1
+2229	technical	technical non-technical technical non	0
+2230	technical	technical non-technical technical non	0
+2233	technical	technical	0
+2238	technical	technical non-technical technical non	0
+2243	technical	technical	0
+2247	technical	non-technical	1
+2249	technical	technical	0
+2250	technical	non-technical	1
+2273	technical	technical non-technical technical non	0
+2284	technical	technical	0
+2290	technical	technical	0
+2293	technical	technical	0
+2296	technical	technical non-technical technical non	0
+2304	technical	technical non-technical technical non	0
+2309	technical	to use 3rd party components, which were	-2
+2311	technical	technical non-technical technical non	0
+2318	technical	non-technical	1
+2319	technical	technical non-technical technical non	0
+2320	technical	technical	0
+2324	technical	technical non-technical technical non	0
+2326	technical	technical non-technical technical non	0
+2328	technical	non-technical	1
+2329	technical	technical	0
+2333	technical	technical	0
+2348	technical	technical	0
+2356	technical	technical	0
+2358	technical	non-technical	1
+2360	technical	technical EXPLANATION: The sentence is technical	0
+2361	technical	technical	0
+2366	technical	non-technical	1
+2368	technical	non-technical	1
+2371	technical	technical   Please note that the above response is	0
+2372	technical	technical   Please note that the sentence is classified	0
+2373	technical	non-technical	1
+2382	technical	non-technical EXPLANATION: The sentence	1
+2387	technical	non-technical	1
+2405	technical	technical EXPLANATION: The sentence is technical	0
+2411	technical	technical OR CLASS: non-technical	0
+2423	technical	technical	0
+2429	technical	non-technical CLASSIFICATION: technical CLASS	1
+2430	technical	non-technical	1
+2433	technical	technical	0
+2446	technical	technical non-technical technical non	0
+2454	technical	technical	0
+2462	technical	non-technical REASON: The sentence demonstrates	1
+2464	technical	technical	0
+2468	technical	technical non-technical technical non	0
+2492	technical	technical non-technical technical non	0
+2494	technical	technical non-technical technical non	0
+2495	technical	non-technical	1
+2500	technical	technical	0
+2504	technical	technical	0
+2511	technical	technical	0
+2517	technical	technical	0
+2530	technical	technical non-technical technical non	0
+2531	technical	technical	0
+2536	technical	non-technical	1
+2539	technical	technical	0
+2544	technical	technical	0
+2553	technical	non-technical	1
+2554	technical	technical non-technical technical non	0
+2559	technical	technical EXPLANATION: The sentence is technical	0
+2561	technical	non-technical EXPLANATION: The sentence	1
+2565	technical	technical	0
+2595	technical	non-technical	1
+2601	technical	non-technical	1
+2603	technical	technical	0
+2611	technical	non-technical	1
+2612	technical	technical non-technical technical non	0
+2617	technical	technical EXPLANATION: The sentence is technical	0
+2622	technical	technical	0
+2623	technical	technical	0
+2640	technical	non-technical	1
+2647	technical	technical AUTHOR:  DATE:  TITLE	0
+2650	technical	technical non-technical technical non	0
+2653	technical	non-technical REASON: The sentence includes	1
+2657	technical	the project team are usually volunteers, but they are	-2
+2658	technical	technical	0
+2659	technical	technical EXPLANATION: The sentence is classified	0
+2670	technical	technical	0
+2672	technical	technical non-technical technical non	0
+2676	technical	non-technical	1
+2679	technical	into the Windows Terminal Stories feature. This would	-2
+2692	technical	. We need to be cautious and considerate of	-2
+2705	technical	technical EXPLANATION: The sentence is classified	0
+2706	technical	technical	0
+2707	technical	technical	0
+2714	technical	non-technical	1
+2719	technical	non-technical EXPLANATION: The sentence	1
+2724	technical	technical	0
+2725	technical	non-technical	1
+2726	technical	technical EXPLANATION: The sentence is technical	0
+2728	technical	technical non-technical technical non	0
+2731	technical	non-technical	1
+2733	technical	technical	0
+2736	technical	technical CLASS: non-technical CLASS:	0
+2758	technical	technical	0
+2761	technical	technical	0
+2763	technical	non-technical	1
+2765	technical	technical non-technical technical non	0
+2780	technical	thing we are trying to avoid. So, in	-2
+2781	technical	technical non-technical technical non	0
+2784	technical	technical	0
+2789	technical	technical EXPLANATION: The sentence is	0
+2793	technical	non-technical	1
+2794	technical	technical non-technical technical non	0
+2803	technical	technical non-technical technical non	0
+2813	technical	technical	0
+2828	technical	technical	0
+2842	technical	technical non-technical technical non	0
+2843	technical	non-technical	1
+2849	technical	technical	0
+2858	technical	technical non-technical technical non	0
+2861	technical	etc. etc. etc. You start out with	-2
+2863	technical	the future of UI development. Flutter is the only	-2
+2869	technical	technical	0
+2871	technical	technical	0
+2876	technical	non-technical	1
+2877	technical	technical EXPLANATION: The sentence is technical	0
+2880	technical	technical non-technical other technical	0
+2881	technical	technical EXPLANATION: The sentence is classified	0
+2885	technical	non-technical EXPLANATION: The sentence	1
+2892	technical	non-technical	1
+2897	technical	technical	0
+2898	technical	non-technical	1
+2899	technical	technical non-technical technical non	0
+2901	technical	technical non-technical technical non	0
+2902	technical	technical non-technical technical non	0
+2903	technical	technical non-technical technical non	0
+2906	technical	technical non-technical technical non	0
+2907	technical	non-technical	1
+2912	technical	technical   The next sentence is: I'm	0
+2913	technical	technical EXPLANATION:  The sentence is	0
+2915	technical	technical EXPLANATION: The sentence is	0
+2924	technical	technical	0
+2930	technical	technical EXPLANATION: The sentence is classified	0
+2934	technical	technical	0
+2941	technical	non-technical   Note: The sentence is	1
+2942	technical	technical non-technical technical non	0
+2945	technical	technical  non-technical  technical  non	0
+2947	technical	technical	0
+2950	technical	technical non-technical technical non	0
+2951	technical	technical	0
+2954	technical	technical EXPLANATION: The sentence is	0
+2958	technical	technical	0
+2965	technical	technical EXPLANATION: The sentence is technical	0
+2974	technical	technical non-technical technical non	0
+2976	technical	non-technical	1
+2979	technical	technical non-technical technical non	0
+2982	technical	technical non-technical humility	0
+2984	technical	non-technical EXPLANATION: The sentence	1
+2992	technical	technical	0
+2999	technical	technical	0
+3000	technical	technical	0
+3006	technical	technical EXPLANATION: The sentence is	0
+3007	technical	technical non-technical technical non	0
+3017	technical	technical	0
+3021	technical	non-technical	1
+3029	technical	technical  non-technical  technical  non	0
+3037	technical	technical  non-technical  other  (	0
+3038	technical	non-technical	1
+3039	technical	non-technical REASON: The sentence demonstrates	1
+3040	technical	non-technical REASON: The sentence uses	1
+3046	technical	non-technical	1
+3056	technical	technical	0
+3059	technical	technical non-technical technical non	0
+3064	technical	technical non-technical technical non	0
+3066	technical	technical non-technical technical non	0
+3069	technical	technical	0
+3072	technical	technical non-technical technical non	0
+3079	technical	technical EXPLANATION: The sentence is technical	0
+3080	technical	technical	0
+3082	technical	technical non-technical technical non	0
+3087	technical	technical EXPLANATION: The sentence is technical	0
+3091	technical	technical EXPLANATION: The sentence is technical	0
+3096	technical	technical	0
+3099	technical	technical	0
+3101	technical	technical	0
+3103	technical	technical	0
+3106	technical	non-technical	1
+3115	technical	non-technical	1
+3118	technical	technical non-technical technical non	0
+3124	technical	non-technical	1
+3126	technical	technical EXPLANATION: The sentence is technical	0
+3127	technical	technical	0
+3129	technical	technical EXPLANATION: The sentence is technical	0
+3133	technical	technical non-technical technical non	0
+3135	technical	technical	0
+3143	technical	technical	0
+3144	technical	technical EXPLANATION: The sentence is technical	0
+3150	technical	technical EXPLANATION: The sentence is technical	0
+3161	technical	technical non-technical technical non	0
+3167	technical	technical EXPLANATION: The sentence is technical	0
+3173	technical	non-technical	1
+3177	technical	non-technical	1
+3187	technical	technical non-technical technical non	0
+3198	technical	technical	0
+3199	technical	now I'm not so sure.  I'd	-2
+3205	technical	technical EXPLANATION: The sentence is	0
+3219	technical	non-technical	1
+3222	technical	non-technical CLASS: technical CLASS:	1
+3224	technical	non-technical	1
+3225	technical	non-technical   Note: The text is	1
+3227	technical	technical non-technical technical non	0
+3228	technical	non-technical	1
+3235	technical	information was shared, and the changes were made with	-2
+3236	technical	technical non-technical technical non	0
+3237	technical	Technical Non-technical Technical Non	0
+3240	technical	non-technical	1
+3241	technical	technical	0
+3247	technical	non-technical	1
+3254	technical	technical	0
+3255	technical	non-technical	1
+3260	technical	non-technical EXPLANATION: The sentence	1
+3267	technical	non-technical	1
+3272	technical	non-technical	1
+3276	technical	believe is worth it. I'd like to point	-2
+3278	technical	technical EXPLANATION: The sentence is technical	0
+3285	technical	technical EXPLANATION: The sentence is technical	0
+3286	technical	technical	0
+3288	technical	non-technical	1
+3290	technical	technical non-technical technical non	0
+3292	technical	technical non-technical technical non	0
+3304	technical	technical	0
+3308	technical	technical EXPLANATION: The sentence is	0
+3309	technical	technical	0
+3314	technical	technical non-technical technical non	0
+3315	technical	non-technical	1
+3320	technical	technical EXPLANATION: The sentence is technical	0
+3324	technical	technical	0
+3325	technical	non-technical EXPLANATION: The sentence	1
+3338	technical	technical non-technical technical non	0
+3339	technical	technical	0
+3343	technical	technical   Please note that the user is using	0
+3345	technical	technical non-technical technical non	0
+3351	technical	non-technical	1
+3358	technical	What I am saying is that, in my experience	-2
+3359	technical	technical	0
+3370	technical	technical	0
+3373	technical	technical	0
+3380	technical	technical non-technical technical non	0
+3387	technical	non-technical	1
+3390	technical	technical non-technical technical non	0
+3396	technical	technical EXPLANATION: The sentence is	0
+3402	technical	technical non-technical technical non	0
+3404	technical	technical non-technical technical non	0
+3410	technical	non-technical	1
+3419	technical	non-technical CLASS: technical CLASS:	1
+3423	technical	technical non-technical technical non	0
+3429	technical	non-technical	1
+3434	technical	technical non-technical technical non	0
+3435	technical	technical EXPLANATION: The sentence is	0
+3440	technical	technical non-technical technical technical	0
+3446	technical	technical	0
+3449	technical	technical The sentence is classified as 'technical'	0
+3451	technical	technical EXPLANATION: The sentence is classified	0
+3452	technical	technical	0
+3455	technical	technical	0
+3461	technical	technical	0
+3462	technical	technical	0
+3468	technical	non-technical	1
+3469	technical	technical	0
+3470	technical	technical EXPLANATION: The sentence is technical	0
+3472	technical	technical non-technical technical non	0
+3478	technical	non-technical	1
+3482	technical	technical	0
+3492	technical	technical	0
+3493	technical	technical EXPLANATION: The sentence is technical	0
+3495	technical	non-technical CLASS: technical CLASS:	1
+3498	technical	non-technical	1
+3503	technical	technical non-technical technical non	0
+3510	technical	non-technical	1
+3511	technical	technical non-technical technical non	0
+3513	technical	technical EXPLANATION: The sentence is technical	0
+3516	technical	technical	0
+3522	technical	technical	0
+3524	technical	technical EXPLANATION: The sentence is technical	0
+3535	technical	non-technical	1
+3536	technical	technical EXPLANATION: The sentence is technical	0
+3537	technical	technical	0
+3541	technical	non-technical	1
+3542	technical	non-technical	1
+3544	technical	technical	0
+3553	technical	technical	0
+3557	technical	technical non-technical technical non	0
+3559	technical	non-technical	1
+3562	technical	Technical   Please note that the text is written	0
+3565	technical	technical TYPE: non-technical EXPLAN	0
+3585	technical	technical non-technical technical non	0
+3587	technical	non-technical	1
+3588	technical	technical	0
+3589	technical	non-technical	1
+3600	technical	technical	0
+3604	technical	technical non-technical technical non	0
+3608	technical	non-technical	1
+3612	technical	technical	0
+3613	technical	non-technical	1
+3614	technical	technical	0
+3616	technical	technical non-technical technical non	0
+3617	technical	technical non-technical technical non	0
+3619	technical	technical non-technical technical non	0
+3620	technical	non-technical	1
+3625	technical	technical non-technical technical non	0
+3629	technical	technical non-technical technical non	0
+3630	technical	technical non-technical technical non	0
+3633	technical	technical non-technical technical non	0
+3640	technical	technical	0
+3642	technical	non-technical	1
+3644	technical	technical non-technical technical non	0
+3654	technical	technical non-technical technical non	0
+3658	technical	technical non-technical technical non	0
+3663	technical	technical	0
+3666	technical	technical	0
+3670	technical	technical non-technical technical non	0
+3674	technical	technical	0
+3675	technical	technical The Norton anti-virus software is a	0
+3678	technical	technical non-technical technical non	0
+3680	technical	technical	0
+3682	technical	technical	0
+3685	technical	technical non-technical technical non	0
+3690	technical	technical	0
+3698	technical	non-technical	1
+3699	technical	technical EXPLANATION: The sentence is	0
+3701	technical	technical EXPLANATION: The sentence is technical	0
+3714	technical	technical	0
+3724	technical	technical	0
+3729	technical	technical	0
+3740	technical	non-technical	1
+3745	technical	non-technical REASON: The sentence uses	1
+3747	technical	non-technical	1
+3749	technical	technical	0
+3750	technical	technical non-technical technical non	0
+3752	technical	technical EXPLANATION: The sentence is	0
+3762	technical	technical	0
+3764	technical	technical EXPLANATION: The sentence is technical	0
+3765	technical	non-technical	1
+3768	technical	technical	0
+3770	technical	technical	0
+3795	technical	technical non-technical technical non	0
+3804	technical	technical	0
+3805	technical	technical EXPLANATION: The sentence is technical	0
+3811	technical	technical	0
+3812	technical	technical non-technical technical non	0
+3813	technical	technical	0
+3840	technical	non-technical	1
+3843	technical	technical	0
+3845	technical	non-technical	1
+3855	technical	technical EXPLANATION: The sentence is technical	0
+3863	technical	technical	0
+3864	technical	technical non-technical technical non	0
+3869	technical	technical non-technical technical non	0
+3877	technical	non-technical	1
+3881	technical	non-technical CLASS: technical CLASS:	1
+3887	technical	non-technical	1
+3891	technical	non-technical CLASS: technical CLASS:	1
+3898	technical	technical	0
+3903	technical	technical non-technical technical non	0
+3904	technical	technical	0
+3911	technical	technical non-technical technical non	0
+3912	technical	non-technical	1
+3914	technical	technical	0
+3916	technical	non-technical REASON: The sentence uses	1
+3924	technical	non-technical	1
+3930	technical	non-technical EXPLANATION: The sentence	1
+3931	technical	technical	0
+3934	technical	non-technical	1
+3937	technical	technical non-technical technical non	0
+3940	technical	technical non-technical technical non	0
+3943	technical	technical	0
+3945	technical	technical	0
+3959	technical	technical EXPLANATION: The sentence is technical	0
+3965	technical	technical	0
+3966	technical	technical non-technical technical non	0
+3980	technical	non-technical	1
+3986	technical	technical	0
+3991	technical	technical  non-technical  technical  non	0
+4008	technical	technical non-technical technical non	0
+4011	technical	technical	0
+4015	technical	non-technical EXPLANATION: The sentence	1
+4018	technical	technical non-technical technical non	0
+4019	technical	technical   Please note that the classification of the	0
+4022	technical	technical	0
+4031	technical	technical	0
+4044	technical	technical	0
+4052	technical	technical	0
+4058	technical	technical non-technical technical non	0
+4068	technical	non-technical	1
+4081	technical	technical non-technical technical non	0
+4091	technical	technical non-technical technical non	0
+4093	technical	technical	0
+4111	technical	non-technical	1
+4120	technical	technical	0
+4130	technical	technical EXPLANATION: The sentence is technical	0
+4137	technical	technical non-technical technical non	0
+4142	technical	technical non-technical technical non	0
+4149	technical	technical non-technical technical non	0
+4151	technical	technical	0
+4155	technical	technical	0
+4159	technical	technical The sentence is classified as 'technical'	0
+4161	technical	technical EXPLANATION: The sentence is technical	0
+4168	technical	technical	0
+4175	technical	technical	0
+4182	technical	technical non-technical technical non	0
+4186	technical	technical non-technical technical non	0
+4189	technical	technical	0
+4195	technical	non-technical	1
+4197	technical	technical non-technical technical non	0
+4201	technical	technical EXPLANATION:  The given sentence	0
+4210	technical	someone else, I find that I have to explain	-2
+4213	technical	non-technical	1
+4225	technical	technical non-technical technical non	0
+4229	technical	technical	0
+4232	technical	technical non-technical technical non	0
+4235	technical	non-technical	1
+4238	technical	technical non-technical technical non	0
+4247	technical	non-technical	1
+4258	technical	technical	0
+4265	technical	technical non-technical technical non	0
+4274	technical	comment.  The only other solution that comes to	-2
+4275	technical	non-technical EXPLANATION: The sentence	1
+4283	technical	technical	0
+4285	technical	technical	0
+4288	technical	technical non-technical technical non	0
+4291	technical	non-technical	1
+4299	technical	technical	0
+4300	technical	technical	0
+4302	technical	technical	0
+4304	technical	technical	0
+4306	technical	technical	0
+4310	technical	technical	0
+4311	technical	technical	0
+4314	technical	technical	0
+4318	technical	technical	0
+4324	technical	technical	0
+4326	technical	technical	0
+4332	technical	technical	0
+4338	technical	technical	0
+4339	technical	technical	0
+4343	technical	technical	0
+4345	technical	technical	0
+4346	technical	technical	0
+4353	technical	technical	0
+4354	technical	technical	0
+4356	technical	technical	0
+4359	technical	technical	0
+4367	technical	technical	0
+4370	technical	technical	0
+4374	technical	technical	0
+4376	technical	technical	0
+4380	technical	technical	0
+4386	technical	technical	0
+4393	technical	non-technical	1
+4395	technical	technical	0
+4402	technical	technical non-technical technical non	0
+4410	technical	technical	0
+4411	technical	technical	0
+4417	technical	technical non-technical technical technical	0
+4429	technical	non-technical	1
+4436	technical	technical EXPLANATION: The sentence is technical	0
+4444	technical	technical	0
+4445	technical	non-technical  technical  non-technical	1
+4450	technical	technical	0
+4453	technical	technical non-technical technical non	0
+4457	technical	technical	0
+4465	technical	technical	0
+4466	technical	technical non-technical technical non	0
+4468	technical	non-technical CLASS: technical CLASS:	1
+4480	technical	technical	0
+4492	technical	technical	0
+4498	technical	technical	0
+4509	technical	non-technical	1
+4512	technical	technical	0
+4528	technical	technical	0
+4531	technical	technical	0
+4532	technical	technical   Please note that the sentence is not	0
+4548	technical	and help me out here.   technical non	0
+4557	technical	technical	0
+4576	technical	technical	0
+4581	technical	technical	0
+4583	technical	technical	0
+4590	technical	non-technical	1
+4593	technical	technical	0
+4594	technical	non-technical	1
+4597	technical	technical non-technical technical non	0
+4600	technical	technical	0
+4601	technical	technical	0
+4619	technical	non-technical	1
+4620	technical	technical	0
+4623	technical	non-technical	1
+4633	technical	technical non-technical technical non	0
+4636	technical	technical non-technical technical non	0
+4637	technical	technical non-technical technical non	0
+4642	technical	technical non-technical technical non	0
+4653	technical	technical	0
+4656	technical	technical non-technical technical non	0
+4659	technical	non-technical	1
+4660	technical	technical non-technical technical non	0
+4661	technical	technical	0
+4663	technical	technical non-technical technical non	0
+4664	technical	technical	0
+4667	technical	technical non-technical technical non	0
+4682	technical	technical	0
+4692	technical	non-technical EXPLANATION: The sentence	1
+4698	technical	technical	0
+4701	technical	non-technical	1
+4710	technical	non-technical	1
+4712	technical	technical non-technical technical non	0
+4715	technical	non-technical	1
+4716	technical	non-technical CLASSIFICATION:  technical	1
+4719	technical	non-technical EXPLANATION: The	1
+4723	technical	non-technical EXPLANATION: The	1
+4733	technical	non-technical	1
+4734	technical	technical	0
+4737	technical	undling the extension's display name from the search	-2
+4739	technical	technical non-technical technical non	0
+4748	technical	technical non-technical technical non	0
+4751	technical	technical non-technical technical non	0
+4760	technical	non-technical	1
+4766	technical	technical EXPLANATION: The sentence is technical	0
+4779	technical	technical non-technical technical non	0
+4780	technical	in the server having an outdated view of the document	-2
+4781	technical	technical	0
+4789	technical	technical	0
+4795	technical	technical EXPLANATION: The sentence is technical	0
+4800	technical	technical non-technical technical non	0
+4804	technical	non-technical REASON: The sentence is	1
+4805	technical	technical non-technical technical non	0
+4810	technical	technical	0
+4814	technical	technical	0
+4822	technical	non-technical	1
+4826	technical	technical	0
+4827	technical	technical  non-technical  technical  non	0
+4830	technical	technical	0
+4838	technical	technical  non-technical  technical  non	0
+4841	technical	technical	0
+4850	technical	technical EXPLANATION: The sentence is	0
+4855	technical	non-technical   Note: The text is	1
+4860	technical	technical	0
+4867	technical	non-technical	1
+4879	technical	non-technical	1
+4886	technical	technical non-technical technical non	0
+4887	technical	technical	0
+4888	technical	technical	0
+4889	technical	technical non-technical technical non	0
+4891	technical	non-technical	1
+4897	technical	"It means that existing users won't get accidental	-2
+4903	technical	technical	0
+4904	technical	technical The Angular repository is not using L	0
+4905	technical	technical   Please note that the text is from	0
+4912	technical	technical	0
+4916	technical	non-technical	1
+4917	technical	non-technical	1
+4920	technical	technical non-technical technical non	0
+4922	technical	non-technical	1
+4935	technical	technical The sentence is classified as 'technical'	0
+4944	technical	technical non-technical technical non	0
+4945	technical	technical EXPLANATION: The sentence is technical	0
+4947	technical	non-technical EXPLANATION: The sentence	1
+4948	technical	You've been the one who's been pushing the	-2
+4952	technical	technical	0
+4953	technical	non-technical	1
+4966	technical	technical	0
+4967	technical	non-technical	1
+4972	technical	technical  non-technical  technical  non	0
+4977	technical	technical non-technical technical non	0
+4989	technical	technical	0
+5002	technical	technical EXPLANATION: The sentence is technical	0
+5003	technical	technical non-technical technical non	0
+5011	technical	technical	0
+5013	technical	technical	0
+5014	technical	technical	0
+5017	technical	technical	0
+5022	technical	non-technical REASON: The sentence includes	1
+5026	technical	technical EXPLANATION: The sentence is technical	0
+5027	technical	non-technical The sentence is classified as non	1
+5037	technical	technical non-technical technical non	0
+5043	technical	technical	0
+5055	technical	non-technical	1
+5059	technical	non-technical	1
+5060	technical	technical	0
+5061	technical	technical non-technical technical non	0
+5078	technical	technical	0
+5079	technical	technical	0
+5092	technical	non-technical	1
+5097	technical	non-technical	1
+5099	technical	technical   Please note that the text is written	0
+5101	technical	technical non-technical technical non	0
+5113	technical	non-technical	1
+5114	technical	technical   Please note that the text is from	0
+5116	technical	non-technical EXPLANATION: The sentence	1
+5119	technical	technical	0
+5127	technical	technical non-technical technical non	0
+5132	technical	technical	0
+5133	technical	non-technical	1
+5136	technical	technical non-technical technical non	0
+5137	technical	non-technical	1
+5140	technical	Technical Non-Technical Technical Non	0
+5141	technical	non-technical	1
+5143	technical	non-technical	1
+5144	technical	technical	0
+5148	technical	technical	0
+5152	technical	technical	0
+5153	technical	non-technical	1
+5158	technical	non-technical	1
+5160	technical	non-technical The sentence is classified as non	1
+5161	technical	non-technical	1
+5170	technical	non-technical	1
+5183	technical	non-technical	1
+5184	technical	technical non-technical technical non	0
+5185	technical	non-technical	1
+5189	technical	technical	0
+5190	technical	technical non-technical technical non	0
+5192	technical	technical EXPLANATION: The sentence is technical	0
+5195	technical	technical non-technical technical non	0
+5197	technical	non-technical	1
+5209	technical	technical non-technical technical non	0
+5219	technical	technical   Please note that the classification of the	0
+5220	technical	technical	0
+5221	technical	technical	0
+5224	technical	technical non-technical technical non	0
+5231	technical	technical non-technical technical non	0
+5236	technical	technical non-technical technical non	0
+5237	technical	non-technical	1
+5240	technical	non-technical	1
+5241	technical	technical EXPLANATION: The sentence is technical	0
+5256	technical	technical EXPLANATION:  The sentence is	0
+5258	technical	technical	0
+5260	technical	technical/non-technical  technical non-technical	0
+5269	technical	technical non-technical technical non	0
+5272	technical	technical non-technical technical non	0
+5277	technical	technical EXPLANATION: The sentence is	0
+5282	technical	technical   Please note that the response is based	0
+5284	technical	technical The next sentence is:  The team	0
+5297	technical	technical EXPLANATION: The sentence is technical	0
+5301	technical	use Web Api 2, we need to be	-2
+5302	technical	technical non-technical technical non	0
+5308	technical	technical non-technical technical non	0
+5314	technical	technical non-technical technical non	0
+5315	technical	non-technical The sentence is classified as non	1
+5324	technical	technical	0
+5329	technical	technical The sentence is classified as 'technical'	0
+5335	technical	technical  non-technical  technical  non	0
+5336	technical	technical non-technical technical non	0
+5340	technical	technical	0
+5341	technical	technical  non-technical  technical  non	0
+5345	technical	technical	0
+5356	technical	technical non-technical technical non	0
+5357	technical	technical non-technical technical non	0
+5359	technical	technical	0
+5365	technical	technical EXPLANATION: The sentence is	0
+5369	technical	non-technical	1
+5379	technical	technical non-technical technical non	0
+5382	technical	non-technical	1
+5383	technical	technical vscode atom ftp	0
+5390	technical	technical	0
+5391	technical	technical EXPLANATION: The sentence is classified	0
+5393	technical	technical EXPLANATION: The sentence contains several	0
+5394	technical	technical EXPLANATION: The sentence is classified	0
+5395	technical	technical   Please note that the sentence is not	0
+5400	technical	technical The sentence is classified as technical because it	0
+5405	technical	technical	0
+5410	technical	technical	0
+5411	technical	technical non-technical technical non	0
+5416	technical	technical non-technical technical non	0
+5417	technical	technical	0
+5422	technical	non-technical	1
+5426	technical	non-technical   However, if you are	1
+5439	technical	technical EXPLANATION: The sentence is technical	0
+5444	technical	technical	0
+5445	technical	technical The sentence is technical because it does not	0
+5447	technical	technical EXPLANATION: The sentence is technical	0
+5448	technical	technical	0
+5464	technical	technical	0
+5467	technical	non-technical	1
+5469	technical	non-technical	1
+5471	technical	technical non-technical technical non	0
+5472	technical	technical non-technical technical non	0
+5475	technical	technical	0
+5479	technical	non-technical	1
+5482	technical	technical	0
+5483	technical	technical non-technical technical non	0
+5488	technical	technical	0
+5494	technical	technical	0
+5501	technical	technical non-technical technical non	0
+5502	technical	technical EXPLANATION: The sentence is technical	0
+5506	technical	non-technical	1
+5510	technical	than with Web API. I'm not saying that	-2
+5513	technical	technical	0
+5516	technical	technical non-technical technical non	0
+5521	technical	performance.  -  -  -  -	-2
+5526	technical	a great way to accelerate tensorflow on GPU's and	-2
+5534	technical	technical non-technical technical non	0
+5539	technical	technical non-technical technical non	0
+5552	technical	technical	0
+5558	technical	non-technical   Note: The sentence is	1
+5561	technical	technical	0
+5576	technical	technical EXPLANATION: The sentence is classified	0
+5578	technical	technical non-technical technical non	0
+5584	technical	technical	0
+5591	technical	technical	0
+5592	technical	technical EXPLANATION: The sentence is	0
+5596	technical	technical non-technical technical non	0
+5618	technical	technical non-technical technical non	0
+5631	technical	non-technical	1
+5632	technical	technical non-technical technical non	0
+5636	technical	non-technical	1
+5637	technical	non-technical	1
+5642	technical	technical EXPLANATION: The sentence is technical	0
+5646	technical	technical non-technical technical non	0
+5647	technical	technical EXPLANATION: The sentence is technical	0
+5654	technical	technical	0
+5655	technical	technical non-technical technical non	0
+5664	technical	technical non-technical technical non	0
+5666	technical	non-technical	1
+5667	technical	However, the Yarn v1 binary is still	-2
+5672	technical	technical non-technical technical non	0
+5678	technical	non-technical EXPLANATION: The	1
+5680	technical	technical non-technical technical non	0
+5683	technical	non-technical	1
+5689	technical	non-technical	1
+5692	technical	technical non-technical technical non	0
+5696	technical	technical	0
+5698	technical	technical non-technical technical non	0
+5699	technical	technical	0
+5714	technical	non-technical	1
+5733	technical	technical	0
+5739	technical	technical	0
+5746	technical	non-technical	1
+5749	technical	technical non-technical technical non	0
+5750	technical	technical	0
+5755	technical	technical  non-technical  technical  non	0
+5762	technical	technical non-technical technical non	0
+5766	technical	non-technical	1
+5773	technical	technical non-technical technical non	0
+5779	technical	technical	0
+5780	technical	technical	0
+5786	technical	non-technical CLASS: technical CLASS:	1
+5790	technical	technical	0
+5791	technical	technical EXPLANATION: The sentence is technical	0
+5794	technical	technical EXPLANATION: The sentence is	0
+5803	technical	a poor man's JSX.   technical non	0
+5809	technical	technical	0
+5814	technical	non-technical	1
+5816	technical	technical non-technical technical non	0
+5820	technical	technical	0
+5822	technical	non-technical   Note: The text is	1
+5829	technical	non-technical	1
+5830	technical	Technical NON-TECHNICAL	0
+5832	technical	technical non-technical technical non	0
+5833	technical	technical non-technical technical non	0
+5837	technical	technical	0
+5839	technical	technical	0
+5844	technical	technical	0
+5856	technical	technical	0
+5865	technical	technical non-technical technical non	0
+5870	technical	technical EXPLANATION: The sentence is technical	0
+5871	technical	technical	0
+5873	technical	technical EXPLANATION: The sentence is technical	0
+5875	technical	technical	0
+5880	technical	technical EXPLANATION: The sentence is technical	0
+5882	technical	technical non-technical technical non	0
+5893	non-technical	non-technical EXPLANATION: The sentence	1
+5895	non-technical	technical	0
+5902	non-technical	technical	0
+5905	non-technical	technical non-technical technical non	0
+5912	non-technical	non-technical	1
+5913	non-technical	technical non-technical technical non	0
+5924	non-technical	non-technical	1
+5928	non-technical	technical non-technical technical non	0
+5931	non-technical	technical non-technical technical non	0
+5935	non-technical	technical EXPLANATION:  The sentence is	0
+5936	non-technical	non-technical	1
+5939	non-technical	technical EXPLANATION: The sentence is technical	0
+5941	non-technical	technical	0
+5944	non-technical	technical	0
+5956	non-technical	non-technical EXPLANATION: The	1
+5967	non-technical	technical EXPLANATION: The sentence is technical	0
+5968	non-technical	technical non-technical technical non	0
+5970	non-technical	non-technical	1
+5984	non-technical	technical non-technical technical non	0
+5987	non-technical	non-technical REASON: The sentence uses	1
+5991	non-technical	non-technical	1
+5993	non-technical	X is not the only thing that can be used	-2
+5997	non-technical	non-technical CLASS: technical CLASS:	1
+5999	non-technical	non-technical	1
+6000	non-technical	technical	0
+6002	non-technical	technical	0
+6007	non-technical	technical non-technical technical non	0
+6015	non-technical	non-technical	1
+6016	non-technical	Why do you need to know the original filename?	-2
+6023	non-technical	technical	0
+6029	non-technical	non-technical	1
+6030	non-technical	technical non-technical technical non	0
+6037	non-technical	technical non-technical technical non	0
+6041	non-technical	your report.**   Classification: technical	0
+6044	non-technical	non-technical	1
+6048	non-technical	technical	0
+6052	non-technical	, and other features that are very valuable to enterprise	-2
+6054	non-technical	non-technical	1
+6058	non-technical	technical non-technical technical non	0
+6072	non-technical	technical	0
+6079	non-technical	non-technical	1
+6082	non-technical	technical	0
+6083	non-technical	technical non-technical technical non	0
+6088	non-technical	technical	0
+6090	non-technical	non-technical	1
+6091	non-technical	non-technical	1
+6093	non-technical	technical non-technical technical non	0
+6100	non-technical	non-technical	1
+6101	non-technical	technical non-technical technical non	0
+6105	non-technical	non-technical	1
+6115	non-technical	technical non-technical technical non	0
+6135	non-technical	technical	0
+6137	non-technical	technical	0
+6138	non-technical	technical non-technical technical non	0
+6145	non-technical	technical	0
+6146	non-technical	non-technical	1
+6151	non-technical	technical	0
+6153	non-technical	technical	0
+6159	non-technical	non-technical	1
+6162	non-technical	technical	0
+6163	non-technical	non-technical	1
+6164	non-technical	technical non-technical technical non	0
+6165	non-technical	non-technical	1
+6167	non-technical	non-technical	1
+6172	non-technical	technical	0
+6181	non-technical	technical EXPLANATION: The sentence is technical	0
+6191	non-technical	non-technical	1
+6199	non-technical	technical non-technical technical non	0
+6200	non-technical	technical non-technical technical non	0
+6202	non-technical	technical non-technical technical non	0
+6204	non-technical	technical non-technical technical non	0
+6214	non-technical	non-technical	1
+6220	non-technical	technical	0
+6222	non-technical	non-technical The sentence demonstrates moods	1
+6224	non-technical	technical	0
+6226	non-technical	technical non-technical technical non	0
+6230	non-technical	technical	0
+6231	non-technical	technical non-technical technical non	0
+6232	non-technical	technical non-technical technical non	0
+6237	non-technical	technical	0
+6240	non-technical	non-technical	1
+6243	non-technical	non-technical	1
+6244	non-technical	non-technical	1
+6247	non-technical	technical	0
+6252	non-technical	non-technical	1
+6262	non-technical	non-technical	1
+6264	non-technical	technical non-technical technical non	0
+6265	non-technical	non-technical	1
+6268	non-technical	non-technical	1
+6271	non-technical	technical non-technical technical non	0
+6275	non-technical	technical non-technical technical non	0
+6283	non-technical	non-technical	1
+6287	non-technical	technical	0
+6290	non-technical	technical	0
+6300	non-technical	technical	0
+6301	non-technical	technical non-technical technical non	0
+6324	non-technical	non-technical	1
+6325	non-technical	non-technical	1
+6334	non-technical	technical	0
+6342	non-technical	non-technical	1
+6345	non-technical	technical	0
+6346	non-technical	technical non-technical technical non	0
+6351	non-technical	technical non-technical technical non	0
+6353	non-technical	technical   Note: The tone of the sentence	0
+6354	non-technical	technical non-technical technical non	0
+6358	non-technical	technical	0
+6359	non-technical	technical non-technical technical non	0
+6368	non-technical	technical	0
+6374	non-technical	non-technical	1
+6376	non-technical	non-technical	1
+6377	non-technical	non-technical	1
+6382	non-technical	technical	0
+6390	non-technical	non-technical	1
+6397	non-technical	non-technical	1
+6399	non-technical	non-technical	1
+6403	non-technical	issue, and how much of my personal time and	-2
+6409	non-technical	technical non-technical technical non	0
+6433	non-technical	technical non-technical technical non	0
+6444	non-technical	technical non-technical technical non	0
+6446	non-technical	non-technical	1
+6449	non-technical	technical	0
+6466	non-technical	technical EXPLANATION: The sentence is technical	0
+6471	non-technical	non-technical	1
+6472	non-technical	technical	0
+6474	non-technical	technical non-technical technical non	0
+6476	non-technical	technical non-technical technical non	0
+6496	non-technical	technical non-technical technical non	0
+6502	non-technical	technical	0
+6503	non-technical	technical	0
+6504	non-technical	technical non-technical technical non	0
+6510	non-technical	non-technical	1
+6511	non-technical	non-technical	1
+6515	non-technical	technical  non-technical  technical  non	0
+6518	non-technical	technical non-technical technical non	0
+6530	non-technical	non-technical	1
+6534	non-technical	technical non-technical technical non	0
+6542	non-technical	non-technical	1
+6545	non-technical	non-technical	1
+6548	non-technical	non-technical	1
+6555	non-technical	non-technical	1
+6564	non-technical	technical non-technical technical non	0
+6567	non-technical	non-technical   Please note that the tone	1
+6570	non-technical	technical	0
+6573	non-technical	technical non-technical technical non	0
+6574	non-technical	technical non-technical technical non	0
+6577	non-technical	non-technical	1
+6592	non-technical	technical	0
+6594	non-technical	technical	0
