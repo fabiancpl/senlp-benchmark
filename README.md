@@ -1,6 +1,6 @@
 ## SELU: A Software Engineering Language Understanding Benchmark
 
-Source code to replicate the results reported in *F. Peña, S. Herbold, "SELU: A Software Engineering Language Understanding Benchmark," 2025*.
+Source code to replicate the results reported in *F. Peña, S. Herbold, "SELU: A Software Engineering Language Understanding Benchmark," 2026*.
 
 ### :memo: Abstract
 
@@ -8,7 +8,7 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in code u
 
 ### :card_index_dividers: Repository organization
 
-- `datasets`: Inventory of the 17 non-code SE tasks included in SELU and their respective datasets.
+- `datasets`: Inventory of the 22 non-code SE tasks included in SELU and their respective datasets.
 - `evaluation`: Scripts to fine-tune/prompt and evaluate the models on the different tasks.
 - `preprocessing`: Scripts to prepare the data previous to splitting and tokenization.
 - `utils`: Common functions used during pre-processing and evaluation.
@@ -20,13 +20,13 @@ All our experiments are run on a server with 8 NVIDIA A100 GPUs.
 ### :bookmark: Cite as
 
 ```
-@misc{peña2025selu,
+@misc{peña2026selu,
   title={SELU: A Software Engineering Language Understanding Benchmark}, 
   author={Fabian C. Peña and Steffen Herbold},
-  year={2025},
-  eprint={2506.10833},
+  year={2026},
+  eprint={2506.10833v2},
   archivePrefix={arXiv},
   primaryClass={cs.SE},
-  url={https://arxiv.org/abs/2506.10833}, 
+  url={https://arxiv.org/abs/2506.10833v2}, 
 }
 ```
