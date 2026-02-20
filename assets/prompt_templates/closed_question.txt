@@ -1,4 +1,0 @@
-In the context of software development community forums, clasify the next post as 'open', 'not a real question', 'off topic', 'not constructive' or 'too localized'. Answer only with the selected class without quotation marks.
-
-POST:
-{text}

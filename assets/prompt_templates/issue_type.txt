@@ -1,4 +1,0 @@
-In the context of software development repositories, clasify the next issue as 'bug', 'enhancement' or 'question'. Answer only with the selected class without quotation marks.
-
-ISSUE:
-{text}

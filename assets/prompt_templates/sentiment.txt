@@ -1,4 +1,0 @@
-In the context of software development community forums, clasify the next message as 'positive', 'negative' or 'neutral'. Answer only with the selected class without quotation marks.
-
-MESSAGE:
-{text}

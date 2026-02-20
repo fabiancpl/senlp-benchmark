@@ -1,4 +1,0 @@
-In the context of open source development platforms, clasify the next sentence as 'technical' or 'non-technical'. Answer only with the selected class without quotation marks.
-
-SENTENCE:
-{text}

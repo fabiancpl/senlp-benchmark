@@ -1,9 +1,0 @@
-In the context of software development community forums, clasify the next post as 'HQ', 'LQ_EDIT' or 'LQ_CLOSE'. Answer only with the selected class without quotation marks.
-
-The meaning of each class is as follows:
-HQ: High-quality posts without a single edit.
-LQ_EDIT: Low-quality posts with a negative score, and multiple community edits. However, they still remain open after those changes.
-LQ_CLOSE: Low-quality posts that were closed by the community without a single edit.
-
-POST:
-{text}

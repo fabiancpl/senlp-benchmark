@@ -1,5 +1,0 @@
-In the context of software codebases, clasify the next documentation as 'fragmented', 'tangled', 'excessive', 'bloated' or 'lazy'. It is possible to assign more than one class to a document. Answer only with the selected classes separated by semicolon (,) without quotation marks.
-
-
-DOCUMENT:
-{text}

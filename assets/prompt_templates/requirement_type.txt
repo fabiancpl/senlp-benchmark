@@ -1,4 +1,0 @@
-In the context of requirements analysis in software engineering, clasify the next requirement as 'functional' or 'non-functional'. Answer only with the selected class without quotation marks.
-
-REQUIREMENT:
-{text}

@@ -1,4 +1,0 @@
-In the context of software codebases, clasify the next comment sentence as 'keyimplementationpoints', 'example', 'responsibilities', 'classreferences', 'intent', 'keymessages' or 'collaborators'. It is possible to assign more than one class to a sentence. Answer only with the selected classes separated by semicolon (,) without quotation marks.
-
-COMMENT SENTENCE:
-{text}

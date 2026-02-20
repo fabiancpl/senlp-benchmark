@@ -1,5 +1,0 @@
-In the context of software development community forums, clasify the next post as 'Usability', 'Others', 'OnlySentiment', 'Bug', 'Performance', 'Community', 'Documentation', 'Compatibility', 'Legal', 'Portability' or 'Security'. It is possible to assign more than one class to a post. Answer only with the selected classes separated by semicolon (,) without quotation marks.
-
-
-POST:
-{text}
