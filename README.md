@@ -8,7 +8,7 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in code u
 
 ### :card_index_dividers: Repository organization
 
-- `datasets`: Inventory of the 17 non-code SE tasks included in SELU and their respective datasets.
+- `datasets`: Inventory of the 22 non-code SE tasks included in SELU and their respective datasets.
 - `evaluation`: Scripts to fine-tune/prompt and evaluate the models on the different tasks.
 - `preprocessing`: Scripts to prepare the data previous to splitting and tokenization.
 - `utils`: Common functions used during pre-processing and evaluation.
